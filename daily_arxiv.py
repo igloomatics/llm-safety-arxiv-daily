@@ -125,7 +125,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         
         try:
             # source code link    
-            r = requests.get(code_url).json()
+            r = requests.get(code_url, timeout=5).json()
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
@@ -155,6 +155,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
+            # Still add paper even if code link fetch fails
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})\n".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
 
     data = {topic:content}
     data_web = {topic:content_to_web}
