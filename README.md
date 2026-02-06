@@ -33,6 +33,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
 |**2026-02-04**|**Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment**|Youngjae Cho et.al.|[2602.04909](http://arxiv.org/abs/2602.04909)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
 |**2026-02-04**|**From Helpfulness to Toxic Proactivity: Diagnosing Behavioral Misalignment in LLM Agents**|Xinyue Wang et.al.|[2602.04197](http://arxiv.org/abs/2602.04197)|null|
@@ -51,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Polyglots or Multitudes? Multilingual LLM Answers to Value-laden Multiple-Choice Questions**|Léo Labat et.al.|[2602.05932](http://arxiv.org/abs/2602.05932)|null|
 |**2026-02-03**|**Data Verification is the Future of Quantum Computing Copilots**|Junhao Song et.al.|[2602.04072](http://arxiv.org/abs/2602.04072)|null|
 |**2026-02-03**|**RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish**|Süha Kağan Köse et.al.|[2602.03652](http://arxiv.org/abs/2602.03652)|null|
 |**2026-02-04**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
