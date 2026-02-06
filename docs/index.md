@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Learning to Inject: Automated Prompt Injection via Reinforcement Learning**|Xin Chen et.al.|[2602.05746](http://arxiv.org/abs/2602.05746)|null|
+|**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|Takashi Koide et.al.|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
+|**2026-02-04**|**Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks**|Jafar Isbarov et.al.|[2602.05066](http://arxiv.org/abs/2602.05066)|null|
 |**2026-02-04**|**How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks**|Yanshu Wang et.al.|[2602.04294](http://arxiv.org/abs/2602.04294)|null|
 |**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[2602.03792](http://arxiv.org/abs/2602.03792)|null|
 |**2026-02-03**|**AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System**|Hao Li et.al.|[2602.03117](http://arxiv.org/abs/2602.03117)|null|
@@ -22,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment**|Youngjae Cho et.al.|[2602.04909](http://arxiv.org/abs/2602.04909)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
 |**2026-02-04**|**From Helpfulness to Toxic Proactivity: Diagnosing Behavioral Misalignment in LLM Agents**|Xinyue Wang et.al.|[2602.04197](http://arxiv.org/abs/2602.04197)|null|
 |**2026-02-02**|**Entropy-Guided Dynamic Tokens for Graph-LLM Alignment in Molecular Understanding**|Zihao Jing et.al.|[2602.02742](http://arxiv.org/abs/2602.02742)|null|
@@ -39,7 +43,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-03**|**Data Verification is the Future of Quantum Computing Copilots**|Junhao Song et.al.|[2602.04072](http://arxiv.org/abs/2602.04072)|null|
 |**2026-02-03**|**RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish**|Süha Kağan Köse et.al.|[2602.03652](http://arxiv.org/abs/2602.03652)|null|
-|**2026-01-29**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
+|**2026-02-04**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
 |**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|Mohit Talreja et.al.|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
 |**2026-01-26**|**HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs**|Xinyue Zeng et.al.|[2601.18753](http://arxiv.org/abs/2601.18753)|null|
 |**2026-01-23**|**Do LLM hallucination detectors suffer from low-resource effect?**|Debtanu Datta et.al.|[2601.16766](http://arxiv.org/abs/2601.16766)|null|
