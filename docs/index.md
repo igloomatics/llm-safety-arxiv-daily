@@ -2,17 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**TrailBlazer: History-Guided Reinforcement Learning for Black-Box LLM Jailbreaking**|Sung-Hoon Yoon et.al.|[2602.06440](http://arxiv.org/abs/2602.06440)|null|
+|**2026-02-06**|**MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs**|Junhyeok Lee et.al.|[2602.06268](http://arxiv.org/abs/2602.06268)|null|
 |**2026-02-05**|**Learning to Inject: Automated Prompt Injection via Reinforcement Learning**|Xin Chen et.al.|[2602.05746](http://arxiv.org/abs/2602.05746)|null|
 |**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|Takashi Koide et.al.|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
 |**2026-02-04**|**Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks**|Jafar Isbarov et.al.|[2602.05066](http://arxiv.org/abs/2602.05066)|null|
 |**2026-02-04**|**How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks**|Yanshu Wang et.al.|[2602.04294](http://arxiv.org/abs/2602.04294)|null|
 |**2026-02-03**|**WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents**|Xilong Wang et.al.|[2602.03792](http://arxiv.org/abs/2602.03792)|null|
-|**2026-02-03**|**AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System**|Hao Li et.al.|[2602.03117](http://arxiv.org/abs/2602.03117)|null|
+|**2026-02-06**|**AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System**|Hao Li et.al.|[2602.03117](http://arxiv.org/abs/2602.03117)|null|
 |**2026-02-03**|**The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor Triggers**|Blake Bullwinkel et.al.|[2602.03085](http://arxiv.org/abs/2602.03085)|null|
 |**2026-02-02**|**Human Society-Inspired Approaches to Agentic AI Security: The 4C Framework**|Alsharif Abuadbba et.al.|[2602.01942](http://arxiv.org/abs/2602.01942)|null|
 |**2026-02-02**|**RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse**|Mingrui Liu et.al.|[2602.01795](http://arxiv.org/abs/2602.01795)|null|
