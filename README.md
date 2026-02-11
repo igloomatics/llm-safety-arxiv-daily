@@ -1,4 +1,4 @@
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Autonomous Action Runtime Management(AARM):A System Specification for Securing AI-Driven Actions at Runtime**|Herman Errico et.al.|[2602.09433](http://arxiv.org/abs/2602.09433)|null|
+|**2026-02-09**|**MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks**|Georgios Syros et.al.|[2602.09222](http://arxiv.org/abs/2602.09222)|null|
 |**2026-02-09**|**When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**|Yuting Ning et.al.|[2602.08995](http://arxiv.org/abs/2602.08995)|null|
 |**2026-02-08**|**Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation**|Shayan Ali Hassan et.al.|[2602.08062](http://arxiv.org/abs/2602.08062)|null|
 |**2026-02-08**|**CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution**|Minbeom Kim et.al.|[2602.07918](http://arxiv.org/abs/2602.07918)|null|
@@ -35,7 +37,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -44,11 +46,11 @@
 |**2026-02-08**|**Fairness Aware Reward Optimization**|Ching Lam Choi et.al.|[2602.07799](http://arxiv.org/abs/2602.07799)|null|
 |**2026-02-07**|**Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models**|Yixuan Liu et.al.|[2602.07539](http://arxiv.org/abs/2602.07539)|null|
 |**2026-02-09**|**f-GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
-|**2026-02-04**|**Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment**|Youngjae Cho et.al.|[2602.04909](http://arxiv.org/abs/2602.04909)|null|
+|**2026-02-10**|**Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment**|Youngjae Cho et.al.|[2602.04909](http://arxiv.org/abs/2602.04909)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
 |**2026-02-04**|**From Helpfulness to Toxic Proactivity: Diagnosing Behavioral Misalignment in LLM Agents**|Xinyue Wang et.al.|[2602.04197](http://arxiv.org/abs/2602.04197)|null|
 |**2026-02-02**|**Entropy-Guided Dynamic Tokens for Graph-LLM Alignment in Molecular Understanding**|Zihao Jing et.al.|[2602.02742](http://arxiv.org/abs/2602.02742)|null|
-|**2026-02-02**|**Reward-free Alignment for Conflicting Objectives**|Peter Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
+|**2026-02-09**|**Reward-free Alignment for Conflicting Objectives**|Peter L. Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
 |**2026-02-02**|**Nearly Optimal Active Preference Learning and Its Application to LLM Alignment**|Yao Zhao et.al.|[2602.01581](http://arxiv.org/abs/2602.01581)|null|
 |**2026-01-29**|**Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?**|Ala N. Tak et.al.|[2601.22329](http://arxiv.org/abs/2601.22329)|null|
 |**2026-01-26**|**One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment**|Hongru Cai et.al.|[2601.18731](http://arxiv.org/abs/2601.18731)|null|
@@ -56,7 +58,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -74,7 +76,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -91,5 +93,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
