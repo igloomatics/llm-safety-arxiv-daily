@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
+|**2026-02-11**|**When Skills Lie: Hidden-Comment Injection in LLM Agents**|Qianli Wang et.al.|[2602.10498](http://arxiv.org/abs/2602.10498)|null|
+|**2026-02-11**|**Protecting Context and Prompts: Deterministic Security for Non-Deterministic AI**|Mohan Rajagopalan et.al.|[2602.10481](http://arxiv.org/abs/2602.10481)|null|
+|**2026-02-11**|**The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis**|Peiran Wang et.al.|[2602.10453](http://arxiv.org/abs/2602.10453)|null|
 |**2026-02-10**|**Autonomous Action Runtime Management(AARM):A System Specification for Securing AI-Driven Actions at Runtime**|Herman Errico et.al.|[2602.09433](http://arxiv.org/abs/2602.09433)|null|
 |**2026-02-09**|**MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks**|Georgios Syros et.al.|[2602.09222](http://arxiv.org/abs/2602.09222)|null|
 |**2026-02-09**|**When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**|Yuting Ning et.al.|[2602.08995](http://arxiv.org/abs/2602.08995)|null|
@@ -41,7 +45,7 @@ layout: default
 |**2026-02-10**|**Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment**|Youngjae Cho et.al.|[2602.04909](http://arxiv.org/abs/2602.04909)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
 |**2026-02-04**|**From Helpfulness to Toxic Proactivity: Diagnosing Behavioral Misalignment in LLM Agents**|Xinyue Wang et.al.|[2602.04197](http://arxiv.org/abs/2602.04197)|null|
-|**2026-02-02**|**Entropy-Guided Dynamic Tokens for Graph-LLM Alignment in Molecular Understanding**|Zihao Jing et.al.|[2602.02742](http://arxiv.org/abs/2602.02742)|null|
+|**2026-02-11**|**Entropy-Guided Dynamic Tokens for Graph-LLM Alignment in Molecular Understanding**|Zihao Jing et.al.|[2602.02742](http://arxiv.org/abs/2602.02742)|null|
 |**2026-02-09**|**Reward-free Alignment for Conflicting Objectives**|Peter L. Chen et.al.|[2602.02495](http://arxiv.org/abs/2602.02495)|null|
 |**2026-02-02**|**Nearly Optimal Active Preference Learning and Its Application to LLM Alignment**|Yao Zhao et.al.|[2602.01581](http://arxiv.org/abs/2602.01581)|null|
 |**2026-01-29**|**Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?**|Ala N. Tak et.al.|[2601.22329](http://arxiv.org/abs/2601.22329)|null|
@@ -70,6 +74,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Training-Induced Bias Toward LLM-Generated Content in Dense Retrieval**|William Xion et.al.|[2602.10833](http://arxiv.org/abs/2602.10833)|null|
 |**2026-01-26**|**PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation**|Abhishek Divekar et.al.|[2601.18777](http://arxiv.org/abs/2601.18777)|null|
 |**2026-01-28**|**Common to Whom? Regional Cultural Commonsense and LLM Bias in India**|Sangmitra Madhusudan et.al.|[2601.15550](http://arxiv.org/abs/2601.15550)|null|
 |**2026-01-08**|**Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection**|Zhiwei Liu et.al.|[2601.05403](http://arxiv.org/abs/2601.05403)|null|
