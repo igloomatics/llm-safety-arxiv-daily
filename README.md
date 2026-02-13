@@ -49,6 +49,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterative Dynamics**|Yurong Chen et.al.|[2602.12180](http://arxiv.org/abs/2602.12180)|null|
+|**2026-02-12**|**Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment**|Jiajun Chen et.al.|[2602.12134](http://arxiv.org/abs/2602.12134)|null|
 |**2026-02-11**|**Evaluating Alignment of Behavioral Dispositions in LLMs**|Amir Taubenfeld et.al.|[2602.11328](http://arxiv.org/abs/2602.11328)|null|
 |**2026-02-08**|**Fairness Aware Reward Optimization**|Ching Lam Choi et.al.|[2602.07799](http://arxiv.org/abs/2602.07799)|null|
 |**2026-02-07**|**Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models**|Yixuan Liu et.al.|[2602.07539](http://arxiv.org/abs/2602.07539)|null|
