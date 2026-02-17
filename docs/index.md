@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift**|Max Fomin et.al.|[2602.14161](http://arxiv.org/abs/2602.14161)|null|
+|**2026-02-14**|**AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks**|Yuqi Jia et.al.|[2602.13597](http://arxiv.org/abs/2602.13597)|null|
+|**2026-02-13**|**OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage**|Akshat Naik et.al.|[2602.13477](http://arxiv.org/abs/2602.13477)|null|
 |**2026-02-12**|**Sparse Autoencoders are Capable LLM Jailbreak Mitigators**|Yannick Assogba et.al.|[2602.12418](http://arxiv.org/abs/2602.12418)|null|
 |**2026-02-11**|**Optimizing Agent Planning for Security and Autonomy**|Aashish Kolluri et.al.|[2602.11416](http://arxiv.org/abs/2602.11416)|null|
 |**2026-02-11**|**Peak + Accumulation: A Proxy-Level Scoring Formula for Multi-Turn LLM Attack Detection**|J Alex Corll et.al.|[2602.11247](http://arxiv.org/abs/2602.11247)|null|
@@ -42,6 +45,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-14**|**Elo-Evolve: A Co-evolutionary Framework for Language Model Alignment**|Jing Zhao et.al.|[2602.13575](http://arxiv.org/abs/2602.13575)|null|
+|**2026-02-14**|**Mitigating the Safety-utility Trade-off in LLM Alignment via Adaptive Safe Context Learning**|Yanbo Wang et.al.|[2602.13562](http://arxiv.org/abs/2602.13562)|null|
 |**2026-02-12**|**How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterative Dynamics**|Yurong Chen et.al.|[2602.12180](http://arxiv.org/abs/2602.12180)|null|
 |**2026-02-12**|**Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment**|Jiajun Chen et.al.|[2602.12134](http://arxiv.org/abs/2602.12134)|null|
 |**2026-02-11**|**Evaluating Alignment of Behavioral Dispositions in LLMs**|Amir Taubenfeld et.al.|[2602.11328](http://arxiv.org/abs/2602.11328)|null|
