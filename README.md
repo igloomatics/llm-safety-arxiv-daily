@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement**|Xiaojun Jia et.al.|[2602.14211](http://arxiv.org/abs/2602.14211)|null|
 |**2026-02-15**|**When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift**|Max Fomin et.al.|[2602.14161](http://arxiv.org/abs/2602.14161)|null|
 |**2026-02-14**|**AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks**|Yuqi Jia et.al.|[2602.13597](http://arxiv.org/abs/2602.13597)|null|
 |**2026-02-13**|**OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage**|Akshat Naik et.al.|[2602.13477](http://arxiv.org/abs/2602.13477)|null|
@@ -53,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning**|Zhi Zhang et.al.|[2602.14338](http://arxiv.org/abs/2602.14338)|null|
 |**2026-02-14**|**Elo-Evolve: A Co-evolutionary Framework for Language Model Alignment**|Jing Zhao et.al.|[2602.13575](http://arxiv.org/abs/2602.13575)|null|
 |**2026-02-14**|**Mitigating the Safety-utility Trade-off in LLM Alignment via Adaptive Safe Context Learning**|Yanbo Wang et.al.|[2602.13562](http://arxiv.org/abs/2602.13562)|null|
 |**2026-02-12**|**How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterative Dynamics**|Yurong Chen et.al.|[2602.12180](http://arxiv.org/abs/2602.12180)|null|
@@ -79,6 +81,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Detecting LLM Hallucinations via Embedding Cluster Geometry: A Three-Type Taxonomy with Measurable Signatures**|Matic Korun et.al.|[2602.14259](http://arxiv.org/abs/2602.14259)|null|
 |**2026-02-12**|**Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication**|Antonin Sulc et.al.|[2602.12083](http://arxiv.org/abs/2602.12083)|null|
 |**2026-01-18**|**Visualizing and Benchmarking LLM Factual Hallucination Tendencies via Internal State Analysis and Clustering**|Nathan Mao et.al.|[2602.11167](http://arxiv.org/abs/2602.11167)|null|
 |**2026-02-05**|**Polyglots or Multitudes? Multilingual LLM Answers to Value-laden Multiple-Choice Questions**|Léo Labat et.al.|[2602.05932](http://arxiv.org/abs/2602.05932)|null|
@@ -99,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Evaluating LLMs in Finance Requires Explicit Bias Consideration**|Yaxuan Kong et.al.|[2602.14233](http://arxiv.org/abs/2602.14233)|null|
 |**2026-02-11**|**Training-Induced Bias Toward LLM-Generated Content in Dense Retrieval**|William Xion et.al.|[2602.10833](http://arxiv.org/abs/2602.10833)|null|
 |**2026-01-26**|**PRECISE: Reducing the Bias of LLM Evaluations Using Prediction-Powered Ranking Estimation**|Abhishek Divekar et.al.|[2601.18777](http://arxiv.org/abs/2601.18777)|null|
 |**2026-01-28**|**Common to Whom? Regional Cultural Commonsense and LLM Bias in India**|Sangmitra Madhusudan et.al.|[2601.15550](http://arxiv.org/abs/2601.15550)|null|
