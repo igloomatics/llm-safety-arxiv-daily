@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
 |**2026-02-15**|**SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement**|Xiaojun Jia et.al.|[2602.14211](http://arxiv.org/abs/2602.14211)|null|
 |**2026-02-15**|**When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift**|Max Fomin et.al.|[2602.14161](http://arxiv.org/abs/2602.14161)|null|
 |**2026-02-14**|**AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks**|Yuqi Jia et.al.|[2602.13597](http://arxiv.org/abs/2602.13597)|null|
@@ -46,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Intra-Fairness Dynamics: The Bias Spillover Effect in Targeted LLM Alignment**|Eva Paraschou et.al.|[2602.16438](http://arxiv.org/abs/2602.16438)|null|
 |**2026-02-17**|**Discovering Implicit Large Language Model Alignment Objectives**|Edward Chen et.al.|[2602.15338](http://arxiv.org/abs/2602.15338)|null|
 |**2026-02-15**|**Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning**|Zhi Zhang et.al.|[2602.14338](http://arxiv.org/abs/2602.14338)|null|
 |**2026-02-14**|**Elo-Evolve: A Co-evolutionary Framework for Language Model Alignment**|Jing Zhao et.al.|[2602.13575](http://arxiv.org/abs/2602.13575)|null|
