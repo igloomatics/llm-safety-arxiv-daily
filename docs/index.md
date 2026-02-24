@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Trojan Horses in Recruiting: A Red-Teaming Case Study on Indirect Prompt Injection in Standard vs. Reasoning Models**|Manuel Wirth et.al.|[2602.18514](http://arxiv.org/abs/2602.18514)|null|
 |**2026-02-18**|**The Vulnerability of LLM Rankers to Prompt Injection Attacks**|Yu Yin et.al.|[2602.16752](http://arxiv.org/abs/2602.16752)|null|
 |**2026-02-19**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|
 |**2026-02-15**|**SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement**|Xiaojun Jia et.al.|[2602.14211](http://arxiv.org/abs/2602.14211)|null|
 |**2026-02-15**|**When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift**|Max Fomin et.al.|[2602.14161](http://arxiv.org/abs/2602.14161)|null|
-|**2026-02-14**|**AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks**|Yuqi Jia et.al.|[2602.13597](http://arxiv.org/abs/2602.13597)|null|
+|**2026-02-21**|**AlignSentinel: Alignment-Aware Detection of Prompt Injection Attacks**|Yuqi Jia et.al.|[2602.13597](http://arxiv.org/abs/2602.13597)|null|
 |**2026-02-13**|**OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage**|Akshat Naik et.al.|[2602.13477](http://arxiv.org/abs/2602.13477)|null|
 |**2026-02-12**|**Sparse Autoencoders are Capable LLM Jailbreak Mitigators**|Yannick Assogba et.al.|[2602.12418](http://arxiv.org/abs/2602.12418)|null|
 |**2026-02-11**|**Optimizing Agent Planning for Security and Autonomy**|Aashish Kolluri et.al.|[2602.11416](http://arxiv.org/abs/2602.11416)|null|
@@ -48,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Soft Sequence Policy Optimization: Bridging GMPO and SAPO**|Svetlana Glazyrina et.al.|[2602.19327](http://arxiv.org/abs/2602.19327)|null|
 |**2026-02-19**|**ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment**|Hongjue Zhao et.al.|[2602.17560](http://arxiv.org/abs/2602.17560)|null|
 |**2026-02-19**|**Fail-Closed Alignment for Large Language Models**|Zachary Coalson et.al.|[2602.16977](http://arxiv.org/abs/2602.16977)|null|
 |**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)|null|
