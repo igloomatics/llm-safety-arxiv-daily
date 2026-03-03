@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**DualSentinel: A Lightweight Framework for Detecting Targeted Attacks in Black-box LLM via Dual Entropy Lull Pattern**|Xiaoyi Pang et.al.|[2603.01574](http://arxiv.org/abs/2603.01574)|null|
+|**2026-03-01**|**Tracking Capabilities for Safer Agents**|Martin Odersky et.al.|[2603.00991](http://arxiv.org/abs/2603.00991)|null|
 |**2026-02-28**|**From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems**|Yijun Yu et.al.|[2603.00472](http://arxiv.org/abs/2603.00472)|null|
 |**2026-02-27**|**LiaisonAgent: An Multi-Agent Framework for Autonomous Risk Investigation and Governance**|Chuanming Tang et.al.|[2603.00200](http://arxiv.org/abs/2603.00200)|null|
 |**2026-02-26**|**Reverse CAPTCHA: Evaluating LLM Susceptibility to Invisible Unicode Instruction Injection**|Marcus Graves et.al.|[2603.00164](http://arxiv.org/abs/2603.00164)|null|
@@ -70,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**RubricBench: Aligning Model-Generated Rubrics with Human Standards**|Qiyuan Zhang et.al.|[2603.01562](http://arxiv.org/abs/2603.01562)|null|
 |**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
 |**2026-02-24**|**Oracle-Robust Online Alignment for Large Language Models**|Zimeng Li et.al.|[2602.20457](http://arxiv.org/abs/2602.20457)|null|
 |**2026-02-23**|**IR $^3$ : Contrastive Inverse Reinforcement Learning for Interpretable Detection and Mitigation of Reward Hacking**|Mohammad Beigi et.al.|[2602.19416](http://arxiv.org/abs/2602.19416)|null|
@@ -106,6 +109,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|
 |**2026-02-03**|**Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs**|Sean W. Kelley et.al.|[2603.00024](http://arxiv.org/abs/2603.00024)|null|
 |**2026-02-23**|**What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance**|William Watson et.al.|[2602.20300](http://arxiv.org/abs/2602.20300)|null|
 |**2026-02-15**|**Detecting LLM Hallucinations via Embedding Cluster Geometry: A Three-Type Taxonomy with Measurable Signatures**|Matic Korun et.al.|[2602.14259](http://arxiv.org/abs/2602.14259)|null|
