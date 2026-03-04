@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205](http://arxiv.org/abs/2603.03205)|null|
 |**2026-03-02**|**DualSentinel: A Lightweight Framework for Detecting Targeted Attacks in Black-box LLM via Dual Entropy Lull Pattern**|Xiaoyi Pang et.al.|[2603.01574](http://arxiv.org/abs/2603.01574)|null|
 |**2026-03-01**|**Tracking Capabilities for Safer Agents**|Martin Odersky et.al.|[2603.00991](http://arxiv.org/abs/2603.00991)|null|
 |**2026-02-28**|**From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems**|Yijun Yu et.al.|[2603.00472](http://arxiv.org/abs/2603.00472)|null|
