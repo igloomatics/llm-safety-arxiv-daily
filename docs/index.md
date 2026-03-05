@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions**|Neha Nagaraja et.al.|[2603.03637](http://arxiv.org/abs/2603.03637)|null|
+|**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](http://arxiv.org/abs/2603.03633)|null|
 |**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205](http://arxiv.org/abs/2603.03205)|null|
 |**2026-03-02**|**DualSentinel: A Lightweight Framework for Detecting Targeted Attacks in Black-box LLM via Dual Entropy Lull Pattern**|Xiaoyi Pang et.al.|[2603.01574](http://arxiv.org/abs/2603.01574)|null|
 |**2026-03-01**|**Tracking Capabilities for Safer Agents**|Martin Odersky et.al.|[2603.00991](http://arxiv.org/abs/2603.00991)|null|
@@ -65,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
 |**2026-03-03**|**A Neuropsychologically Grounded Evaluation of LLM Cognitive Abilities**|Faiz Ghifari Haznitrama et.al.|[2603.02540](http://arxiv.org/abs/2603.02540)|null|
 |**2026-03-03**|**RubricBench: Aligning Model-Generated Rubrics with Human Standards**|Qiyuan Zhang et.al.|[2603.01562](http://arxiv.org/abs/2603.01562)|null|
 |**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
