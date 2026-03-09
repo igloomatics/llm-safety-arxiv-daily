@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+from typing import List, Tuple
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -61,7 +62,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
+
 
 def get_code_link(qword:str) -> str:
     """
@@ -244,13 +245,95 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
+
+def _extract_date_title_from_md_row(row: str) -> Tuple[str, str]:
+    """
+    Parse markdown table row:
+    |**YYYY-MM-DD**|**title**|authors|pdf|code|
+    """
+    parts = row.strip().split("|")
+    if len(parts) < 6:
+        return "", ""
+    date = re.sub(r"\*", "", parts[1]).strip()
+    title = re.sub(r"\*", "", parts[2]).strip()
+    return date, title
+
+def _collect_recent_titles(json_path: str, paper_limit: int = 100) -> List[str]:
+    """
+    Collect titles from the latest N papers across all tracked topics.
+    """
+    with open(json_path, "r") as f:
+        content = f.read()
+        data = json.loads(content) if content else {}
+
+    records = []
+    seen_paper_ids = set()
+    for _, papers in data.items():
+        for paper_id, row in papers.items():
+            if paper_id in seen_paper_ids:
+                continue
+            seen_paper_ids.add(paper_id)
+            date_str, title = _extract_date_title_from_md_row(str(row))
+            if not date_str or not title:
+                continue
+            try:
+                publish_date = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
+            except ValueError:
+                continue
+            records.append((publish_date, title))
+
+    records.sort(key=lambda x: x[0], reverse=True)
+    return [title for _, title in records[:paper_limit]]
+
+def generate_readme_wordcloud(
+    json_path: str,
+    output_image_path: str,
+    paper_limit: int = 100
+) -> bool:
+    """
+    Generate a word cloud PNG from the latest paper titles.
+    Returns True on success; False if generation is skipped/failed.
+    """
+    titles = _collect_recent_titles(json_path=json_path, paper_limit=paper_limit)
+    if not titles:
+        logging.warning("No titles found for wordcloud generation.")
+        return False
+
+    try:
+        from wordcloud import WordCloud, STOPWORDS
+    except ImportError:
+        logging.warning("wordcloud package not installed. Skip generating wordcloud image.")
+        return False
+
+    extra_stopwords = {
+        "llm", "llms", "large", "language", "model", "models",
+        "based", "using", "via", "toward", "towards", "from",
+    }
+    stopwords = set(STOPWORDS).union(extra_stopwords)
+
+    text_blob = " ".join(titles)
+    os.makedirs(os.path.dirname(output_image_path), exist_ok=True)
+    wc = WordCloud(
+        width=1600,
+        height=900,
+        background_color="white",
+        max_words=120,
+        collocations=False,
+        stopwords=stopwords,
+        colormap="viridis",
+    )
+    wc.generate(text_blob).to_file(output_image_path)
+    logging.info(f"Wordcloud saved to {output_image_path}")
+    return True
     
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False, 
                use_title = True, 
                use_tc = True,
-               use_b2t = True):
+               use_b2t = True,
+               wordcloud_image_path = None,
+               wordcloud_paper_limit = 100):
     """
     @param filename: str
     @param md_filename: str
@@ -309,6 +392,10 @@ def json_to_md(filename,md_filename,
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
+
+        if use_title and (to_web == False) and wordcloud_image_path:
+            f.write(f"## Recent Title Word Cloud ({wordcloud_paper_limit} Papers)\n\n")
+            f.write(f"![Word cloud for recent paper titles]({wordcloud_image_path})\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
@@ -368,14 +455,30 @@ def demo(**config):
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
+        wordcloud_image_path = config.get(
+            'readme_wordcloud_image_path',
+            './docs/assets/recent-100-title-wordcloud.png'
+        )
+        wordcloud_paper_limit = config.get('wordcloud_paper_limit', 100)
         # update paper links
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
             # update json data
             update_json_file(json_file,data_collector)
+        generate_readme_wordcloud(
+            json_path=json_file,
+            output_image_path=wordcloud_image_path,
+            paper_limit=wordcloud_paper_limit
+        )
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme')
+        json_to_md(
+            json_file,
+            md_file,
+            task='Update Readme',
+            wordcloud_image_path=wordcloud_image_path,
+            wordcloud_paper_limit=wordcloud_paper_limit
+        )
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:

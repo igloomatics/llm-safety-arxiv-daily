@@ -13,6 +13,8 @@ json_gitpage_path: './docs/llm-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
+readme_wordcloud_image_path: './docs/assets/recent-100-title-wordcloud.png'
+wordcloud_paper_limit: 100
 
 # keywords to search
 keywords:

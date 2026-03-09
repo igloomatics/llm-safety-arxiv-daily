@@ -43,6 +43,7 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install wordcloud
           
       - name: Run daily arxiv 
         run: |
@@ -53,7 +54,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update LLM Arxiv Papers"
-          files: README.md docs/llm-arxiv-daily.json docs/llm-arxiv-daily-web.json docs/index.md
+          files: README.md docs/llm-arxiv-daily.json docs/llm-arxiv-daily-web.json docs/index.md docs/assets/recent-100-title-wordcloud.png
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

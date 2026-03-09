@@ -9,6 +9,10 @@
   </ol>
 </details>
 
+## Recent Title Word Cloud (100 Papers)
+
+![Word cloud for recent paper titles](./docs/assets/recent-100-title-wordcloud.png)
+
 ## LLM Safety
 
 |Publish Date|Title|Authors|PDF|Code|
