@@ -112,6 +112,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Sandpiper: Orchestrated AI-Annotation for Educational Discourse at Scale**|Daryl Hedley et.al.|[2603.08406](http://arxiv.org/abs/2603.08406)|null|
+|**2026-03-09**|**How Much Do LLMs Hallucinate in Document Q&A Scenarios? A 172-Billion-Token Study Across Temperatures, Context Lengths, and Hardware Platforms**|JV Roig et.al.|[2603.08274](http://arxiv.org/abs/2603.08274)|null|
 |**2026-03-07**|**Do Deployment Constraints Make LLMs Hallucinate Citations? An Empirical Study across Four Models and Five Prompting Regimes**|Chen Zhao et.al.|[2603.07287](http://arxiv.org/abs/2603.07287)|null|
 |**2026-03-04**|**Scalable Join Inference for Large Context Graphs**|Shivani Tripathi et.al.|[2603.04176](http://arxiv.org/abs/2603.04176)|null|
 |**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|
