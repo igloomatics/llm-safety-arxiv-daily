@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-08**|**VoiceSHIELD-Small: Real-Time Malicious Speech Detection and Transcription**|Sumit Ranjan et.al.|[2603.07708](http://arxiv.org/abs/2603.07708)|null|
-|**2026-03-07**|**Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice**|Yuxu Ge et.al.|[2603.07191](http://arxiv.org/abs/2603.07191)|null|
+|**2026-03-10**|**Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice**|Yuxu Ge et.al.|[2603.07191](http://arxiv.org/abs/2603.07191)|null|
 |**2026-03-04**|**Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection**|Yangyang Wei et.al.|[2603.04469](http://arxiv.org/abs/2603.04469)|null|
 |**2026-03-03**|**Benchmark of Benchmarks: Unpacking Influence and Code Repository Quality in LLM Safety Benchmarks**|Junjie Chu et.al.|[2603.04459](http://arxiv.org/abs/2603.04459)|null|
 |**2026-03-04**|**Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions**|Neha Nagaraja et.al.|[2603.03637](http://arxiv.org/abs/2603.03637)|null|
@@ -71,6 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Quantifying and extending the coverage of spatial categorization data sets**|Wanchun Li et.al.|[2603.09373](http://arxiv.org/abs/2603.09373)|null|
 |**2026-03-07**|**wDPO: Winsorized Direct Preference Optimization for Robust LLM Alignment**|Jilong Liu et.al.|[2603.07211](http://arxiv.org/abs/2603.07211)|null|
 |**2026-03-06**|**Mind the Gap: Pitfalls of LLM Alignment with Asian Public Opinion**|Hari Shankar et.al.|[2603.06264](http://arxiv.org/abs/2603.06264)|null|
 |**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](http://arxiv.org/abs/2603.05839)|null|
