@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
+|**2026-03-18**|**VeriGrey: Greybox Agent Validation**|Yuntong Zhang et.al.|[2603.17639](http://arxiv.org/abs/2603.17639)|null|
+|**2026-03-18**|**Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare**|Saikat Maiti et.al.|[2603.17419](http://arxiv.org/abs/2603.17419)|null|
 |**2026-03-17**|**CoMAI: A Collaborative Multi-Agent Framework for Robust and Equitable Interview Evaluation**|Gengxin Sun et.al.|[2603.16215](http://arxiv.org/abs/2603.16215)|null|
 |**2026-03-16**|**How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition**|Mateusz Dziemian et.al.|[2603.15714](http://arxiv.org/abs/2603.15714)|null|
 |**2026-03-16**|**Amplification Effects in Test-Time Reinforcement Learning: Safety and Reasoning Vulnerabilities**|Vanshaj Khattar et.al.|[2603.15417](http://arxiv.org/abs/2603.15417)|null|
@@ -93,12 +96,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions**|Peisen Zhao et.al.|[2603.17326](http://arxiv.org/abs/2603.17326)|null|
 |**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)|null|
 |**2026-03-16**|**The Hrunting of AI: Where and How to Improve English Dialectal Fairness**|Wei Li et.al.|[2603.15187](http://arxiv.org/abs/2603.15187)|null|
 |**2026-03-15**|**Using large language models for sensitivity analysis in causal inference: cases studies on Cornfield inequality and E-value**|Qingyan Xiang et.al.|[2603.14273](http://arxiv.org/abs/2603.14273)|null|
@@ -142,12 +146,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval**|Md. Asraful Haque et.al.|[2603.17872](http://arxiv.org/abs/2603.17872)|null|
 |**2026-03-17**|**Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy**|Zhaoxin Feng et.al.|[2603.16643](http://arxiv.org/abs/2603.16643)|null|
 |**2026-03-16**|**The Social Sycophancy Scale: A psychometrically validated measure of sycophancy**|Jean Rehani et.al.|[2603.15448](http://arxiv.org/abs/2603.15448)|null|
 |**2026-03-14**|**TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**|Zhihao Chen et.al.|[2603.13676](http://arxiv.org/abs/2603.13676)|null|
@@ -174,7 +179,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -194,5 +199,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
