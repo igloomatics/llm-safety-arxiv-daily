@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Prompt Control-Flow Integrity: A Priority-Aware Runtime Defense Against Prompt Injection in LLM Systems**|Md Takrim Ul Alam et.al.|[2603.18433](http://arxiv.org/abs/2603.18433)|null|
+|**2026-03-18**|**MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)**|Yi Ting Shen et.al.|[2603.18063](http://arxiv.org/abs/2603.18063)|null|
 |**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
 |**2026-03-18**|**VeriGrey: Greybox Agent Validation**|Yuntong Zhang et.al.|[2603.17639](http://arxiv.org/abs/2603.17639)|null|
 |**2026-03-18**|**Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare**|Saikat Maiti et.al.|[2603.17419](http://arxiv.org/abs/2603.17419)|null|
@@ -90,6 +92,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM**|Zizhao Hu et.al.|[2603.18507](http://arxiv.org/abs/2603.18507)|null|
 |**2026-03-18**|**FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions**|Peisen Zhao et.al.|[2603.17326](http://arxiv.org/abs/2603.17326)|null|
 |**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)|null|
 |**2026-03-16**|**The Hrunting of AI: Where and How to Improve English Dialectal Fairness**|Wei Li et.al.|[2603.15187](http://arxiv.org/abs/2603.15187)|null|
