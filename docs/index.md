@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance**|Fazhong Liu et.al.|[2603.19974](http://arxiv.org/abs/2603.19974)|null|
+|**2026-03-19**|**A Framework for Formalizing LLM Agent Security**|Vincent Siu et.al.|[2603.19469](http://arxiv.org/abs/2603.19469)|null|
+|**2026-03-19**|**The Autonomy Tax: Defense Training Breaks LLM Agents**|Shawn Li et.al.|[2603.19423](http://arxiv.org/abs/2603.19423)|null|
 |**2026-03-19**|**Prompt Control-Flow Integrity: A Priority-Aware Runtime Defense Against Prompt Injection in LLM Systems**|Md Takrim Ul Alam et.al.|[2603.18433](http://arxiv.org/abs/2603.18433)|null|
 |**2026-03-18**|**MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)**|Yi Ting Shen et.al.|[2603.18063](http://arxiv.org/abs/2603.18063)|null|
 |**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
@@ -141,6 +144,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[2603.20017](http://arxiv.org/abs/2603.20017)|null|
+|**2026-03-20**|**Neural Uncertainty Principle: A Unified View of Adversarial Fragility and LLM Hallucination**|Dong-Xiao Zhang et.al.|[2603.19562](http://arxiv.org/abs/2603.19562)|null|
+|**2026-03-19**|**POET: Power-Oriented Evolutionary Tuning for LLM-Based RTL PPA Optimization**|Heng Ping et.al.|[2603.19333](http://arxiv.org/abs/2603.19333)|null|
 |**2026-03-18**|**Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval**|Md. Asraful Haque et.al.|[2603.17872](http://arxiv.org/abs/2603.17872)|null|
 |**2026-03-17**|**Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy**|Zhaoxin Feng et.al.|[2603.16643](http://arxiv.org/abs/2603.16643)|null|
 |**2026-03-16**|**The Social Sycophancy Scale: A psychometrically validated measure of sycophancy**|Jean Rehani et.al.|[2603.15448](http://arxiv.org/abs/2603.15448)|null|
