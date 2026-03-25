@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Mind Your HEARTBEAT! Claw Background Execution Inherently Enables Silent Memory Pollution**|Yechao Zhang et.al.|[2603.23064](http://arxiv.org/abs/2603.23064)|null|
+|**2026-03-24**|**SoK: The Attack Surface of Agentic AI -- Tools, and Autonomy**|Ali Dehghantanha et.al.|[2603.22928](http://arxiv.org/abs/2603.22928)|null|
+|**2026-03-23**|**LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface**|Michael Hind et.al.|[2603.22519](http://arxiv.org/abs/2603.22519)|null|
+|**2026-03-23**|**Model Context Protocol Threat Modeling and Analyzing Vulnerabilities to Prompt Injection with Tool Poisoning**|Charoes Huang et.al.|[2603.22489](http://arxiv.org/abs/2603.22489)|null|
+|**2026-03-21**|**T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search**|Hyomin Lee et.al.|[2603.22341](http://arxiv.org/abs/2603.22341)|null|
 |**2026-03-23**|**SecureBreak -- A dataset towards safe and secure models**|Marco Arazzi et.al.|[2603.21975](http://arxiv.org/abs/2603.21975)|null|
 |**2026-03-23**|**Are AI-assisted Development Tools Immune to Prompt Injection?**|Charoes Huang et.al.|[2603.21642](http://arxiv.org/abs/2603.21642)|null|
 |**2026-03-21**|**Detection of adversarial intent in Human-AI teams using LLMs**|Abed K. Musaffar et.al.|[2603.20976](http://arxiv.org/abs/2603.20976)|null|
@@ -99,6 +104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment**|Hao Wang et.al.|[2603.23184](http://arxiv.org/abs/2603.23184)|null|
 |**2026-03-19**|**Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM**|Zizhao Hu et.al.|[2603.18507](http://arxiv.org/abs/2603.18507)|null|
 |**2026-03-18**|**FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions**|Peisen Zhao et.al.|[2603.17326](http://arxiv.org/abs/2603.17326)|null|
 |**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)|null|
