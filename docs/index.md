@@ -159,10 +159,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484](http://arxiv.org/abs/2603.24484)|null|
 |**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[2603.20017](http://arxiv.org/abs/2603.20017)|null|
-|**2026-03-26**|**Neural Uncertainty Principle: A Unified View of Adversarial Fragility and LLM Hallucination**|Dong-Xiao Zhang et.al.|[2603.19562](http://arxiv.org/abs/2603.19562)|null|
+|**2026-03-27**|**Neural Uncertainty Principle: A Unified View of Adversarial Fragility and LLM Hallucination**|Dong-Xiao Zhang et.al.|[2603.19562](http://arxiv.org/abs/2603.19562)|null|
 |**2026-03-19**|**POET: Power-Oriented Evolutionary Tuning for LLM-Based RTL PPA Optimization**|Heng Ping et.al.|[2603.19333](http://arxiv.org/abs/2603.19333)|null|
 |**2026-03-25**|**Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval**|Md. Asraful Haque et.al.|[2603.17872](http://arxiv.org/abs/2603.17872)|null|
 |**2026-03-17**|**Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy**|Zhaoxin Feng et.al.|[2603.16643](http://arxiv.org/abs/2603.16643)|null|
