@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|null|
+|**2026-03-31**|**Adversarial Prompt Injection Attack on Multimodal Large Language Models**|Meiwen Ding et.al.|[2603.29418](http://arxiv.org/abs/2603.29418)|null|
+|**2026-03-28**|**SafeClaw-R: Towards Safe and Secure Multi-Agent Personal Assistants**|Haoyu Wang et.al.|[2603.28807](http://arxiv.org/abs/2603.28807)|null|
 |**2026-03-30**|**Crossing the NL/PL Divide: Information Flow Analysis Across the NL/PL Boundary in LLM-Integrated Code**|Zihao Xu et.al.|[2603.28345](http://arxiv.org/abs/2603.28345)|null|
 |**2026-03-30**|**Evaluating Privilege Usage of Agents on Real-World Tools**|Quan Zhang et.al.|[2603.28166](http://arxiv.org/abs/2603.28166)|null|
 |**2026-03-30**|**Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers**|Haochuan Kevin Wang et.al.|[2603.28013](http://arxiv.org/abs/2603.28013)|null|
@@ -120,7 +124,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -131,7 +135,7 @@
 |**2026-03-18**|**FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions**|Peisen Zhao et.al.|[2603.17326](http://arxiv.org/abs/2603.17326)|null|
 |**2026-03-16**|**Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph**|Zhenheng Tang et.al.|[2603.15527](http://arxiv.org/abs/2603.15527)|null|
 |**2026-03-16**|**The Hrunting of AI: Where and How to Improve English Dialectal Fairness**|Wei Li et.al.|[2603.15187](http://arxiv.org/abs/2603.15187)|null|
-|**2026-03-15**|**Using large language models for sensitivity analysis in causal inference: cases studies on Cornfield inequality and E-value**|Qingyan Xiang et.al.|[2603.14273](http://arxiv.org/abs/2603.14273)|null|
+|**2026-03-31**|**Using large language models for sensitivity analysis in causal inference: cases studies on Cornfield inequality and E-value**|Qingyan Xiang et.al.|[2603.14273](http://arxiv.org/abs/2603.14273)|null|
 |**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
 |**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)|null|
 |**2026-03-10**|**Quantifying and extending the coverage of spatial categorization data sets**|Wanchun Li et.al.|[2603.09373](http://arxiv.org/abs/2603.09373)|null|
@@ -172,7 +176,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -211,7 +215,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -232,5 +236,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
