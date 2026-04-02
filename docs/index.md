@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**AgentWatcher: A Rule-based Prompt Injection Monitor**|Yanting Wang et.al.|[2604.01194](http://arxiv.org/abs/2604.01194)|null|
 |**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
 |**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|null|
 |**2026-03-31**|**Adversarial Prompt Injection Attack on Multimodal Large Language Models**|Meiwen Ding et.al.|[2603.29418](http://arxiv.org/abs/2603.29418)|null|
@@ -118,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
 |**2026-03-24**|**ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment**|Hao Wang et.al.|[2603.23184](http://arxiv.org/abs/2603.23184)|null|
 |**2026-03-19**|**Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM**|Zizhao Hu et.al.|[2603.18507](http://arxiv.org/abs/2603.18507)|null|
 |**2026-03-18**|**FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions**|Peisen Zhao et.al.|[2603.17326](http://arxiv.org/abs/2603.17326)|null|
