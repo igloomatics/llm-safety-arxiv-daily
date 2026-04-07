@@ -2,15 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems**|Zhuowen Yuan et.al.|[2604.04426](http://arxiv.org/abs/2604.04426)|null|
+|**2026-04-05**|**LLM-Enabled Open-Source Systems in the Wild: An Empirical Study of Vulnerabilities in GitHub Security Advisories**|Fariha Tanjim Shifat et.al.|[2604.04288](http://arxiv.org/abs/2604.04288)|null|
+|**2026-04-05**|**Automating Cloud Security and Forensics Through a Secure-by-Design Generative AI Framework**|Dalal Alharthi et.al.|[2604.03912](http://arxiv.org/abs/2604.03912)|null|
+|**2026-04-04**|**Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs**|Wenhui Zhu et.al.|[2604.03870](http://arxiv.org/abs/2604.03870)|null|
+|**2026-04-04**|**AttackEval: A Systematic Empirical Study of Prompt Injection Attack Effectiveness Against Large Language Models**|Jackson Wang et.al.|[2604.03598](http://arxiv.org/abs/2604.03598)|null|
 |**2026-04-03**|**Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**|Zhihao Chen et.al.|[2604.03070](http://arxiv.org/abs/2604.03070)|null|
 |**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)|null|
 |**2026-03-31**|**KAIJU: An Executive Kernel for Intent-Gated Execution of LLM Agents**|Cormac Guerin et.al.|[2604.02375](http://arxiv.org/abs/2604.02375)|null|
-|**2026-04-01**|**ClawSafety: "Safe" LLMs, Unsafe Agents**|Bowen Wei et.al.|[2604.01438](http://arxiv.org/abs/2604.01438)|null|
+|**2026-04-04**|**ClawSafety: "Safe" LLMs, Unsafe Agents**|Bowen Wei et.al.|[2604.01438](http://arxiv.org/abs/2604.01438)|null|
 |**2026-04-01**|**AgentWatcher: A Rule-based Prompt Injection Monitor**|Yanting Wang et.al.|[2604.01194](http://arxiv.org/abs/2604.01194)|null|
 |**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
 |**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|null|
@@ -123,6 +128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
+|**2026-04-03**|**Large Language Models Align with the Human Brain during Creative Thinking**|Mete Ismayilzada et.al.|[2604.03480](http://arxiv.org/abs/2604.03480)|null|
 |**2026-04-03**|**Redirected, Not Removed: Task-Dependent Stereotyping Reveals the Limits of LLM Alignments**|Divyanshu Kumar et.al.|[2604.02669](http://arxiv.org/abs/2604.02669)|null|
 |**2026-04-02**|**Reinforcement Learning from Human Feedback: A Statistical Perspective**|Pangpang Liu et.al.|[2604.02507](http://arxiv.org/abs/2604.02507)|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)|null|
@@ -177,6 +184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations**|Kalyan Cherukuri et.al.|[2604.04743](http://arxiv.org/abs/2604.04743)|null|
+|**2026-04-05**|**I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation**|Haotian Zong et.al.|[2604.03904](http://arxiv.org/abs/2604.03904)|null|
 |**2026-04-03**|**Verbalizing LLMs' assumptions to explain and control sycophancy**|Myra Cheng et.al.|[2604.03058](http://arxiv.org/abs/2604.03058)|null|
 |**2026-03-26**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
