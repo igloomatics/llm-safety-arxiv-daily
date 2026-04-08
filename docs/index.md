@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents**|Yanxu Mao et.al.|[2604.05549](http://arxiv.org/abs/2604.05549)|null|
+|**2026-04-06**|**Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering**|Purva Chiniya et.al.|[2604.05179](http://arxiv.org/abs/2604.05179)|null|
+|**2026-04-06**|**Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation**|Geert Trooskens et.al.|[2604.05150](http://arxiv.org/abs/2604.05150)|null|
 |**2026-04-06**|**ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems**|Zhuowen Yuan et.al.|[2604.04426](http://arxiv.org/abs/2604.04426)|null|
 |**2026-04-05**|**LLM-Enabled Open-Source Systems in the Wild: An Empirical Study of Vulnerabilities in GitHub Security Advisories**|Fariha Tanjim Shifat et.al.|[2604.04288](http://arxiv.org/abs/2604.04288)|null|
 |**2026-04-05**|**Automating Cloud Security and Forensics Through a Secure-by-Design Generative AI Framework**|Dalal Alharthi et.al.|[2604.03912](http://arxiv.org/abs/2604.03912)|null|
@@ -128,6 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Beyond Compromise: Pareto-Lenient Consensus for Efficient Multi-Preference LLM Alignment**|Renxuan Tan et.al.|[2604.05965](http://arxiv.org/abs/2604.05965)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 |**2026-04-03**|**Large Language Models Align with the Human Brain during Creative Thinking**|Mete Ismayilzada et.al.|[2604.03480](http://arxiv.org/abs/2604.03480)|null|
 |**2026-04-03**|**Redirected, Not Removed: Task-Dependent Stereotyping Reveals the Limits of LLM Alignments**|Divyanshu Kumar et.al.|[2604.02669](http://arxiv.org/abs/2604.02669)|null|
@@ -184,6 +188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces**|Olexander Mazurets et.al.|[2604.06086](http://arxiv.org/abs/2604.06086)|null|
+|**2026-04-07**|**Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models**|Yinan Liu et.al.|[2604.05875](http://arxiv.org/abs/2604.05875)|null|
 |**2026-04-06**|**Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations**|Kalyan Cherukuri et.al.|[2604.04743](http://arxiv.org/abs/2604.04743)|null|
 |**2026-04-05**|**I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation**|Haotian Zong et.al.|[2604.03904](http://arxiv.org/abs/2604.03904)|null|
 |**2026-04-03**|**Verbalizing LLMs' assumptions to explain and control sycophancy**|Myra Cheng et.al.|[2604.03058](http://arxiv.org/abs/2604.03058)|null|
