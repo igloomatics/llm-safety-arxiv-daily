@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
+|**2026-04-08**|**SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills**|Yinghan Hou et.al.|[2604.06550](http://arxiv.org/abs/2604.06550)|null|
+|**2026-04-07**|**The Defense Trilemma: Why Prompt Injection Defense Wrappers Fail?**|Manish Bhatt et.al.|[2604.06436](http://arxiv.org/abs/2604.06436)|null|
+|**2026-04-06**|**SALLIE: Safeguarding Against Latent Language & Image Exploits**|Guy Azov et.al.|[2604.06247](http://arxiv.org/abs/2604.06247)|null|
 |**2026-04-07**|**Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents**|Yanxu Mao et.al.|[2604.05549](http://arxiv.org/abs/2604.05549)|null|
 |**2026-04-06**|**Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering**|Purva Chiniya et.al.|[2604.05179](http://arxiv.org/abs/2604.05179)|null|
 |**2026-04-06**|**Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation**|Geert Trooskens et.al.|[2604.05150](http://arxiv.org/abs/2604.05150)|null|
@@ -137,7 +141,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -196,18 +200,19 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**ReDAct: Uncertainty-Aware Deferral for LLM Agents**|Dzianis Piatrashyn et.al.|[2604.07036](http://arxiv.org/abs/2604.07036)|null|
 |**2026-04-07**|**LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces**|Olexander Mazurets et.al.|[2604.06086](http://arxiv.org/abs/2604.06086)|null|
 |**2026-04-07**|**Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models**|Yinan Liu et.al.|[2604.05875](http://arxiv.org/abs/2604.05875)|null|
 |**2026-04-06**|**Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations**|Kalyan Cherukuri et.al.|[2604.04743](http://arxiv.org/abs/2604.04743)|null|
 |**2026-04-05**|**I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation**|Haotian Zong et.al.|[2604.03904](http://arxiv.org/abs/2604.03904)|null|
 |**2026-04-03**|**Verbalizing LLMs' assumptions to explain and control sycophancy**|Myra Cheng et.al.|[2604.03058](http://arxiv.org/abs/2604.03058)|null|
-|**2026-03-26**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
+|**2026-04-07**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484](http://arxiv.org/abs/2603.24484)|null|
 |**2026-03-20**|**RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering**|Bo Yuan et.al.|[2603.20017](http://arxiv.org/abs/2603.20017)|null|
@@ -240,7 +245,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -262,5 +267,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
