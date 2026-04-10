@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|
+|**2026-04-09**|**Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot**|Nicolás E. Díaz Ferreyra et.al.|[2604.08352](http://arxiv.org/abs/2604.08352)|null|
+|**2026-04-09**|**Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection**|Wenkui Yang et.al.|[2604.07831](http://arxiv.org/abs/2604.07831)|null|
+|**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)|null|
 |**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
 |**2026-04-08**|**SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills**|Yinghan Hou et.al.|[2604.06550](http://arxiv.org/abs/2604.06550)|null|
-|**2026-04-07**|**The Defense Trilemma: Why Prompt Injection Defense Wrappers Fail?**|Manish Bhatt et.al.|[2604.06436](http://arxiv.org/abs/2604.06436)|null|
+|**2026-04-09**|**The Defense Trilemma: Why Prompt Injection Defense Wrappers Fail?**|Manish Bhatt et.al.|[2604.06436](http://arxiv.org/abs/2604.06436)|null|
 |**2026-04-06**|**SALLIE: Safeguarding Against Latent Language & Image Exploits**|Guy Azov et.al.|[2604.06247](http://arxiv.org/abs/2604.06247)|null|
 |**2026-04-07**|**Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents**|Yanxu Mao et.al.|[2604.05549](http://arxiv.org/abs/2604.05549)|null|
 |**2026-04-06**|**Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering**|Purva Chiniya et.al.|[2604.05179](http://arxiv.org/abs/2604.05179)|null|
@@ -135,6 +139,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training**|Rui Zhang et.al.|[2604.07754](http://arxiv.org/abs/2604.07754)|null|
 |**2026-04-07**|**Beyond Compromise: Pareto-Lenient Consensus for Efficient Multi-Preference LLM Alignment**|Renxuan Tan et.al.|[2604.05965](http://arxiv.org/abs/2604.05965)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 |**2026-04-03**|**Large Language Models Align with the Human Brain during Creative Thinking**|Mete Ismayilzada et.al.|[2604.03480](http://arxiv.org/abs/2604.03480)|null|
