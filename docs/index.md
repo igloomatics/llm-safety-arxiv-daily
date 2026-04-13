@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning**|Guiyao Tie et.al.|[2604.09378](http://arxiv.org/abs/2604.09378)|null|
+|**2026-04-10**|**Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection**|Zedian Shao et.al.|[2604.09024](http://arxiv.org/abs/2604.09024)|null|
 |**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|
 |**2026-04-09**|**Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot**|Nicolás E. Díaz Ferreyra et.al.|[2604.08352](http://arxiv.org/abs/2604.08352)|null|
 |**2026-04-09**|**Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection**|Wenkui Yang et.al.|[2604.07831](http://arxiv.org/abs/2604.07831)|null|
@@ -139,6 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Cards Against LLMs: Benchmarking Humor Alignment in Large Language Models**|Yousra Fettach et.al.|[2604.08757](http://arxiv.org/abs/2604.08757)|null|
 |**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
 |**2026-04-09**|**The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training**|Rui Zhang et.al.|[2604.07754](http://arxiv.org/abs/2604.07754)|null|
 |**2026-04-07**|**Beyond Compromise: Pareto-Lenient Consensus for Efficient Multi-Preference LLM Alignment**|Renxuan Tan et.al.|[2604.05965](http://arxiv.org/abs/2604.05965)|null|
@@ -203,7 +206,7 @@ layout: default
 |**2026-04-07**|**Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models**|Yinan Liu et.al.|[2604.05875](http://arxiv.org/abs/2604.05875)|null|
 |**2026-04-06**|**Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations**|Kalyan Cherukuri et.al.|[2604.04743](http://arxiv.org/abs/2604.04743)|null|
 |**2026-04-05**|**I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation**|Haotian Zong et.al.|[2604.03904](http://arxiv.org/abs/2604.03904)|null|
-|**2026-04-03**|**Verbalizing LLMs' assumptions to explain and control sycophancy**|Myra Cheng et.al.|[2604.03058](http://arxiv.org/abs/2604.03058)|null|
+|**2026-04-10**|**Verbalizing LLMs' assumptions to explain and control sycophancy**|Myra Cheng et.al.|[2604.03058](http://arxiv.org/abs/2604.03058)|null|
 |**2026-04-07**|**On Integrating Resilience and Human Oversight into LLM-Assisted Modeling Workflows for Digital Twins**|Lekshmi P et.al.|[2603.25898](http://arxiv.org/abs/2603.25898)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484](http://arxiv.org/abs/2603.24484)|null|
