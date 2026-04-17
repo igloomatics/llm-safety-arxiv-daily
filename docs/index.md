@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection**|Meng Chen et.al.|[2604.14604](http://arxiv.org/abs/2604.14604)|null|
 |**2026-04-14**|**DeepSeek Robustness Against Semantic-Character Dual-Space Mutated Prompt Injection**|Junyu Ren et.al.|[2604.12548](http://arxiv.org/abs/2604.12548)|null|
 |**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)|null|
 |**2026-04-14**|**WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents**|Yulin Chen et.al.|[2604.12284](http://arxiv.org/abs/2604.12284)|null|
@@ -213,6 +214,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation**|Zoe Fingleton et.al.|[2604.15270](http://arxiv.org/abs/2604.15270)|null|
+|**2026-04-16**|**Disentangle-then-Refine: LLM-Guided Decoupling and Structure-Aware Refinement for Graph Contrastive Learning**|Zhaoxing Li et.al.|[2604.14746](http://arxiv.org/abs/2604.14746)|null|
 |**2026-04-14**|**COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery**|Dominik Blain et.al.|[2604.12172](http://arxiv.org/abs/2604.12172)|null|
 |**2026-04-13**|**CausalGaze: Unveiling Hallucinations via Counterfactual Graph Intervention in Large Language Models**|Linggang Kong et.al.|[2604.11087](http://arxiv.org/abs/2604.11087)|null|
 |**2026-04-08**|**ReDAct: Uncertainty-Aware Deferral for LLM Agents**|Dzianis Piatrashyn et.al.|[2604.07036](http://arxiv.org/abs/2604.07036)|null|
