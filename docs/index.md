@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**An AI Agent Execution Environment to Safeguard User Data**|Robert Stanley et.al.|[2604.19657](http://arxiv.org/abs/2604.19657)|null|
+|**2026-04-20**|**Owner-Harm: A Missing Threat Model for AI Agent Safety**|Dongcheng Zhang et.al.|[2604.18658](http://arxiv.org/abs/2604.18658)|null|
 |**2026-04-20**|**Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks**|Md Rysul Kabir et.al.|[2604.18510](http://arxiv.org/abs/2604.18510)|null|
 |**2026-04-20**|**Beyond Pattern Matching: Seven Cross-Domain Techniques for Prompt Injection Detection**|Thamilvendhan Munirathinam et.al.|[2604.18248](http://arxiv.org/abs/2604.18248)|null|
 |**2026-04-20**|**A Control Architecture for Training-Free Memory Use**|Yanzhen Lu et.al.|[2604.18206](http://arxiv.org/abs/2604.18206)|null|
@@ -163,6 +165,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)|null|
+|**2026-04-21**|**Personalized Benchmarking: Evaluating LLMs by Individual Preferences**|Cristina Garbacea et.al.|[2604.18943](http://arxiv.org/abs/2604.18943)|null|
+|**2026-04-20**|**ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System**|Jiacheng Liang et.al.|[2604.18789](http://arxiv.org/abs/2604.18789)|null|
 |**2026-04-19**|**Guardrails in Logit Space: Safety Token Regularization for LLM Alignment**|Thong Bach et.al.|[2604.17210](http://arxiv.org/abs/2604.17210)|null|
 |**2026-04-17**|**TWGuard: A Case Study of LLM Safety Guardrails for Localized Linguistic Contexts**|Hua-Rong Chu et.al.|[2604.16542](http://arxiv.org/abs/2604.16542)|null|
 |**2026-04-17**|**Into the Gray Zone: Domain Contexts Can Blur LLM Safety Boundaries**|Ki Sen Hung et.al.|[2604.15717](http://arxiv.org/abs/2604.15717)|null|
@@ -228,6 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Mind the Unseen Mass: Unmasking LLM Hallucinations via Soft-Hybrid Alphabet Estimation**|Hongxing Pan et.al.|[2604.19162](http://arxiv.org/abs/2604.19162)|null|
 |**2026-04-18**|**PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations**|Yuhe Wu et.al.|[2604.16909](http://arxiv.org/abs/2604.16909)|null|
 |**2026-04-16**|**Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation**|Zoe Fingleton et.al.|[2604.15270](http://arxiv.org/abs/2604.15270)|null|
 |**2026-04-16**|**Disentangle-then-Refine: LLM-Guided Decoupling and Structure-Aware Refinement for Graph Contrastive Learning**|Zhaoxing Li et.al.|[2604.14746](http://arxiv.org/abs/2604.14746)|null|
