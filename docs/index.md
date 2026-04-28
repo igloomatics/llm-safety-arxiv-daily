@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Layerwise Convergence Fingerprints for Runtime Misbehavior Detection in Large Language Models**|Nay Myat Min et.al.|[2604.24542](http://arxiv.org/abs/2604.24542)|null|
+|**2026-04-27**|**AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization**|Zonghao Ying et.al.|[2604.24118](http://arxiv.org/abs/2604.24118)|null|
+|**2026-04-27**|**Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents**|Jiaqi Li et.al.|[2604.24020](http://arxiv.org/abs/2604.24020)|null|
+|**2026-04-26**|**Evaluation of Prompt Injection Defenses in Large Language Models**|Priyal Deep et.al.|[2604.23887](http://arxiv.org/abs/2604.23887)|null|
+|**2026-04-26**|**When AI reviews science: Can we trust the referee?**|Jialiang Wang et.al.|[2604.23593](http://arxiv.org/abs/2604.23593)|null|
+|**2026-04-25**|**Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents**|Yuandao Cai et.al.|[2604.23374](http://arxiv.org/abs/2604.23374)|null|
+|**2026-04-25**|**From Stateless Queries to Autonomous Actions: A Layered Security Framework for Agentic AI Systems**|Kexin Chu et.al.|[2604.23338](http://arxiv.org/abs/2604.23338)|null|
+|**2026-04-25**|**CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning**|Shuxu Chen et.al.|[2604.23270](http://arxiv.org/abs/2604.23270)|null|
+|**2026-04-24**|**Training a General Purpose Automated Red Teaming Model**|Aishwarya Padmakumar et.al.|[2604.23067](http://arxiv.org/abs/2604.23067)|null|
+|**2026-04-24**|**RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents**|Wenjie Xiao et.al.|[2604.22888](http://arxiv.org/abs/2604.22888)|null|
 |**2026-04-22**|**Anchor-and-Resume Concession Under Dynamic Pricing for LLM-Augmented Freight Negotiation**|Hoang Nguyen et.al.|[2604.20732](http://arxiv.org/abs/2604.20732)|null|
 |**2026-04-21**|**If you're waiting for a sign... that might not be it! Mitigating Trust Boundary Confusion from Visual Injections on Vision-Language Agentic Systems**|Jiamin Chang et.al.|[2604.19844](http://arxiv.org/abs/2604.19844)|null|
 |**2026-04-21**|**An AI Agent Execution Environment to Safeguard User Data**|Robert Stanley et.al.|[2604.19657](http://arxiv.org/abs/2604.19657)|null|
@@ -167,6 +177,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**A Multi-Dimensional Audit of Politically Aligned Large Language Models**|Lisa Korver et.al.|[2604.24429](http://arxiv.org/abs/2604.24429)|null|
+|**2026-04-27**|**Meta-Aligner: Bidirectional Preference-Policy Optimization for Multi-Objective LLMs Alignment**|Wenzhe Xu et.al.|[2604.24178](http://arxiv.org/abs/2604.24178)|null|
+|**2026-04-26**|**Pref-CTRL: Preference Driven LLM Alignment using Representation Editing**|Imranul Ashrafi et.al.|[2604.23543](http://arxiv.org/abs/2604.23543)|null|
+|**2026-04-25**|**AI Safety Training Can be Clinically Harmful**|Suhas BN et.al.|[2604.23445](http://arxiv.org/abs/2604.23445)|null|
 |**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)|null|
 |**2026-04-22**|**The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality**|Umberto Domanti et.al.|[2604.20569](http://arxiv.org/abs/2604.20569)|null|
 |**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)|null|
@@ -237,10 +251,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
 |**2026-04-23**|**Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management**|Yanan Wang et.al.|[2604.21209](http://arxiv.org/abs/2604.21209)|null|
 |**2026-04-22**|**Differentiable Conformal Training for LLM Reasoning Factuality**|Nathan Hittesdorf et.al.|[2604.20098](http://arxiv.org/abs/2604.20098)|null|
 |**2026-04-21**|**Mind the Unseen Mass: Unmasking LLM Hallucinations via Soft-Hybrid Alphabet Estimation**|Hongxing Pan et.al.|[2604.19162](http://arxiv.org/abs/2604.19162)|null|
-|**2026-04-18**|**PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations**|Yuhe Wu et.al.|[2604.16909](http://arxiv.org/abs/2604.16909)|null|
+|**2026-04-26**|**PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations**|Yuhe Wu et.al.|[2604.16909](http://arxiv.org/abs/2604.16909)|null|
 |**2026-04-16**|**Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation**|Zoe Fingleton et.al.|[2604.15270](http://arxiv.org/abs/2604.15270)|null|
 |**2026-04-16**|**Disentangle-then-Refine: LLM-Guided Decoupling and Structure-Aware Refinement for Graph Contrastive Learning**|Zhaoxing Li et.al.|[2604.14746](http://arxiv.org/abs/2604.14746)|null|
 |**2026-04-14**|**COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery**|Dominik Blain et.al.|[2604.12172](http://arxiv.org/abs/2604.12172)|null|
