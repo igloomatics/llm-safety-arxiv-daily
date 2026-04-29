@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
+|**2026-04-28**|**Making AI-Assisted Grant Evaluation Auditable without Exposing the Model**|Kemal Bicakci et.al.|[2604.25200](http://arxiv.org/abs/2604.25200)|null|
+|**2026-04-28**|**FCMBench-Video: Benchmarking Document Video Intelligence**|Runze Cui et.al.|[2604.25186](http://arxiv.org/abs/2604.25186)|null|
+|**2026-04-28**|**One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations**|Ravikumar Balakrishnan et.al.|[2604.25102](http://arxiv.org/abs/2604.25102)|null|
+|**2026-04-27**|**Adaptive Prompt Embedding Optimization for LLM Jailbreaking**|Miles Q. Li et.al.|[2604.24983](http://arxiv.org/abs/2604.24983)|null|
+|**2026-04-27**|**SUDP: Secret-Use Delegation Protocol for Agentic Systems**|Xiaohang Yu et.al.|[2604.24920](http://arxiv.org/abs/2604.24920)|null|
 |**2026-04-27**|**Layerwise Convergence Fingerprints for Runtime Misbehavior Detection in Large Language Models**|Nay Myat Min et.al.|[2604.24542](http://arxiv.org/abs/2604.24542)|null|
 |**2026-04-27**|**AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization**|Zonghao Ying et.al.|[2604.24118](http://arxiv.org/abs/2604.24118)|null|
 |**2026-04-27**|**Poster: ClawdGo: Endogenous Security Awareness Training for Autonomous AI Agents**|Jiaqi Li et.al.|[2604.24020](http://arxiv.org/abs/2604.24020)|null|
@@ -177,6 +183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment**|James Pustejovsky et.al.|[2604.25136](http://arxiv.org/abs/2604.25136)|null|
 |**2026-04-27**|**A Multi-Dimensional Audit of Politically Aligned Large Language Models**|Lisa Korver et.al.|[2604.24429](http://arxiv.org/abs/2604.24429)|null|
 |**2026-04-27**|**Meta-Aligner: Bidirectional Preference-Policy Optimization for Multi-Objective LLMs Alignment**|Wenzhe Xu et.al.|[2604.24178](http://arxiv.org/abs/2604.24178)|null|
 |**2026-04-26**|**Pref-CTRL: Preference Driven LLM Alignment using Representation Editing**|Imranul Ashrafi et.al.|[2604.23543](http://arxiv.org/abs/2604.23543)|null|
