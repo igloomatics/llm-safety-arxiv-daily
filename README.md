@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,7 +189,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -266,13 +266,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-27**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
+|**2026-04-28**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
 |**2026-04-23**|**Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management**|Yanan Wang et.al.|[2604.21209](http://arxiv.org/abs/2604.21209)|null|
 |**2026-04-22**|**Differentiable Conformal Training for LLM Reasoning Factuality**|Nathan Hittesdorf et.al.|[2604.20098](http://arxiv.org/abs/2604.20098)|null|
 |**2026-04-21**|**Mind the Unseen Mass: Unmasking LLM Hallucinations via Soft-Hybrid Alphabet Estimation**|Hongxing Pan et.al.|[2604.19162](http://arxiv.org/abs/2604.19162)|null|
@@ -320,7 +320,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -344,5 +344,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 

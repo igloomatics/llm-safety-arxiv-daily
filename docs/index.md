@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -258,7 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-27**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
+|**2026-04-28**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
 |**2026-04-23**|**Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management**|Yanan Wang et.al.|[2604.21209](http://arxiv.org/abs/2604.21209)|null|
 |**2026-04-22**|**Differentiable Conformal Training for LLM Reasoning Factuality**|Nathan Hittesdorf et.al.|[2604.20098](http://arxiv.org/abs/2604.20098)|null|
 |**2026-04-21**|**Mind the Unseen Mass: Unmasking LLM Hallucinations via Soft-Hybrid Alphabet Estimation**|Hongxing Pan et.al.|[2604.19162](http://arxiv.org/abs/2604.19162)|null|
