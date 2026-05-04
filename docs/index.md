@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**CleanBase: Detecting Malicious Documents in RAG Knowledge Databases**|Weifei Jin et.al.|[2605.00460](http://arxiv.org/abs/2605.00460)|null|
 |**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|
 |**2026-04-30**|**Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection**|Prashant Kulkarni et.al.|[2604.28129](http://arxiv.org/abs/2604.28129)|null|
 |**2026-04-29**|**Indirect Prompt Injection in the Wild: An Empirical Study of Prevalence, Techniques, and Objectives**|Soheil Khodayari et.al.|[2604.27202](http://arxiv.org/abs/2604.27202)|null|
