@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Tool Use as Action: Towards Agentic Control in Mobile Core Networks**|Purna Sai Garigipati et.al.|[2605.02811](http://arxiv.org/abs/2605.02811)|null|
+|**2026-05-04**|**When Alignment Isn't Enough: Response-Path Attacks on LLM Agents**|Mingyu Luo et.al.|[2605.02187](http://arxiv.org/abs/2605.02187)|null|
+|**2026-05-02**|**LocalAlign: Enabling Generalizable Prompt Injection Defense via Generation of Near-Target Adversarial Examples for Alignment Training**|Yuyang Gong et.al.|[2605.01462](http://arxiv.org/abs/2605.01462)|null|
+|**2026-05-02**|**VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models**|Pang Liu et.al.|[2605.01449](http://arxiv.org/abs/2605.01449)|null|
+|**2026-05-02**|**Trace: Unmasking AI Attack Agents Through Terminal Behavior Fingerprinting**|Murali Ediga et.al.|[2605.01186](http://arxiv.org/abs/2605.01186)|null|
+|**2026-05-01**|**A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents**|Sheldon Yu et.al.|[2605.01143](http://arxiv.org/abs/2605.01143)|null|
+|**2026-05-01**|**SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking**|Jindong Li et.al.|[2605.00974](http://arxiv.org/abs/2605.00974)|null|
 |**2026-05-01**|**CleanBase: Detecting Malicious Documents in RAG Knowledge Databases**|Weifei Jin et.al.|[2605.00460](http://arxiv.org/abs/2605.00460)|null|
 |**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|
 |**2026-04-30**|**Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection**|Prashant Kulkarni et.al.|[2604.28129](http://arxiv.org/abs/2604.28129)|null|
@@ -194,7 +201,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -272,12 +279,15 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Position: How can Graphs Help Large Language Models?**|Xiyuan Wang et.al.|[2605.02452](http://arxiv.org/abs/2605.02452)|null|
+|**2026-05-04**|**A Compound AI Agent for Conversational Grant Discovery**|Zhisheng Tang et.al.|[2605.02366](http://arxiv.org/abs/2605.02366)|null|
+|**2026-05-03**|**Mitigating Multimodal LLMs Hallucinations via Relevance Propagation at Inference Time**|Itai Allouche et.al.|[2605.01766](http://arxiv.org/abs/2605.01766)|null|
 |**2026-04-28**|**The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications**|Zhenyu Zhao et.al.|[2604.24668](http://arxiv.org/abs/2604.24668)|null|
 |**2026-04-23**|**Align Generative Artificial Intelligence with Human Preferences: A Novel Large Language Model Fine-Tuning Method for Online Review Management**|Yanan Wang et.al.|[2604.21209](http://arxiv.org/abs/2604.21209)|null|
 |**2026-04-22**|**Differentiable Conformal Training for LLM Reasoning Factuality**|Nathan Hittesdorf et.al.|[2604.20098](http://arxiv.org/abs/2604.20098)|null|
@@ -326,12 +336,14 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## LLM Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Compared to What? Baselines and Metrics for Counterfactual Prompting**|Zihao Yang et.al.|[2605.01048](http://arxiv.org/abs/2605.01048)|null|
+|**2026-04-07**|**The Oracle's Fingerprint: Correlated AI Forecasting Errors and the Limits of Bias Transmission**|Theodor Spiro et.al.|[2605.00844](http://arxiv.org/abs/2605.00844)|null|
 |**2026-04-30**|**Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior**|Ali Aghazadeh Ardebili et.al.|[2604.27624](http://arxiv.org/abs/2604.27624)|null|
 |**2026-04-30**|**Measuring Opinion Bias and Sycophancy via LLM-based Persuasion**|Rodrigo Nogueira et.al.|[2604.21564](http://arxiv.org/abs/2604.21564)|null|
 |**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)|null|
@@ -351,5 +363,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
