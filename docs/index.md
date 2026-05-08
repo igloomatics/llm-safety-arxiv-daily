@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation**|Di Lu et.al.|[2605.06393](http://arxiv.org/abs/2605.06393)|null|
+|**2026-05-06**|**WAAA! Web Adversaries Against Agentic Browsers**|Sohom Datta et.al.|[2605.05509](http://arxiv.org/abs/2605.05509)|null|
+|**2026-05-06**|**Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure**|Krti Tallam et.al.|[2605.05440](http://arxiv.org/abs/2605.05440)|null|
+|**2026-05-06**|**SecureMCP: A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol**|Wonbae Kim et.al.|[2605.05260](http://arxiv.org/abs/2605.05260)|null|
 |**2026-05-05**|**Laundering AI Authority with Adversarial Examples**|Jie Zhang et.al.|[2605.04261](http://arxiv.org/abs/2605.04261)|null|
 |**2026-05-05**|**ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection**|Shihao Weng et.al.|[2605.03378](http://arxiv.org/abs/2605.03378)|null|
-|**2026-05-04**|**When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI**|Javad Forough et.al.|[2605.03213](http://arxiv.org/abs/2605.03213)|null|
+|**2026-05-07**|**When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI**|Javad Forough et.al.|[2605.03213](http://arxiv.org/abs/2605.03213)|null|
 |**2026-05-04**|**PIIGuard: Mitigating PII Harvesting under Adversarial Sanitization**|Mingshuo Liu et.al.|[2605.03129](http://arxiv.org/abs/2605.03129)|null|
 |**2026-05-04**|**Tool Use as Action: Towards Agentic Control in Mobile Core Networks**|Purna Sai Garigipati et.al.|[2605.02811](http://arxiv.org/abs/2605.02811)|null|
 |**2026-05-04**|**When Alignment Isn't Enough: Response-Path Attacks on LLM Agents**|Mingyu Luo et.al.|[2605.02187](http://arxiv.org/abs/2605.02187)|null|
@@ -199,6 +203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment**|Hao Yu et.al.|[2605.06375](http://arxiv.org/abs/2605.06375)|null|
 |**2026-05-05**|**Explaining and Preventing Alignment Collapse in Iterative RLHF**|Etienne Gauthier et.al.|[2605.04266](http://arxiv.org/abs/2605.04266)|null|
 |**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
 |**2026-05-06**|**ANO: A Principled Approach to Robust Policy Optimization**|Yiheng Zhang et.al.|[2605.02320](http://arxiv.org/abs/2605.02320)|null|
@@ -278,6 +283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation**|Huizi Cui et.al.|[2605.05777](http://arxiv.org/abs/2605.05777)|null|
 |**2026-05-06**|**Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction**|Dan Wilson et.al.|[2605.05134](http://arxiv.org/abs/2605.05134)|null|
 |**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
 |**2026-05-04**|**Position: How can Graphs Help Large Language Models?**|Xiyuan Wang et.al.|[2605.02452](http://arxiv.org/abs/2605.02452)|null|
@@ -335,6 +341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias**|Alif Al Hasan et.al.|[2605.05427](http://arxiv.org/abs/2605.05427)|null|
 |**2026-05-01**|**Compared to What? Baselines and Metrics for Counterfactual Prompting**|Zihao Yang et.al.|[2605.01048](http://arxiv.org/abs/2605.01048)|null|
 |**2026-04-07**|**The Oracle's Fingerprint: Correlated AI Forecasting Errors and the Limits of Bias Transmission**|Theodor Spiro et.al.|[2605.00844](http://arxiv.org/abs/2605.00844)|null|
 |**2026-04-30**|**Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior**|Ali Aghazadeh Ardebili et.al.|[2604.27624](http://arxiv.org/abs/2604.27624)|null|
