@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning**|Al Muhit Muhtadi et.al.|[2605.07269](http://arxiv.org/abs/2605.07269)|null|
 |**2026-05-07**|**Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation**|Di Lu et.al.|[2605.06393](http://arxiv.org/abs/2605.06393)|null|
 |**2026-05-06**|**WAAA! Web Adversaries Against Agentic Browsers**|Sohom Datta et.al.|[2605.05509](http://arxiv.org/abs/2605.05509)|null|
 |**2026-05-06**|**Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure**|Krti Tallam et.al.|[2605.05440](http://arxiv.org/abs/2605.05440)|null|
@@ -283,6 +284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**LLM hallucinations in the wild: Large-scale evidence from non-existent citations**|Zhenyue Zhao et.al.|[2605.07723](http://arxiv.org/abs/2605.07723)|null|
 |**2026-05-07**|**Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation**|Huizi Cui et.al.|[2605.05777](http://arxiv.org/abs/2605.05777)|null|
 |**2026-05-06**|**Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction**|Dan Wilson et.al.|[2605.05134](http://arxiv.org/abs/2605.05134)|null|
 |**2026-05-05**|**Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments**|Hao Mi et.al.|[2605.03971](http://arxiv.org/abs/2605.03971)|null|
