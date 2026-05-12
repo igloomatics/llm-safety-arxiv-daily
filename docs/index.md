@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)|null|
+|**2026-05-11**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176](http://arxiv.org/abs/2605.10176)|null|
+|**2026-05-10**|**Oracle Poisoning: Corrupting Knowledge Graphs to Weaponise AI Agent Reasoning**|Ben Kereopa-Yorke et.al.|[2605.09822](http://arxiv.org/abs/2605.09822)|null|
+|**2026-05-10**|**CALYREX: Cross-Attention LaYeR EXtended Transformers for System Prompt Anchoring**|Li Lixing et.al.|[2605.09737](http://arxiv.org/abs/2605.09737)|null|
+|**2026-05-09**|**When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents**|Strick Sheng et.al.|[2605.08828](http://arxiv.org/abs/2605.08828)|null|
+|**2026-05-08**|**When Child Inherits: Modeling and Exploiting Subagent Spawn in Multi-Agent Networks**|Ziwen Cai et.al.|[2605.08460](http://arxiv.org/abs/2605.08460)|null|
+|**2026-05-08**|**LLM Advertisement based on Neuron Auctions**|Peiran Yun et.al.|[2605.08326](http://arxiv.org/abs/2605.08326)|null|
+|**2026-05-08**|**WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation**|Zhichao Liu et.al.|[2605.08310](http://arxiv.org/abs/2605.08310)|null|
+|**2026-05-07**|**Research on Security Enhancement Methods for Adversarial Robust Large Language Model Intelligent Agents for Medical Decision-Making Tasks**|Saisai Hu et.al.|[2605.08257](http://arxiv.org/abs/2605.08257)|null|
 |**2026-05-08**|**MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning**|Al Muhit Muhtadi et.al.|[2605.07269](http://arxiv.org/abs/2605.07269)|null|
 |**2026-05-07**|**Constraining Host-Level Abuse in Self-Hosted Computer-Use Agents via TEE-Backed Isolation**|Di Lu et.al.|[2605.06393](http://arxiv.org/abs/2605.06393)|null|
 |**2026-05-06**|**WAAA! Web Adversaries Against Agentic Browsers**|Sohom Datta et.al.|[2605.05509](http://arxiv.org/abs/2605.05509)|null|
@@ -204,6 +213,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-10**|**EvoPref: Multi-Objective Evolutionary Optimization Discovers Diverse LLM Alignments Beyond Gradient Descent**|Dongxin Guo et.al.|[2605.09777](http://arxiv.org/abs/2605.09777)|null|
+|**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
+|**2026-05-09**|**The Grounding Gap: How LLMs Anchor the Meaning of Abstract Concepts Differently from Humans**|Odysseas S. Chlapanis et.al.|[2605.08837](http://arxiv.org/abs/2605.08837)|null|
+|**2026-05-08**|**Can Revealed Preferences Clarify LLM Alignment and Steering?**|Khurram Yamin et.al.|[2605.08556](http://arxiv.org/abs/2605.08556)|null|
+|**2026-05-08**|**Teachers' Perceived Benefits and Risks of AI Across Fifty-Five Countries: An Audit of LLM Alignment and Steerability**|Yan Tao et.al.|[2605.08486](http://arxiv.org/abs/2605.08486)|null|
 |**2026-05-07**|**A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment**|Hao Yu et.al.|[2605.06375](http://arxiv.org/abs/2605.06375)|null|
 |**2026-05-05**|**Explaining and Preventing Alignment Collapse in Iterative RLHF**|Etienne Gauthier et.al.|[2605.04266](http://arxiv.org/abs/2605.04266)|null|
 |**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
@@ -284,6 +298,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs**|Jiameng Li et.al.|[2605.10050](http://arxiv.org/abs/2605.10050)|null|
+|**2026-05-10**|**LASSA Architecture-Based Autonomous Fault-Tolerant Control of Unmanned Underwater Vehicles**|Hong Chen et.al.|[2605.09494](http://arxiv.org/abs/2605.09494)|null|
+|**2026-05-10**|**CHAINTRIX: A multi-pipeline LLM-augmented framework for automated smart-contract security auditing**|Gabriela Dobrita et.al.|[2605.09350](http://arxiv.org/abs/2605.09350)|null|
+|**2026-05-10**|**HOME-KGQA: A Benchmark Dataset for Multimodal Knowledge Graph Question Answering on Household Daily Activities**|Shusaku Egami et.al.|[2605.09348](http://arxiv.org/abs/2605.09348)|null|
 |**2026-05-08**|**LLM hallucinations in the wild: Large-scale evidence from non-existent citations**|Zhenyue Zhao et.al.|[2605.07723](http://arxiv.org/abs/2605.07723)|null|
 |**2026-05-07**|**Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation**|Huizi Cui et.al.|[2605.05777](http://arxiv.org/abs/2605.05777)|null|
 |**2026-05-06**|**Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction**|Dan Wilson et.al.|[2605.05134](http://arxiv.org/abs/2605.05134)|null|
@@ -343,6 +361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-09**|**BiAxisAudit: A Novel Framework to Evaluate LLM Bias Across Prompt Sensitivity and Response-Layer Divergence**|Jialing Gan et.al.|[2605.09041](http://arxiv.org/abs/2605.09041)|null|
 |**2026-05-06**|**The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias**|Alif Al Hasan et.al.|[2605.05427](http://arxiv.org/abs/2605.05427)|null|
 |**2026-05-01**|**Compared to What? Baselines and Metrics for Counterfactual Prompting**|Zihao Yang et.al.|[2605.01048](http://arxiv.org/abs/2605.01048)|null|
 |**2026-04-07**|**The Oracle's Fingerprint: Correlated AI Forecasting Errors and the Limits of Bias Transmission**|Theodor Spiro et.al.|[2605.00844](http://arxiv.org/abs/2605.00844)|null|
