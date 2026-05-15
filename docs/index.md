@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
+|**2026-05-14**|**WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections**|Tri Cao et.al.|[2605.15030](http://arxiv.org/abs/2605.15030)|null|
+|**2026-05-14**|**The Great Pretender: A Stochasticity Problem in LLM Jailbreak**|Jean-Philippe Monteuuis et.al.|[2605.14418](http://arxiv.org/abs/2605.14418)|null|
+|**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
 |**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-13**|**Sleeper Channels and Provenance Gates: Persistent Prompt Injection in Always-on Autonomous AI Agents**|Narek Maloyan et.al.|[2605.13471](http://arxiv.org/abs/2605.13471)|null|
 |**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|null|
@@ -309,6 +313,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**VerbalValue: A Socially Intelligent Virtual Host for Sales-Driven Live Commerce**|Yuyan Chen et.al.|[2605.14542](http://arxiv.org/abs/2605.14542)|null|
+|**2026-05-13**|**ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows**|Alvaro Lopez Pellicer et.al.|[2605.14113](http://arxiv.org/abs/2605.14113)|null|
+|**2026-05-13**|**Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning**|Olivia Peiyu Wang et.al.|[2605.14049](http://arxiv.org/abs/2605.14049)|null|
 |**2026-05-12**|**REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations**|Buyun Liang et.al.|[2605.12813](http://arxiv.org/abs/2605.12813)|null|
 |**2026-05-12**|**ALGOGEN: Tool-Generated Verifiable Traces for Reliable Algorithm Visualization**|Kunpeng Liao et.al.|[2605.12159](http://arxiv.org/abs/2605.12159)|null|
 |**2026-05-11**|**Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights**|Wenbo Chen et.al.|[2605.11330](http://arxiv.org/abs/2605.11330)|null|
