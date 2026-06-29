@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.29
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models**|Dewank Pant et.al.|[2606.27567](http://arxiv.org/abs/2606.27567)|null|
+|**2026-06-25**|**Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings**|Preet Baxi et.al.|[2606.27287](http://arxiv.org/abs/2606.27287)|null|
+|**2026-06-25**|**MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG**|Inderjeet Singh et.al.|[2606.26793](http://arxiv.org/abs/2606.26793)|null|
+|**2026-06-25**|**Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents**|Nada Lahjouji et.al.|[2606.26627](http://arxiv.org/abs/2606.26627)|null|
+|**2026-06-25**|**Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents**|Praneeth Narisetty et.al.|[2606.26479](http://arxiv.org/abs/2606.26479)|null|
+|**2026-06-24**|**Beyond Feedforward Networks: Reentry Neural Systems as the Fundamental Basis of Subjecthood and Intrinsic Safety of Next-Generation AGI**|A. S. Ushakov et.al.|[2606.26406](http://arxiv.org/abs/2606.26406)|null|
+|**2026-06-24**|**Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats**|Poojitha Thota et.al.|[2606.26377](http://arxiv.org/abs/2606.26377)|null|
+|**2026-06-26**|**AI Snitches Get Glitches: Towards Evading Agentic Surveillance**|Hyejun Jeong et.al.|[2606.25836](http://arxiv.org/abs/2606.25836)|null|
+|**2026-06-25**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
+|**2026-06-23**|**LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges**|Thi Huyen Nguyen et.al.|[2606.25057](http://arxiv.org/abs/2606.25057)|null|
 |**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
 |**2026-05-14**|**WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections**|Tri Cao et.al.|[2605.15030](http://arxiv.org/abs/2605.15030)|null|
 |**2026-05-14**|**The Great Pretender: A Stochasticity Problem in LLM Jailbreak**|Jean-Philippe Monteuuis et.al.|[2605.14418](http://arxiv.org/abs/2605.14418)|null|
@@ -227,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users**|Haw-Shiuan Chang et.al.|[2606.20482](http://arxiv.org/abs/2606.20482)|null|
+|**2026-06-17**|**Steerable Cultural Preference Optimization of Reward Models**|Minsik Oh et.al.|[2606.18606](http://arxiv.org/abs/2606.18606)|null|
+|**2026-06-14**|**SciText2Eq: Assessing LLMs for Explainable Equation Generation for Scientific Creativity**|Yifan Mo et.al.|[2606.16003](http://arxiv.org/abs/2606.16003)|null|
+|**2026-06-13**|**CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment**|Wenbo Yu et.al.|[2606.15396](http://arxiv.org/abs/2606.15396)|null|
+|**2026-06-10**|**Beyond representational alignment with brain-guided language models for robust reasoning**|Mingqing Xiao et.al.|[2606.11893](http://arxiv.org/abs/2606.11893)|null|
+|**2026-06-16**|**DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors**|Jiale Deng et.al.|[2606.11616](http://arxiv.org/abs/2606.11616)|null|
+|**2026-06-10**|**Large language models selectively converge with human-shared neural semantic representations**|Chen Hong et.al.|[2606.11598](http://arxiv.org/abs/2606.11598)|null|
+|**2026-06-09**|**LLM-Mediated Demand Response Coordination in Smart Microgrids**|J. de Curtò et.al.|[2606.11050](http://arxiv.org/abs/2606.11050)|null|
+|**2026-06-05**|**Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models**|Angana Borah et.al.|[2606.07877](http://arxiv.org/abs/2606.07877)|null|
+|**2026-06-05**|**SAW: Stage-Aware Dynamic Weighting for Multi-Objective Reinforcement Learning in Large Language Models**|Yuchen He et.al.|[2606.07705](http://arxiv.org/abs/2606.07705)|null|
 |**2026-05-11**|**Leveraging RAG for Training-Free Alignment of LLMs**|John T. Halloran et.al.|[2605.11217](http://arxiv.org/abs/2605.11217)|null|
 |**2026-05-10**|**EvoPref: Multi-Objective Evolutionary Optimization Discovers Diverse LLM Alignments Beyond Gradient Descent**|Dongxin Guo et.al.|[2605.09777](http://arxiv.org/abs/2605.09777)|null|
 |**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
@@ -313,6 +333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-19**|**The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence**|David Nordfors et.al.|[2606.21008](http://arxiv.org/abs/2606.21008)|null|
+|**2026-06-16**|**Evaluating the Effectiveness of LLMs in Aiding Compliance Testing of PKCS#1-v1.5**|Polina Kozyreva et.al.|[2606.18405](http://arxiv.org/abs/2606.18405)|null|
+|**2026-06-14**|**DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts**|Zijian Carl Ma et.al.|[2606.15931](http://arxiv.org/abs/2606.15931)|null|
+|**2026-06-11**|**Zero-source LLM Hallucination Detection with Human-like Criteria Probing**|Jiahao Yang et.al.|[2606.12900](http://arxiv.org/abs/2606.12900)|null|
+|**2026-06-08**|**FASE: Fast Adaptive Semantic Entropy for Code Quality**|Shizhe Lin et.al.|[2606.09800](http://arxiv.org/abs/2606.09800)|null|
+|**2026-06-06**|**Constrained Paraphrase Consistency for LLM Hallucination Detection**|Shanshan Lin et.al.|[2606.08158](http://arxiv.org/abs/2606.08158)|null|
+|**2026-06-04**|**Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)**|Christopher J. Wedge et.al.|[2606.05901](http://arxiv.org/abs/2606.05901)|null|
+|**2026-06-01**|**DECK: A Consistency x Confidence Taxonomy of LLM Hallucinations**|Mohit Singh Chauhan et.al.|[2606.02289](http://arxiv.org/abs/2606.02289)|null|
+|**2026-05-29**|**LLM-FACETS: A Privacy-Preserving Framework for Evaluating LLM Transparency and Accountability**|Tom Lucas et.al.|[2605.31167](http://arxiv.org/abs/2605.31167)|null|
+|**2026-05-28**|**CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law**|Ethan Zhao et.al.|[2605.30497](http://arxiv.org/abs/2605.30497)|null|
 |**2026-05-14**|**VerbalValue: A Socially Intelligent Virtual Host for Sales-Driven Live Commerce**|Yuyan Chen et.al.|[2605.14542](http://arxiv.org/abs/2605.14542)|null|
 |**2026-05-13**|**ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows**|Alvaro Lopez Pellicer et.al.|[2605.14113](http://arxiv.org/abs/2605.14113)|null|
 |**2026-05-13**|**Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning**|Olivia Peiyu Wang et.al.|[2605.14049](http://arxiv.org/abs/2605.14049)|null|
@@ -382,6 +412,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
+|**2026-06-15**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
+|**2026-06-10**|**Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research**|Andrés Abeliuk et.al.|[2606.12247](http://arxiv.org/abs/2606.12247)|null|
+|**2026-06-06**|**IDP-Bench: Benchmarking ability of LLMs to protect personal information in interdependent privacy contexts**|Ayana Hussain et.al.|[2606.09908](http://arxiv.org/abs/2606.09908)|null|
+|**2026-06-02**|**TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment**|Akshatha Srikantha et.al.|[2606.03036](http://arxiv.org/abs/2606.03036)|null|
+|**2026-05-31**|**IndoBias: A Dual Track Culturally Grounded Benchmark for LLMs Bias Evaluation in Indonesian Languages**|Ikhlasul Akmal Hanif et.al.|[2606.01260](http://arxiv.org/abs/2606.01260)|null|
+|**2026-05-22**|**It's the humans, not the data: Geopolitical bias in LLMs originates in post-training, amplified by the language of the prompt**|Stuart Bladon et.al.|[2605.23825](http://arxiv.org/abs/2605.23825)|null|
 |**2026-05-12**|**PrivacySIM: Evaluating LLM Simulation of User Privacy Behavior**|James Flemings et.al.|[2605.12147](http://arxiv.org/abs/2605.12147)|null|
 |**2026-05-09**|**BiAxisAudit: A Novel Framework to Evaluate LLM Bias Across Prompt Sensitivity and Response-Layer Divergence**|Jialing Gan et.al.|[2605.09041](http://arxiv.org/abs/2605.09041)|null|
 |**2026-05-06**|**The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias**|Alif Al Hasan et.al.|[2605.05427](http://arxiv.org/abs/2605.05427)|null|
