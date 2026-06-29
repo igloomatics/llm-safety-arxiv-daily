@@ -17,6 +17,20 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+# Shared arxiv client with retry/backoff. The export API frequently rate-limits
+# or drops connections from datacenter IPs (e.g. GitHub Actions runners), so a
+# resilient client is required to avoid aborting the whole run on a transient error.
+arxiv_client = arxiv.Client(
+    page_size=100,
+    delay_seconds=5,
+    num_retries=5,
+)
+
+# Papers with Code (arxiv.paperswithcode.com) was shut down and the host no longer
+# resolves/serves TLS, so the code-link lookup below always fails. Disabled by default
+# to avoid spamming errors and wasting time; flip to True if a working source is wired up.
+ENABLE_CODE_LINK_LOOKUP = False
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -91,8 +105,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     @param query: str
     @return paper_with_code: dict
     """
-    # output 
-    content = dict() 
+    # output
+    content = dict()
     content_to_web = dict()
     search_engine = arxiv.Search(
         query = query,
@@ -100,7 +114,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    try:
+        results = list(arxiv_client.results(search_engine))
+    except Exception as e:
+        # Don't let a transient arxiv API failure (rate-limit / dropped connection)
+        # abort the entire run. Return whatever we have for this topic and continue.
+        logging.error(f"arxiv query failed for topic '{topic}': {e}")
+        return {topic: content}, {topic: content_to_web}
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -125,11 +147,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
-            # source code link    
-            r = requests.get(code_url, timeout=5).json()
+            # source code link
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            if ENABLE_CODE_LINK_LOOKUP:
+                r = requests.get(code_url, timeout=5).json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
@@ -201,7 +224,7 @@ def update_paper_links(filename):
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
                 
                 valid_link = False if '|null|' in contents else True
-                if valid_link:
+                if valid_link or not ENABLE_CODE_LINK_LOOKUP:
                     continue
                 try:
                     code_url = base_url + paper_id #TODO
