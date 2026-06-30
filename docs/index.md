@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Forensic Trajectory Signatures for Agent Memory Poisoning Detection**|Jun Wen Leong et.al.|[2606.30566](http://arxiv.org/abs/2606.30566)|null|
+|**2026-06-29**|**IHDec: Divergence-Steered Contrastive Decoding for Securing Multi-Turn Instruction Hierarchies**|Nicole Geumheon Liu et.al.|[2606.29960](http://arxiv.org/abs/2606.29960)|null|
+|**2026-06-28**|**SCARCE: Scalable Cascade Analysis for Rare-event Characterisation via Embeddings**|Yingjie Wang et.al.|[2606.29623](http://arxiv.org/abs/2606.29623)|null|
+|**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
+|**2026-06-28**|**Agent Security Meets Regulatory Reality -- A Practitioner Systematization of Autonomous-Agent Threats and Controls in Regulated Financial Systems**|Krishna Mohan et.al.|[2606.29142](http://arxiv.org/abs/2606.29142)|null|
+|**2026-06-27**|**From Determinism to Delegation: AI-Native Software Engineering and the Evolution of the Agentic Engineer**|Mamdouh Alenezi et.al.|[2606.28791](http://arxiv.org/abs/2606.28791)|null|
+|**2026-06-26**|**RIPA: Sensory-Vector Prompt Injection Attacks on LLM-Controlled ROS 2 Robots**|Nima Dorzhiev et.al.|[2606.28649](http://arxiv.org/abs/2606.28649)|null|
 |**2026-06-25**|**On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models**|Dewank Pant et.al.|[2606.27567](http://arxiv.org/abs/2606.27567)|null|
 |**2026-06-25**|**Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings**|Preet Baxi et.al.|[2606.27287](http://arxiv.org/abs/2606.27287)|null|
 |**2026-06-25**|**MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG**|Inderjeet Singh et.al.|[2606.26793](http://arxiv.org/abs/2606.26793)|null|
@@ -237,6 +244,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-28**|**A Hybrid Framework for Song Lyric Annotation Based on Human-LLM Alignment**|Rashini Liyanarachchi et.al.|[2606.29273](http://arxiv.org/abs/2606.29273)|null|
+|**2026-06-27**|**Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation**|Gias Uddin et.al.|[2606.28998](http://arxiv.org/abs/2606.28998)|null|
 |**2026-06-18**|**Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users**|Haw-Shiuan Chang et.al.|[2606.20482](http://arxiv.org/abs/2606.20482)|null|
 |**2026-06-17**|**Steerable Cultural Preference Optimization of Reward Models**|Minsik Oh et.al.|[2606.18606](http://arxiv.org/abs/2606.18606)|null|
 |**2026-06-14**|**SciText2Eq: Assessing LLMs for Explainable Equation Generation for Scientific Creativity**|Yifan Mo et.al.|[2606.16003](http://arxiv.org/abs/2606.16003)|null|
