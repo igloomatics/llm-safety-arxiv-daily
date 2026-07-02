@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity**|Brett Reynolds et.al.|[2607.01153](http://arxiv.org/abs/2607.01153)|null|
 |**2026-06-30**|**Beyond Wireless Security: Covert Communications in Large Language Model-enabled Edge Networks**|Yuanai Xie et.al.|[2606.31016](http://arxiv.org/abs/2606.31016)|null|
 |**2026-06-29**|**Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense**|Mitchell Hermon et.al.|[2606.30783](http://arxiv.org/abs/2606.30783)|null|
 |**2026-06-29**|**Understanding and Evaluating Claw-like Agent Security Through a Computer-Systems Lens**|Peizhi Niu et.al.|[2606.30755](http://arxiv.org/abs/2606.30755)|null|
@@ -346,6 +347,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**A Mechanistic View of Authority Hierarchy in LLM Sycophancy**|Emil Joswin et.al.|[2607.00415](http://arxiv.org/abs/2607.00415)|null|
+|**2026-06-30**|**Readable but Not Controllable: Neuron-Level Evidence for Medical LLM Hallucination**|Vijay Vankadaru et.al.|[2607.00158](http://arxiv.org/abs/2607.00158)|null|
 |**2026-06-19**|**The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence**|David Nordfors et.al.|[2606.21008](http://arxiv.org/abs/2606.21008)|null|
 |**2026-06-16**|**Evaluating the Effectiveness of LLMs in Aiding Compliance Testing of PKCS#1-v1.5**|Polina Kozyreva et.al.|[2606.18405](http://arxiv.org/abs/2606.18405)|null|
 |**2026-06-14**|**DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts**|Zijian Carl Ma et.al.|[2606.15931](http://arxiv.org/abs/2606.15931)|null|
@@ -426,7 +429,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-16**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
-|**2026-06-15**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
+|**2026-07-01**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
 |**2026-06-10**|**Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research**|Andrés Abeliuk et.al.|[2606.12247](http://arxiv.org/abs/2606.12247)|null|
 |**2026-06-06**|**IDP-Bench: Benchmarking ability of LLMs to protect personal information in interdependent privacy contexts**|Ayana Hussain et.al.|[2606.09908](http://arxiv.org/abs/2606.09908)|null|
 |**2026-06-02**|**TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment**|Akshatha Srikantha et.al.|[2606.03036](http://arxiv.org/abs/2606.03036)|null|
