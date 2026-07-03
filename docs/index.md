@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
 |**2026-07-01**|**Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity**|Brett Reynolds et.al.|[2607.01153](http://arxiv.org/abs/2607.01153)|null|
 |**2026-06-30**|**Beyond Wireless Security: Covert Communications in Large Language Model-enabled Edge Networks**|Yuanai Xie et.al.|[2606.31016](http://arxiv.org/abs/2606.31016)|null|
 |**2026-06-29**|**Security--Fidelity Tradeoffs: The Hidden Cost of Prompt Injection Defense**|Mitchell Hermon et.al.|[2606.30783](http://arxiv.org/abs/2606.30783)|null|
@@ -248,6 +249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Distributionally Robust Listwise Preference Optimization**|Xudong Wu et.al.|[2607.01715](http://arxiv.org/abs/2607.01715)|null|
 |**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
 |**2026-06-28**|**A Hybrid Framework for Song Lyric Annotation Based on Human-LLM Alignment**|Rashini Liyanarachchi et.al.|[2606.29273](http://arxiv.org/abs/2606.29273)|null|
 |**2026-06-27**|**Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation**|Gias Uddin et.al.|[2606.28998](http://arxiv.org/abs/2606.28998)|null|
@@ -347,6 +349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
 |**2026-07-01**|**A Mechanistic View of Authority Hierarchy in LLM Sycophancy**|Emil Joswin et.al.|[2607.00415](http://arxiv.org/abs/2607.00415)|null|
 |**2026-06-30**|**Readable but Not Controllable: Neuron-Level Evidence for Medical LLM Hallucination**|Vijay Vankadaru et.al.|[2607.00158](http://arxiv.org/abs/2607.00158)|null|
 |**2026-06-19**|**The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence**|David Nordfors et.al.|[2606.21008](http://arxiv.org/abs/2606.21008)|null|
