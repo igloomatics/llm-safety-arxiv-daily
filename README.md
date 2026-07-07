@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Untrusted Content Masking for Web Agents with Security Guarantees**|Kristina Nikolić et.al.|[2607.05277](http://arxiv.org/abs/2607.05277)|null|
+|**2026-07-06**|**Agent Data Injection Attacks are Realistic Threats to AI Agents**|Woohyuk Choi et.al.|[2607.05120](http://arxiv.org/abs/2607.05120)|null|
+|**2026-07-05**|**Biological Motifs for Agentic Control**|Bogdan Banu et.al.|[2607.04240](http://arxiv.org/abs/2607.04240)|null|
+|**2026-07-05**|**Unsupervised Features Mining via Activation Geometry**|Amit LeVi et.al.|[2607.04222](http://arxiv.org/abs/2607.04222)|null|
+|**2026-07-04**|**DualView: Preventing Indirect Prompt Injection in Personal AI Agents**|Juhee Kim et.al.|[2607.03821](http://arxiv.org/abs/2607.03821)|null|
 |**2026-07-02**|**Distributed Attacks in Persistent-State AI Control**|Josh Hills et.al.|[2607.02514](http://arxiv.org/abs/2607.02514)|null|
 |**2026-07-01**|**Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity**|Brett Reynolds et.al.|[2607.01153](http://arxiv.org/abs/2607.01153)|null|
 |**2026-06-30**|**Beyond Wireless Security: Covert Communications in Large Language Model-enabled Edge Networks**|Yuanai Xie et.al.|[2606.31016](http://arxiv.org/abs/2606.31016)|null|
@@ -255,16 +260,18 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
+|**2026-07-03**|**Aligning Language Models with Selective Prediction**|Gaoxiang Luo et.al.|[2607.03528](http://arxiv.org/abs/2607.03528)|null|
 |**2026-07-02**|**Distributionally Robust Listwise Preference Optimization**|Xudong Wu et.al.|[2607.01715](http://arxiv.org/abs/2607.01715)|null|
 |**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
 |**2026-06-28**|**A Hybrid Framework for Song Lyric Annotation Based on Human-LLM Alignment**|Rashini Liyanarachchi et.al.|[2606.29273](http://arxiv.org/abs/2606.29273)|null|
-|**2026-06-27**|**Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation**|Gias Uddin et.al.|[2606.28998](http://arxiv.org/abs/2606.28998)|null|
+|**2026-07-03**|**Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation**|Sanjeepan Sivapiran et.al.|[2606.28998](http://arxiv.org/abs/2606.28998)|null|
 |**2026-06-18**|**Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users**|Haw-Shiuan Chang et.al.|[2606.20482](http://arxiv.org/abs/2606.20482)|null|
 |**2026-06-17**|**Steerable Cultural Preference Optimization of Reward Models**|Minsik Oh et.al.|[2606.18606](http://arxiv.org/abs/2606.18606)|null|
 |**2026-06-14**|**SciText2Eq: Assessing LLMs for Explainable Equation Generation for Scientific Creativity**|Yifan Mo et.al.|[2606.16003](http://arxiv.org/abs/2606.16003)|null|
@@ -357,7 +364,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -441,7 +448,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -478,5 +485,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
