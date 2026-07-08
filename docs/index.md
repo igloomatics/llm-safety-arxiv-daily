@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -254,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
 |**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
 |**2026-07-03**|**Aligning Language Models with Selective Prediction**|Gaoxiang Luo et.al.|[2607.03528](http://arxiv.org/abs/2607.03528)|null|
 |**2026-07-02**|**Distributionally Robust Listwise Preference Optimization**|Xudong Wu et.al.|[2607.01715](http://arxiv.org/abs/2607.01715)|null|
