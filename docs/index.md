@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**FedMark-FM: Auditable, Risk-Adjusted Data Markets for Federated Foundation-Model Adaptation**|Phat T. Tran-Truong et.al.|[2607.07529](http://arxiv.org/abs/2607.07529)|null|
+|**2026-07-08**|**Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting**|Aya Spira et.al.|[2607.07433](http://arxiv.org/abs/2607.07433)|null|
 |**2026-07-06**|**Untrusted Content Masking for Web Agents with Security Guarantees**|Kristina Nikolić et.al.|[2607.05277](http://arxiv.org/abs/2607.05277)|null|
 |**2026-07-06**|**Agent Data Injection Attacks are Realistic Threats to AI Agents**|Woohyuk Choi et.al.|[2607.05120](http://arxiv.org/abs/2607.05120)|null|
 |**2026-07-05**|**Biological Motifs for Agentic Control**|Bogdan Banu et.al.|[2607.04240](http://arxiv.org/abs/2607.04240)|null|
