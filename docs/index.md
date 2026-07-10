@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Hugo García Cuesta et.al.|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
+|**2026-07-09**|**Prismata: Confining Cross-Site Prompt Injection in Web Agents**|Corban Villa et.al.|[2607.08147](http://arxiv.org/abs/2607.08147)|null|
+|**2026-07-08**|**Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs**|Anupam Wagle et.al.|[2607.07903](http://arxiv.org/abs/2607.07903)|null|
 |**2026-07-08**|**FedMark-FM: Auditable, Risk-Adjusted Data Markets for Federated Foundation-Model Adaptation**|Phat T. Tran-Truong et.al.|[2607.07529](http://arxiv.org/abs/2607.07529)|null|
 |**2026-07-08**|**Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting**|Aya Spira et.al.|[2607.07433](http://arxiv.org/abs/2607.07433)|null|
 |**2026-07-06**|**Untrusted Content Masking for Web Agents with Security Guarantees**|Kristina Nikolić et.al.|[2607.05277](http://arxiv.org/abs/2607.05277)|null|
