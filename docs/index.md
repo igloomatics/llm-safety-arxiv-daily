@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.07.12
+## Updated on 2026.07.13
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583](http://arxiv.org/abs/2607.09583)|null|
 |**2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Hugo García Cuesta et.al.|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
 |**2026-07-09**|**Prismata: Confining Cross-Site Prompt Injection in Web Agents**|Corban Villa et.al.|[2607.08147](http://arxiv.org/abs/2607.08147)|null|
 |**2026-07-08**|**Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs**|Anupam Wagle et.al.|[2607.07903](http://arxiv.org/abs/2607.07903)|null|
