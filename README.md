@@ -1,4 +1,4 @@
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment**|Junyoung Park et.al.|[2607.11070](http://arxiv.org/abs/2607.11070)|null|
+|**2026-07-12**|**Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud**|Bálint Gyevnár et.al.|[2607.10712](http://arxiv.org/abs/2607.10712)|null|
+|**2026-07-11**|**NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations**|Ruksat Khan Shayoni et.al.|[2607.10490](http://arxiv.org/abs/2607.10490)|null|
+|**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yaxin Li et.al.|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
+|**2026-07-11**|**The Effect of Multi-Lingual and Keyword Adversarial Injection on LLM Relevance Judgment**|Nguyen Khoi Vo et.al.|[2607.10080](http://arxiv.org/abs/2607.10080)|null|
+|**2026-07-10**|**"Code Is Cheap. Show Me the Talk.": Lessons from Teaching and Managing AI Coding Tool Usage in a Visualization Course**|Zhongzheng Xu et.al.|[2607.09938](http://arxiv.org/abs/2607.09938)|null|
 |**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583](http://arxiv.org/abs/2607.09583)|null|
 |**2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Hugo García Cuesta et.al.|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
 |**2026-07-09**|**Prismata: Confining Cross-Site Prompt Injection in Web Agents**|Corban Villa et.al.|[2607.08147](http://arxiv.org/abs/2607.08147)|null|
@@ -266,12 +272,14 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-12**|**Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health**|Asher Sprigler et.al.|[2607.10871](http://arxiv.org/abs/2607.10871)|null|
+|**2026-07-12**|**Demographic Prompting at Scale: When More Attributes Hurt LLM--Human Agreement**|Mahammed Kamruzzaman et.al.|[2607.10590](http://arxiv.org/abs/2607.10590)|null|
 |**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
 |**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
 |**2026-07-03**|**Aligning Language Models with Selective Prediction**|Gaoxiang Luo et.al.|[2607.03528](http://arxiv.org/abs/2607.03528)|null|
@@ -371,12 +379,14 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-11**|**Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts**|Istiaq Ahmed Fahad et.al.|[2607.10411](http://arxiv.org/abs/2607.10411)|null|
+|**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
 |**2026-07-01**|**A Mechanistic View of Authority Hierarchy in LLM Sycophancy**|Emil Joswin et.al.|[2607.00415](http://arxiv.org/abs/2607.00415)|null|
 |**2026-06-30**|**Readable but Not Controllable: Neuron-Level Evidence for Medical LLM Hallucination**|Vijay Vankadaru et.al.|[2607.00158](http://arxiv.org/abs/2607.00158)|null|
@@ -455,7 +465,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -492,5 +502,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
