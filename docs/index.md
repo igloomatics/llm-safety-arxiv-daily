@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis**|Junhui Wang et.al.|[2607.12624](http://arxiv.org/abs/2607.12624)|null|
+|**2026-07-14**|**Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions**|Huihao Jing et.al.|[2607.12406](http://arxiv.org/abs/2607.12406)|null|
 |**2026-07-13**|**MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment**|Junyoung Park et.al.|[2607.11070](http://arxiv.org/abs/2607.11070)|null|
 |**2026-07-12**|**Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud**|Bálint Gyevnár et.al.|[2607.10712](http://arxiv.org/abs/2607.10712)|null|
 |**2026-07-11**|**NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations**|Ruksat Khan Shayoni et.al.|[2607.10490](http://arxiv.org/abs/2607.10490)|null|
@@ -371,6 +373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Evidence-Grounded Verified Agentic Reasoning: A Path Toward Eliminating LLM Hallucination in Empirical Inference via Tool-Attested Kernel Proofs**|Junyu Ren et.al.|[2607.12650](http://arxiv.org/abs/2607.12650)|null|
 |**2026-07-11**|**Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts**|Istiaq Ahmed Fahad et.al.|[2607.10411](http://arxiv.org/abs/2607.10411)|null|
 |**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
