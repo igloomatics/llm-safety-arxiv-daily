@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems**|Soham Gadgil et.al.|[2607.14611](http://arxiv.org/abs/2607.14611)|null|
+|**2026-07-16**|**Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation**|Rabimba Karanjai et.al.|[2607.14493](http://arxiv.org/abs/2607.14493)|null|
 |**2026-07-15**|**Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation**|Mohammad Allahbakhsh et.al.|[2607.14006](http://arxiv.org/abs/2607.14006)|null|
 |**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
 |**2026-07-15**|**How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement**|Alexandra E. Michael et.al.|[2607.13718](http://arxiv.org/abs/2607.13718)|null|
