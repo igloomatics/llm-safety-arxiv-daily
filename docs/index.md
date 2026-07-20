@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization**|Yu Cui et.al.|[2607.15977](http://arxiv.org/abs/2607.15977)|null|
+|**2026-07-17**|**From Neural Intent to Cryptographic Authorization: Governing Agentic Workflows**|Jiasi Weng et.al.|[2607.15596](http://arxiv.org/abs/2607.15596)|null|
 |**2026-07-16**|**Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems**|Soham Gadgil et.al.|[2607.14611](http://arxiv.org/abs/2607.14611)|null|
 |**2026-07-16**|**Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation**|Rabimba Karanjai et.al.|[2607.14493](http://arxiv.org/abs/2607.14493)|null|
 |**2026-07-15**|**Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation**|Mohammad Allahbakhsh et.al.|[2607.14006](http://arxiv.org/abs/2607.14006)|null|
@@ -381,6 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**ASK-NN: An Asymmetric Nearest-Neighbor Test that detects Distribution Drifts in Natural Language**|Sergey Zakharov et.al.|[2607.15607](http://arxiv.org/abs/2607.15607)|null|
 |**2026-07-14**|**Evidence-Grounded Verified Agentic Reasoning: A Path Toward Eliminating LLM Hallucination in Empirical Inference via Tool-Attested Kernel Proofs**|Junyu Ren et.al.|[2607.12650](http://arxiv.org/abs/2607.12650)|null|
 |**2026-07-11**|**Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts**|Istiaq Ahmed Fahad et.al.|[2607.10411](http://arxiv.org/abs/2607.10411)|null|
 |**2026-07-10**|**Prompting-MammAlps: Fine-Grained Text-to-Video Retrieval for Camera-Trap Data**|Valentin Gabeff et.al.|[2607.09876](http://arxiv.org/abs/2607.09876)|null|
