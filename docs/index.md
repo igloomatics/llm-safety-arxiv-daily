@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
+|**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
+|**2026-07-21**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
+|**2026-07-20**|**Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing**|Jie Li et.al.|[2607.18485](http://arxiv.org/abs/2607.18485)|null|
 |**2026-07-20**|**Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security**|Devina Jain et.al.|[2607.18063](http://arxiv.org/abs/2607.18063)|null|
 |**2026-07-20**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
 |**2026-07-20**|**Salience Induction against Multi-Hop RAG Agents: Threat and Defense**|Xingfu Zhou et.al.|[2607.17535](http://arxiv.org/abs/2607.17535)|null|
@@ -281,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Semantic Drift in Bug Resolution: How Behavioral Signals Propagate from Reports to Tests and Patches**|Wendkûuni C. Ouédraogo et.al.|[2607.18550](http://arxiv.org/abs/2607.18550)|null|
 |**2026-07-18**|**Learning from World Feedback: Why Model Uncertainty Fails as a Risk Signal in Model-Based RL**|Zhaohui Wang et.al.|[2607.16591](http://arxiv.org/abs/2607.16591)|null|
 |**2026-07-14**|**Meta-Learning Preferences for Multilingual LLM Alignment**|Jiaying Lin et.al.|[2607.13315](http://arxiv.org/abs/2607.13315)|null|
 |**2026-07-12**|**Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health**|Asher Sprigler et.al.|[2607.10871](http://arxiv.org/abs/2607.10871)|null|
