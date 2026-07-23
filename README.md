@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
+|**2026-07-22**|**Defense Against LLM Backdoors using Critical Neuron Isolation Pruning**|Yuxi Li et.al.|[2607.19894](http://arxiv.org/abs/2607.19894)|null|
+|**2026-07-22**|**Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents**|Or Zion Eliav et.al.|[2607.19837](http://arxiv.org/abs/2607.19837)|null|
+|**2026-07-21**|**Twin Agent: Context Residual Compression for Privilege Separated Agents**|Zhanhao Hu et.al.|[2607.19595](http://arxiv.org/abs/2607.19595)|null|
+|**2026-07-20**|**ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems**|Om Narayan et.al.|[2607.19432](http://arxiv.org/abs/2607.19432)|null|
+|**2026-07-20**|**ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems**|Elias Hossain et.al.|[2607.19430](http://arxiv.org/abs/2607.19430)|null|
 |**2026-07-21**|**The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems**|Gjergji Kasneci et.al.|[2607.19292](http://arxiv.org/abs/2607.19292)|null|
 |**2026-07-21**|**Data Leakage Prevention in Agentic Applications via Preemptive Hardening**|Akansha Shukla et.al.|[2607.18847](http://arxiv.org/abs/2607.18847)|null|
 |**2026-07-21**|**CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization**|Xinting Liao et.al.|[2607.18622](http://arxiv.org/abs/2607.18622)|null|
@@ -297,9 +303,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
 |**2026-07-20**|**Semantic Drift in Bug Resolution: How Behavioral Signals Propagate from Reports to Tests and Patches**|Wendkûuni C. Ouédraogo et.al.|[2607.18550](http://arxiv.org/abs/2607.18550)|null|
 |**2026-07-18**|**Learning from World Feedback: Why Model Uncertainty Fails as a Risk Signal in Model-Based RL**|Zhaohui Wang et.al.|[2607.16591](http://arxiv.org/abs/2607.16591)|null|
-|**2026-07-14**|**Meta-Learning Preferences for Multilingual LLM Alignment**|Jiaying Lin et.al.|[2607.13315](http://arxiv.org/abs/2607.13315)|null|
+|**2026-07-21**|**Meta-Learning Preferences for Multilingual LLM Alignment**|Jiaying Lin et.al.|[2607.13315](http://arxiv.org/abs/2607.13315)|null|
 |**2026-07-12**|**Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health**|Asher Sprigler et.al.|[2607.10871](http://arxiv.org/abs/2607.10871)|null|
 |**2026-07-12**|**Demographic Prompting at Scale: When More Attributes Hurt LLM--Human Agreement**|Mahammed Kamruzzaman et.al.|[2607.10590](http://arxiv.org/abs/2607.10590)|null|
 |**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
@@ -407,6 +414,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-22**|**TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis**|Isabel Xu et.al.|[2607.19794](http://arxiv.org/abs/2607.19794)|null|
 |**2026-07-17**|**ASK-NN: An Asymmetric Nearest-Neighbor Test that detects Distribution Drifts in Natural Language**|Sergey Zakharov et.al.|[2607.15607](http://arxiv.org/abs/2607.15607)|null|
 |**2026-07-14**|**Evidence-Grounded Verified Agentic Reasoning: A Path Toward Eliminating LLM Hallucination in Empirical Inference via Tool-Attested Kernel Proofs**|Junyu Ren et.al.|[2607.12650](http://arxiv.org/abs/2607.12650)|null|
 |**2026-07-11**|**Mitigating LLM Sycophancy in Code Smell Detection Using Evidence-Guided Reasoning Prompts**|Istiaq Ahmed Fahad et.al.|[2607.10411](http://arxiv.org/abs/2607.10411)|null|
