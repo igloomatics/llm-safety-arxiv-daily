@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
 |**2026-07-22**|**Defense Against LLM Backdoors using Critical Neuron Isolation Pruning**|Yuxi Li et.al.|[2607.19894](http://arxiv.org/abs/2607.19894)|null|
 |**2026-07-22**|**Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents**|Or Zion Eliav et.al.|[2607.19837](http://arxiv.org/abs/2607.19837)|null|
