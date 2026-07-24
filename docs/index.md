@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -291,6 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Reliability-Aware LLM Alignment from Inconsistent Human Feedback**|Jingyi Huang et.al.|[2607.20515](http://arxiv.org/abs/2607.20515)|null|
 |**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
 |**2026-07-20**|**Semantic Drift in Bug Resolution: How Behavioral Signals Propagate from Reports to Tests and Patches**|Wendkûuni C. Ouédraogo et.al.|[2607.18550](http://arxiv.org/abs/2607.18550)|null|
 |**2026-07-18**|**Learning from World Feedback: Why Model Uncertainty Fails as a Risk Signal in Model-Based RL**|Zhaohui Wang et.al.|[2607.16591](http://arxiv.org/abs/2607.16591)|null|
