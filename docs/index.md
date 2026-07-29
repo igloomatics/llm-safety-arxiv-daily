@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems**|Haowen Dai et.al.|[2607.25255](http://arxiv.org/abs/2607.25255)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
 |**2026-07-27**|**Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection**|Max Landauer et.al.|[2607.24174](http://arxiv.org/abs/2607.24174)|null|
 |**2026-07-27**|**Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation**|Mohan Manivannan et.al.|[2607.24006](http://arxiv.org/abs/2607.24006)|null|
-|**2026-07-27**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
+|**2026-07-28**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
 |**2026-07-26**|**Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents**|Zhaoxi Zhang et.al.|[2607.23586](http://arxiv.org/abs/2607.23586)|null|
 |**2026-07-26**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
 |**2026-07-24**|**Agent Security Needs Redefinition through a Holistic Framework**|Vincent Siu et.al.|[2607.22024](http://arxiv.org/abs/2607.22024)|null|
@@ -300,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
 |**2026-07-24**|**Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation**|Yunting Song et.al.|[2607.22766](http://arxiv.org/abs/2607.22766)|null|
 |**2026-07-07**|**Reliability-Aware LLM Alignment from Inconsistent Human Feedback**|Jingyi Huang et.al.|[2607.20515](http://arxiv.org/abs/2607.20515)|null|
 |**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
