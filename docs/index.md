@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
+|**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
+|**2026-08-02**|**SoK: Intent-Oriented Systematization of Multi-Turn LLM Jailbreaks**|Siyuan Li et.al.|[2608.01117](http://arxiv.org/abs/2608.01117)|null|
+|**2026-08-02**|**Copyright Is the Headline; Capability Is the Blind Spot: AI Technology in the Book-Publishing Trade Press, November 2025--August 2026**|Fred Zimmerman et.al.|[2608.00964](http://arxiv.org/abs/2608.00964)|null|
+|**2026-08-01**|**When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems**|Neha Nagaraja et.al.|[2608.00747](http://arxiv.org/abs/2608.00747)|null|
 |**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
 |**2026-07-31**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
@@ -305,6 +310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese**|Naho Orita et.al.|[2608.01629](http://arxiv.org/abs/2608.01629)|null|
 |**2026-07-22**|**Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups**|Haran Shani-Narkiss et.al.|[2607.27232](http://arxiv.org/abs/2607.27232)|null|
 |**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
 |**2026-07-24**|**Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation**|Yunting Song et.al.|[2607.22766](http://arxiv.org/abs/2607.22766)|null|
