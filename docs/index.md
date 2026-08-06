@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
+|**2026-08-05**|**LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents**|Longtao Guo et.al.|[2608.04741](http://arxiv.org/abs/2608.04741)|null|
+|**2026-08-05**|**Breadcrumbing Search Agents**|Xuebin Li et.al.|[2608.04565](http://arxiv.org/abs/2608.04565)|null|
+|**2026-08-04**|**Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills**|Peichun Hua et.al.|[2608.04192](http://arxiv.org/abs/2608.04192)|null|
+|**2026-08-04**|**AgentAntibody: An Adaptive Immune System for Defending LLM Agents against Prompt Injection**|Shihao Weng et.al.|[2608.04053](http://arxiv.org/abs/2608.04053)|null|
 |**2026-08-01**|**Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure**|Jianshuo Dong et.al.|[2608.02657](http://arxiv.org/abs/2608.02657)|null|
 |**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
