@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -311,6 +311,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
 |**2026-08-03**|**Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese**|Naho Orita et.al.|[2608.01629](http://arxiv.org/abs/2608.01629)|null|
 |**2026-07-22**|**Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups**|Haran Shani-Narkiss et.al.|[2607.27232](http://arxiv.org/abs/2607.27232)|null|
 |**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
