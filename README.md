@@ -17,13 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
+|**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
+|**2026-08-05**|**Robust Context-Aware Detection of Malicious Instructions in Text**|Buzhao Liu et.al.|[2608.05430](http://arxiv.org/abs/2608.05430)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
 |**2026-08-05**|**LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents**|Longtao Guo et.al.|[2608.04741](http://arxiv.org/abs/2608.04741)|null|
 |**2026-08-05**|**Breadcrumbing Search Agents**|Xuebin Li et.al.|[2608.04565](http://arxiv.org/abs/2608.04565)|null|
 |**2026-08-04**|**Behavioral Skill Reconstruction: Reconstructing Hidden Functionality from LLM Agent Skills**|Peichun Hua et.al.|[2608.04192](http://arxiv.org/abs/2608.04192)|null|
 |**2026-08-04**|**AgentAntibody: An Adaptive Immune System for Defending LLM Agents against Prompt Injection**|Shihao Weng et.al.|[2608.04053](http://arxiv.org/abs/2608.04053)|null|
 |**2026-08-01**|**Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure**|Jianshuo Dong et.al.|[2608.02657](http://arxiv.org/abs/2608.02657)|null|
-|**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
+|**2026-08-06**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
 |**2026-08-02**|**SoK: Intent-Oriented Systematization of Multi-Turn LLM Jailbreaks**|Siyuan Li et.al.|[2608.01117](http://arxiv.org/abs/2608.01117)|null|
 |**2026-08-02**|**Copyright Is the Headline; Capability Is the Blind Spot: AI Technology in the Book-Publishing Trade Press, November 2025--August 2026**|Fred Zimmerman et.al.|[2608.00964](http://arxiv.org/abs/2608.00964)|null|
@@ -328,6 +331,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
 |**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
 |**2026-08-03**|**Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese**|Naho Orita et.al.|[2608.01629](http://arxiv.org/abs/2608.01629)|null|
 |**2026-07-22**|**Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups**|Haran Shani-Narkiss et.al.|[2607.27232](http://arxiv.org/abs/2607.27232)|null|
@@ -445,6 +449,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**TriQua: Reconciling Granularity and Context in Factuality Evaluation**|Jin Liu et.al.|[2608.05228](http://arxiv.org/abs/2608.05228)|null|
 |**2026-07-31**|**Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering**|Hieu Nguyen et.al.|[2607.28906](http://arxiv.org/abs/2607.28906)|null|
 |**2026-07-22**|**TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis**|Isabel Xu et.al.|[2607.19794](http://arxiv.org/abs/2607.19794)|null|
 |**2026-07-17**|**ASK-NN: An Asymmetric Nearest-Neighbor Test that detects Distribution Drifts in Natural Language**|Sergey Zakharov et.al.|[2607.15607](http://arxiv.org/abs/2607.15607)|null|
