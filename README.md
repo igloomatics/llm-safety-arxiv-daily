@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|null|
+|**2026-08-10**|**ChronoState: Hidden Elapsed-Time Conditioning for Temporal-State Action Selection in Frozen-Backbone Language Models**|Sam Siavoshian et.al.|[2608.09124](http://arxiv.org/abs/2608.09124)|null|
+|**2026-08-09**|**Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access**|Lier Jin et.al.|[2608.08942](http://arxiv.org/abs/2608.08942)|null|
+|**2026-08-09**|**Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection**|Rahul Deivasigamani et.al.|[2608.08939](http://arxiv.org/abs/2608.08939)|null|
+|**2026-08-09**|**Toward Metacognitive One-Shot Indirect Prompt Injection: Strategy Abstraction Via Outcome-Conditioned Reflection**|Sihan Hou et.al.|[2608.08795](http://arxiv.org/abs/2608.08795)|null|
+|**2026-08-09**|**SkillsMetric: Mapping the Detection Boundary of Static Analysis for Malicious Agent Skills**|Xinze Chen et.al.|[2608.08468](http://arxiv.org/abs/2608.08468)|null|
+|**2026-08-08**|**Defending Retrieval-Augmented Intrusion Detection Against Knowledge Poisoning and Prompt Injection**|Kaysarul Anas Apurba et.al.|[2608.08100](http://arxiv.org/abs/2608.08100)|null|
+|**2026-08-08**|**BASIS: Breach-Aware Selective Prompt Injection Shielding with Prefill Attention Probes**|Laiqiao Qin et.al.|[2608.08027](http://arxiv.org/abs/2608.08027)|null|
+|**2026-08-07**|**The Anatomy of a Prompt Injection: A Component Model for Structured Analysis**|Jeremy McHugh et.al.|[2608.07808](http://arxiv.org/abs/2608.07808)|null|
 |**2026-08-07**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167](http://arxiv.org/abs/2608.07167)|null|
 |**2026-08-07**|**LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes**|Doniyorkhon Obidov et.al.|[2608.06795](http://arxiv.org/abs/2608.06795)|null|
 |**2026-08-06**|**StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection**|Zhuoxin Zhan et.al.|[2608.06477](http://arxiv.org/abs/2608.06477)|null|
@@ -334,6 +343,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
+|**2026-08-09**|**Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production**|Cong Ming et.al.|[2608.08471](http://arxiv.org/abs/2608.08471)|null|
 |**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
 |**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
 |**2026-08-03**|**Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese**|Naho Orita et.al.|[2608.01629](http://arxiv.org/abs/2608.01629)|null|
@@ -543,6 +554,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
+|**2026-08-10**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-17**|**PANOPTICON: A PII-Based Assemblage of Naturalistic Output Tokens for Investigating Privacy Leakage Within LLM Context Window**|Ryan Thornton et.al.|[2607.22695](http://arxiv.org/abs/2607.22695)|null|
 |**2026-06-16**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
 |**2026-07-01**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
