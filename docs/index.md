@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models**|Md Jafrin Hossain et.al.|[2608.10530](http://arxiv.org/abs/2608.10530)|null|
+|**2026-08-10**|**From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications**|Spiros Tsigkopoulos et.al.|[2608.10281](http://arxiv.org/abs/2608.10281)|null|
+|**2026-08-10**|**Interpreting Language Model Hidden States at Scale**|Jordan Pettyjohn et.al.|[2608.10260](http://arxiv.org/abs/2608.10260)|null|
 |**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|null|
 |**2026-08-10**|**ChronoState: Hidden Elapsed-Time Conditioning for Temporal-State Action Selection in Frozen-Backbone Language Models**|Sam Siavoshian et.al.|[2608.09124](http://arxiv.org/abs/2608.09124)|null|
 |**2026-08-09**|**Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access**|Lier Jin et.al.|[2608.08942](http://arxiv.org/abs/2608.08942)|null|
@@ -449,6 +452,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting**|Xu Zhang et.al.|[2608.10149](http://arxiv.org/abs/2608.10149)|null|
+|**2026-08-07**|**Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness**|Srijith Ravikumar et.al.|[2608.10008](http://arxiv.org/abs/2608.10008)|null|
 |**2026-08-05**|**TriQua: Reconciling Granularity and Context in Factuality Evaluation**|Jin Liu et.al.|[2608.05228](http://arxiv.org/abs/2608.05228)|null|
 |**2026-07-31**|**Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering**|Hieu Nguyen et.al.|[2607.28906](http://arxiv.org/abs/2607.28906)|null|
 |**2026-07-22**|**TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis**|Isabel Xu et.al.|[2607.19794](http://arxiv.org/abs/2607.19794)|null|
