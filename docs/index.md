@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
+|**2026-08-17**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
+|**2026-08-17**|**Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations**|Jun He et.al.|[2608.16178](http://arxiv.org/abs/2608.16178)|null|
+|**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|null|
+|**2026-08-15**|**Visible Reasoning and Indirect Prompt-Injection Monitorability Across English, Tamil, and Tanglish**|Madhusudhanan G et.al.|[2608.15392](http://arxiv.org/abs/2608.15392)|null|
+|**2026-08-15**|**TwinGridShield: Consequence-Aware Runtime Authorization for LLM Grid-Agent Actions**|Md Fazley Rafy et.al.|[2608.15391](http://arxiv.org/abs/2608.15391)|null|
+|**2026-08-14**|**Workspace Topology as an Attack Vector in Agentic Coding Assistants**|Alexandre G. R. Day et.al.|[2608.14876](http://arxiv.org/abs/2608.14876)|null|
 |**2026-08-12**|**Rethinking Agent Security as a Networking Problem**|Van Tran et.al.|[2608.12172](http://arxiv.org/abs/2608.12172)|null|
 |**2026-08-12**|**ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents**|Yutao Mou et.al.|[2608.11878](http://arxiv.org/abs/2608.11878)|null|
 |**2026-08-11**|**On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models**|Md Jafrin Hossain et.al.|[2608.10530](http://arxiv.org/abs/2608.10530)|null|
@@ -336,6 +343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment**|Yongqi Tong et.al.|[2608.16553](http://arxiv.org/abs/2608.16553)|null|
 |**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
 |**2026-08-09**|**Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production**|Cong Ming et.al.|[2608.08471](http://arxiv.org/abs/2608.08471)|null|
 |**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
@@ -454,6 +462,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy**|Zheng Chen et.al.|[2608.16650](http://arxiv.org/abs/2608.16650)|null|
+|**2026-07-24**|**DeMTS: Denoising Trajectories as Multivariate Time Series for Hallucination Detection in Diffusion Language Models**|Xin Zhang et.al.|[2608.14632](http://arxiv.org/abs/2608.14632)|null|
 |**2026-08-10**|**REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting**|Xu Zhang et.al.|[2608.10149](http://arxiv.org/abs/2608.10149)|null|
 |**2026-08-07**|**Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness**|Srijith Ravikumar et.al.|[2608.10008](http://arxiv.org/abs/2608.10008)|null|
 |**2026-08-05**|**TriQua: Reconciling Granularity and Context in Factuality Evaluation**|Jin Liu et.al.|[2608.05228](http://arxiv.org/abs/2608.05228)|null|
