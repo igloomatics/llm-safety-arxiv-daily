@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
 |**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
 |**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
@@ -345,6 +346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment**|Jiawei Feng et.al.|[2608.19598](http://arxiv.org/abs/2608.19598)|null|
 |**2026-08-17**|**STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment**|Yongqi Tong et.al.|[2608.16553](http://arxiv.org/abs/2608.16553)|null|
 |**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
 |**2026-08-09**|**Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production**|Cong Ming et.al.|[2608.08471](http://arxiv.org/abs/2608.08471)|null|
