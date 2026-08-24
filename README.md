@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking**|Arulnidhi Karunanidhi et.al.|[2608.21230](http://arxiv.org/abs/2608.21230)|null|
+|**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
 |**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
 |**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
 |**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
@@ -358,6 +360,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment**|Chengxiao Wang et.al.|[2608.21278](http://arxiv.org/abs/2608.21278)|null|
 |**2026-08-20**|**PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment**|Jiawei Feng et.al.|[2608.19598](http://arxiv.org/abs/2608.19598)|null|
 |**2026-08-17**|**STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment**|Yongqi Tong et.al.|[2608.16553](http://arxiv.org/abs/2608.16553)|null|
 |**2026-08-09**|**HoloAegis: Frozen Representation, Topological Inference: Minimally Parametric Safety Manifolds for Zero-Shot LLM Guardrails**|Tak Ho Alex Li et.al.|[2608.08485](http://arxiv.org/abs/2608.08485)|null|
@@ -480,6 +483,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Affective Context Amplifies Sycophancy in LLM Responses**|Jiayi Li et.al.|[2608.21242](http://arxiv.org/abs/2608.21242)|null|
 |**2026-08-17**|**PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy**|Zheng Chen et.al.|[2608.16650](http://arxiv.org/abs/2608.16650)|null|
 |**2026-07-24**|**DeMTS: Denoising Trajectories as Multivariate Time Series for Hallucination Detection in Diffusion Language Models**|Xin Zhang et.al.|[2608.14632](http://arxiv.org/abs/2608.14632)|null|
 |**2026-08-10**|**REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting**|Xu Zhang et.al.|[2608.10149](http://arxiv.org/abs/2608.10149)|null|
