@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
+|**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
+|**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
+|**2026-08-24**|**Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)**|Avital Aviv et.al.|[2608.23858](http://arxiv.org/abs/2608.23858)|null|
+|**2026-08-24**|**GAP-Prompt: Gated Adaptive Prompting for Efficient Continual Learning**|Trung-Anh Dang et.al.|[2608.23782](http://arxiv.org/abs/2608.23782)|null|
+|**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
 |**2026-08-24**|**Breakout/Interchange Reconnection as a driver of Jets, Fast CME, and Solar Energetic Particles**|Pankaj Kumar et.al.|[2608.23362](http://arxiv.org/abs/2608.23362)|null|
 |**2026-08-24**|**AgentFlow: A Flow-Centric Policy Language and Framework for Securing LLM Agent Systems**|Basavesh Ammanaghatta Shivakumar et.al.|[2608.22868](http://arxiv.org/abs/2608.22868)|null|
 |**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|null|
@@ -474,6 +480,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study**|Mohit Singh Chauhan et.al.|[2608.24492](http://arxiv.org/abs/2608.24492)|null|
+|**2026-08-25**|**An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?**|Joshua Au Yeung et.al.|[2608.23937](http://arxiv.org/abs/2608.23937)|null|
 |**2026-08-21**|**Affective Context Amplifies Sycophancy in LLM Responses**|Jiayi Li et.al.|[2608.21242](http://arxiv.org/abs/2608.21242)|null|
 |**2026-08-17**|**PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy**|Zheng Chen et.al.|[2608.16650](http://arxiv.org/abs/2608.16650)|null|
 |**2026-07-24**|**DeMTS: Denoising Trajectories as Multivariate Time Series for Hallucination Detection in Diffusion Language Models**|Xin Zhang et.al.|[2608.14632](http://arxiv.org/abs/2608.14632)|null|
