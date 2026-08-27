@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
 |**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
@@ -480,6 +481,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**PolyMemDB: A Polyglot Database System for AI Memory Management**|Yu Wang et.al.|[2608.25577](http://arxiv.org/abs/2608.25577)|null|
+|**2026-08-26**|**Mitigating LLM sycophancy with RL-based fine-tuning: Bayesian Truth Serum approach**|Serhii Mytsyk et.al.|[2608.25267](http://arxiv.org/abs/2608.25267)|null|
+|**2026-08-25**|**AFDBench: A Reasoning-First AI Scientist for NationalWeather Service Forecast Discussions**|Manmeet Singh et.al.|[2608.24954](http://arxiv.org/abs/2608.24954)|null|
 |**2026-08-25**|**When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study**|Mohit Singh Chauhan et.al.|[2608.24492](http://arxiv.org/abs/2608.24492)|null|
 |**2026-08-25**|**An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?**|Joshua Au Yeung et.al.|[2608.23937](http://arxiv.org/abs/2608.23937)|null|
 |**2026-08-21**|**Affective Context Amplifies Sycophancy in LLM Responses**|Jiayi Li et.al.|[2608.21242](http://arxiv.org/abs/2608.21242)|null|
