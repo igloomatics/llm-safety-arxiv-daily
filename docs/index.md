@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents**|Md Habibur Rahman et.al.|[2608.27092](http://arxiv.org/abs/2608.27092)|null|
+|**2026-08-26**|**The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection**|Jaturong Kongmanee et.al.|[2608.26423](http://arxiv.org/abs/2608.26423)|null|
 |**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
@@ -360,6 +362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|null|
 |**2026-08-21**|**CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment**|Chengxiao Wang et.al.|[2608.21278](http://arxiv.org/abs/2608.21278)|null|
 |**2026-08-20**|**PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment**|Jiawei Feng et.al.|[2608.19598](http://arxiv.org/abs/2608.19598)|null|
 |**2026-08-17**|**STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment**|Yongqi Tong et.al.|[2608.16553](http://arxiv.org/abs/2608.16553)|null|
