@@ -17,10 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
+|**2026-08-31**|**Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems**|Panduranga Sai Varma Dantuluri et.al.|[2609.00267](http://arxiv.org/abs/2609.00267)|null|
+|**2026-08-30**|**AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes**|Xun Wang et.al.|[2609.00052](http://arxiv.org/abs/2609.00052)|null|
 |**2026-08-31**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
 |**2026-08-31**|**Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders**|Yizhe Zeng et.al.|[2608.30403](http://arxiv.org/abs/2608.30403)|null|
 |**2026-08-31**|**Attesting Outputs and Delegation Ancestry in Multi-Agent AI Systems**|Lifei Liu et.al.|[2608.30387](http://arxiv.org/abs/2608.30387)|null|
-|**2026-08-31**|**Will the User Ever Know? Covert Indirect Prompt Injection on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
+|**2026-09-01**|**Will the User Ever Know? Covert Indirect Prompt Injection Attacks on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-30**|**Zero-Knowledge Predicate Proofs Between AI Agents: A Measured, Cross-Protocol Gateway and the Source-Integrity Gap**|Ashok Subbabhatta Gopalakrishna et.al.|[2608.30083](http://arxiv.org/abs/2608.30083)|null|
 |**2026-08-30**|**Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection**|Wujie Xiong et.al.|[2608.30041](http://arxiv.org/abs/2608.30041)|null|
@@ -514,6 +517,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|null|
 |**2026-08-28**|**The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice**|Jungseob Lee et.al.|[2608.28930](http://arxiv.org/abs/2608.28930)|null|
 |**2026-08-26**|**PolyMemDB: A Polyglot Database System for AI Memory Management**|Yu Wang et.al.|[2608.25577](http://arxiv.org/abs/2608.25577)|null|
 |**2026-08-26**|**Mitigating LLM sycophancy with RL-based fine-tuning: Bayesian Truth Serum approach**|Serhii Mytsyk et.al.|[2608.25267](http://arxiv.org/abs/2608.25267)|null|
@@ -619,7 +623,7 @@
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-17**|**PANOPTICON: A PII-Based Assemblage of Naturalistic Output Tokens for Investigating Privacy Leakage Within LLM Context Window**|Ryan Thornton et.al.|[2607.22695](http://arxiv.org/abs/2607.22695)|null|
-|**2026-06-16**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
+|**2026-09-01**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
 |**2026-07-01**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
 |**2026-06-10**|**Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research**|Andrés Abeliuk et.al.|[2606.12247](http://arxiv.org/abs/2606.12247)|null|
 |**2026-06-06**|**IDP-Bench: Benchmarking ability of LLMs to protect personal information in interdependent privacy contexts**|Ayana Hussain et.al.|[2606.09908](http://arxiv.org/abs/2606.09908)|null|
