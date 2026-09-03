@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
+|**2026-09-02**|**Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching**|Qikai Wang et.al.|[2609.02035](http://arxiv.org/abs/2609.02035)|null|
+|**2026-09-01**|**Agent Flight Recorder: Tamper-Evident Audit Trails with On-Chain Anchoring for Long-Horizon Tool-Using Agents**|Laurent Bindschaedler et.al.|[2609.01931](http://arxiv.org/abs/2609.01931)|null|
+|**2026-09-01**|**Skill-as-API: Confidential Multi-Agent Coordination for Agentic Software Engineering**|Ziwei Zhao et.al.|[2609.01677](http://arxiv.org/abs/2609.01677)|null|
 |**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
 |**2026-08-31**|**Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems**|Panduranga Sai Varma Dantuluri et.al.|[2609.00267](http://arxiv.org/abs/2609.00267)|null|
 |**2026-08-30**|**AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes**|Xun Wang et.al.|[2609.00052](http://arxiv.org/abs/2609.00052)|null|
