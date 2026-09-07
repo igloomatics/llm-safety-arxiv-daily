@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Influence Score and Transformers interpretability: Measure of the Effective Impact of Attention Heads at inference time**|Lisa Bouger et.al.|[2609.05074](http://arxiv.org/abs/2609.05074)|null|
+|**2026-09-03**|**Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection**|Sizhe Chen et.al.|[2609.04533](http://arxiv.org/abs/2609.04533)|null|
+|**2026-09-03**|**Rethinking Indirect Prompt Injection as a Test-Time Search Problem**|Duong M. Nguyen et.al.|[2609.04495](http://arxiv.org/abs/2609.04495)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
 |**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
 |**2026-09-02**|**Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching**|Qikai Wang et.al.|[2609.02035](http://arxiv.org/abs/2609.02035)|null|
