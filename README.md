@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents**|Dimitrios Stamatios Bouras et.al.|[2609.08371](http://arxiv.org/abs/2609.08371)|null|
+|**2026-09-07**|**CoRL: Co-Evolutionary Reinforcement Learning for Adaptive Indirect Prompt-Injection Attacks and Defenses**|Boyang Zhang et.al.|[2609.07529](http://arxiv.org/abs/2609.07529)|null|
+|**2026-09-07**|**AgentDrift: A Step-Labeled Benchmark of Injection-Hijacked LLM Agent Trajectories**|Asif Pinjari et.al.|[2609.06972](http://arxiv.org/abs/2609.06972)|null|
+|**2026-09-07**|**MOLE: Detecting Insider Threats in AI Agents**|Aashiq Muhamed et.al.|[2609.06966](http://arxiv.org/abs/2609.06966)|null|
+|**2026-09-05**|**EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents**|Nanxi Li et.al.|[2609.05903](http://arxiv.org/abs/2609.05903)|null|
+|**2026-09-05**|**From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**|Yu Zheng et.al.|[2609.05901](http://arxiv.org/abs/2609.05901)|null|
+|**2026-09-05**|**Hierarchical Prompt Injector for Domain Generalization Segmentation**|Xin Kun Lin et.al.|[2609.05864](http://arxiv.org/abs/2609.05864)|null|
 |**2026-09-04**|**Influence Score and Transformers interpretability: Measure of the Effective Impact of Attention Heads at inference time**|Lisa Bouger et.al.|[2609.05074](http://arxiv.org/abs/2609.05074)|null|
 |**2026-09-03**|**Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection**|Sizhe Chen et.al.|[2609.04533](http://arxiv.org/abs/2609.04533)|null|
 |**2026-09-03**|**Rethinking Indirect Prompt Injection as a Test-Time Search Problem**|Duong M. Nguyen et.al.|[2609.04495](http://arxiv.org/abs/2609.04495)|null|
@@ -391,12 +398,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-05**|**Spillover-Aware Multi-Value Steering for Pluralistic LLM Alignment**|Weici Pan et.al.|[2609.05800](http://arxiv.org/abs/2609.05800)|null|
 |**2026-09-03**|**A Circuit for Plural Reference: How LLMs Represent and Retrieve Singular and Plural Entities**|Anh Danh et.al.|[2609.03687](http://arxiv.org/abs/2609.03687)|null|
 |**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
 |**2026-08-30**|**Pak3H: Evaluating the Cost of Cultural Mismatch in LLM Alignment with a Human-Contextualized Urdu Benchmark**|Abdullah Hashmat et.al.|[2608.30065](http://arxiv.org/abs/2608.30065)|null|
@@ -520,18 +528,19 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
 |**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|null|
 |**2026-08-28**|**The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice**|Jungseob Lee et.al.|[2608.28930](http://arxiv.org/abs/2608.28930)|null|
 |**2026-08-26**|**PolyMemDB: A Polyglot Database System for AI Memory Management**|Yu Wang et.al.|[2608.25577](http://arxiv.org/abs/2608.25577)|null|
 |**2026-08-26**|**Mitigating LLM sycophancy with RL-based fine-tuning: Bayesian Truth Serum approach**|Serhii Mytsyk et.al.|[2608.25267](http://arxiv.org/abs/2608.25267)|null|
 |**2026-08-25**|**AFDBench: A Reasoning-First AI Scientist for NationalWeather Service Forecast Discussions**|Manmeet Singh et.al.|[2608.24954](http://arxiv.org/abs/2608.24954)|null|
-|**2026-08-25**|**When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study**|Mohit Singh Chauhan et.al.|[2608.24492](http://arxiv.org/abs/2608.24492)|null|
+|**2026-09-08**|**When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study**|Mohit Singh Chauhan et.al.|[2608.24492](http://arxiv.org/abs/2608.24492)|null|
 |**2026-08-25**|**An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?**|Joshua Au Yeung et.al.|[2608.23937](http://arxiv.org/abs/2608.23937)|null|
 |**2026-08-21**|**Affective Context Amplifies Sycophancy in LLM Responses**|Jiayi Li et.al.|[2608.21242](http://arxiv.org/abs/2608.21242)|null|
 |**2026-08-17**|**PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy**|Zheng Chen et.al.|[2608.16650](http://arxiv.org/abs/2608.16650)|null|
@@ -623,12 +632,13 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## LLM Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-06**|**A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs**|Sicong Li et.al.|[2609.06749](http://arxiv.org/abs/2609.06749)|null|
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-17**|**PANOPTICON: A PII-Based Assemblage of Naturalistic Output Tokens for Investigating Privacy Leakage Within LLM Context Window**|Ryan Thornton et.al.|[2607.22695](http://arxiv.org/abs/2607.22695)|null|
@@ -663,5 +673,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
