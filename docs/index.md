@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
+|**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
+|**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
 |**2026-09-09**|**Kernel-Managed Shared Memory for System-Wide Personalization**|Ryan Lum et.al.|[2609.10144](http://arxiv.org/abs/2609.10144)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-08**|**Authority Is Not a String: A Capability-Scoped Harness for Prompt-Injection-Resistant Coding Agents**|Dimitrios Stamatios Bouras et.al.|[2609.08371](http://arxiv.org/abs/2609.08371)|null|
