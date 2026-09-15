@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Authorization Architectures for Tool-Using AI Agents**|Rakesh Kumar Surapani et.al.|[2609.15906](http://arxiv.org/abs/2609.15906)|null|
+|**2026-09-14**|**Approval Integrity and Recovery in LLM Answer Publication**|Faruk Alpay et.al.|[2609.15576](http://arxiv.org/abs/2609.15576)|null|
+|**2026-09-14**|**Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks**|Aashiq Muhamed et.al.|[2609.15029](http://arxiv.org/abs/2609.15029)|null|
+|**2026-09-14**|**PIDS-Bench: Evaluating Prompt-Injection Detectors Under Over-Defense, Obfuscation, and Distribution Shift**|Yusuf Khalid Shire et.al.|[2609.15017](http://arxiv.org/abs/2609.15017)|null|
+|**2026-09-14**|**ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents**|Bingzheng Wang et.al.|[2609.14987](http://arxiv.org/abs/2609.14987)|null|
+|**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079](http://arxiv.org/abs/2609.14079)|null|
+|**2026-09-12**|**Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control**|Minsun Shim et.al.|[2609.14003](http://arxiv.org/abs/2609.14003)|null|
+|**2026-09-11**|**The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment**|Oliver Aleksander Larsen et.al.|[2609.13334](http://arxiv.org/abs/2609.13334)|null|
 |**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
 |**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
 |**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
@@ -409,6 +417,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning**|Jiayi Yuan et.al.|[2609.14896](http://arxiv.org/abs/2609.14896)|null|
+|**2026-09-13**|**LLaTSA: Large Language Model-Aligned General-Purpose Transient Stability Analysis**|Chao Shen et.al.|[2609.14374](http://arxiv.org/abs/2609.14374)|null|
 |**2026-09-05**|**Spillover-Aware Multi-Value Steering for Pluralistic LLM Alignment**|Weici Pan et.al.|[2609.05800](http://arxiv.org/abs/2609.05800)|null|
 |**2026-09-03**|**A Circuit for Plural Reference: How LLMs Represent and Retrieve Singular and Plural Entities**|Anh Danh et.al.|[2609.03687](http://arxiv.org/abs/2609.03687)|null|
 |**2026-08-31**|**Balancing Privacy, Utility, and Safety in LLM Alignment through Preference Optimization**|Dishu Yang et.al.|[2608.30141](http://arxiv.org/abs/2608.30141)|null|
