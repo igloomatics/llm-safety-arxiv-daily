@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
+|**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
 |**2026-09-14**|**Authorization Architectures for Tool-Using AI Agents**|Rakesh Kumar Surapani et.al.|[2609.15906](http://arxiv.org/abs/2609.15906)|null|
 |**2026-09-14**|**Approval Integrity and Recovery in LLM Answer Publication**|Faruk Alpay et.al.|[2609.15576](http://arxiv.org/abs/2609.15576)|null|
 |**2026-09-14**|**Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks**|Aashiq Muhamed et.al.|[2609.15029](http://arxiv.org/abs/2609.15029)|null|
@@ -638,12 +640,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
 |**2026-09-06**|**A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs**|Sicong Li et.al.|[2609.06749](http://arxiv.org/abs/2609.06749)|null|
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
 |**2026-08-14**|**SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon**|Tianhong Xu et.al.|[2608.09075](http://arxiv.org/abs/2608.09075)|null|
 |**2026-07-17**|**PANOPTICON: A PII-Based Assemblage of Naturalistic Output Tokens for Investigating Privacy Leakage Within LLM Context Window**|Ryan Thornton et.al.|[2607.22695](http://arxiv.org/abs/2607.22695)|null|
 |**2026-09-01**|**Evaluating Second-Order Bias of LLMs Through Epistemic Entitlement**|Ramaravind Kommiya Mothilal et.al.|[2606.17506](http://arxiv.org/abs/2606.17506)|null|
-|**2026-07-01**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
+|**2026-09-14**|**Tail-Shape Estimation in LLM Evaluation Is Fragile: A Protocol for Diagnosing False Positives**|Luca Zhou et.al.|[2606.16511](http://arxiv.org/abs/2606.16511)|null|
 |**2026-06-10**|**Beyond Third-Person Audits: Situated Interaction Auditing for User-Centered LLM Bias Research**|Andrés Abeliuk et.al.|[2606.12247](http://arxiv.org/abs/2606.12247)|null|
 |**2026-06-06**|**IDP-Bench: Benchmarking ability of LLMs to protect personal information in interdependent privacy contexts**|Ayana Hussain et.al.|[2606.09908](http://arxiv.org/abs/2606.09908)|null|
 |**2026-06-02**|**TriEval: A Resource-Efficient Pipeline for LLM Bias, Toxicity, and Truthfulness Assessment**|Akshatha Srikantha et.al.|[2606.03036](http://arxiv.org/abs/2606.03036)|null|
