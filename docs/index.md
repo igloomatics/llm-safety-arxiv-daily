@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
+|**2026-09-16**|**CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness**|Elia Nikolaou et.al.|[2609.18674](http://arxiv.org/abs/2609.18674)|null|
+|**2026-09-16**|**The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents**|Hasnain Irshad et.al.|[2609.18411](http://arxiv.org/abs/2609.18411)|null|
+|**2026-09-15**|**Trust propagation and structural containment in Multi-agent LLM pipelines**|Tanzim Hossain Safin et.al.|[2609.17648](http://arxiv.org/abs/2609.17648)|null|
 |**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
 |**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
 |**2026-09-14**|**Authorization Architectures for Tool-Using AI Agents**|Rakesh Kumar Surapani et.al.|[2609.15906](http://arxiv.org/abs/2609.15906)|null|
