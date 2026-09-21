@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
 |**2026-09-17**|**Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents**|Alex Remedios et.al.|[2609.19587](http://arxiv.org/abs/2609.19587)|null|
 |**2026-09-16**|**AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination**|Matteo Golinelli et.al.|[2609.19140](http://arxiv.org/abs/2609.19140)|null|
@@ -413,6 +414,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**ExpBoN: Exponential-Noise Best-of- $n$ for Efficient Test-Time LLM Alignment**|Yanxiao Liu et.al.|[2609.21899](http://arxiv.org/abs/2609.21899)|null|
+|**2026-09-17**|**Aligning with Lived Experience: Heterogeneous Benefits of Fine Tuning in Mental Health Support Generation**|Mohit Chandra et.al.|[2609.21075](http://arxiv.org/abs/2609.21075)|null|
 |**2026-09-14**|**Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning**|Jiayi Yuan et.al.|[2609.14896](http://arxiv.org/abs/2609.14896)|null|
 |**2026-09-13**|**LLaTSA: Large Language Model-Aligned General-Purpose Transient Stability Analysis**|Chao Shen et.al.|[2609.14374](http://arxiv.org/abs/2609.14374)|null|
 |**2026-09-05**|**Spillover-Aware Multi-Value Steering for Pluralistic LLM Alignment**|Weici Pan et.al.|[2609.05800](http://arxiv.org/abs/2609.05800)|null|
