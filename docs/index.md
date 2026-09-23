@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
 |**2026-09-21**|**OPBackdoor: Opportunistic Backdoors via Alibi-Aligned Reasoning**|Eric Xue et.al.|[2609.24826](http://arxiv.org/abs/2609.24826)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
-|**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
+|**2026-09-22**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
 |**2026-09-19**|**Beyond Single-Model Injection: A Threat Model and Defense Architecture for Prompt Injection in Multi-Agent Systems**|Rudrendu Kumar Paul et.al.|[2609.22949](http://arxiv.org/abs/2609.22949)|null|
 |**2026-09-19**|**Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems**|Fayeq Jeelani Syed et.al.|[2609.22712](http://arxiv.org/abs/2609.22712)|null|
 |**2026-09-18**|**Zero-Trust Authorization and Discovery for Enterprise MCP**|Huan Li et.al.|[2609.22573](http://arxiv.org/abs/2609.22573)|null|
@@ -421,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-06**|**Mitigating LLM Over-Refusal via Dynamic Semantic Routing Calibratione**|Zixuan Wang et.al.|[2609.25049](http://arxiv.org/abs/2609.25049)|null|
 |**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
 |**2026-09-18**|**ExpBoN: Exponential-Noise Best-of- $n$ for Efficient Test-Time LLM Alignment**|Yanxiao Liu et.al.|[2609.21899](http://arxiv.org/abs/2609.21899)|null|
 |**2026-09-17**|**Aligning with Lived Experience: Heterogeneous Benefits of Fine Tuning in Mental Health Support Generation**|Mohit Chandra et.al.|[2609.21075](http://arxiv.org/abs/2609.21075)|null|
