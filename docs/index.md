@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows**|Jasem Khelifi et.al.|[2609.27263](http://arxiv.org/abs/2609.27263)|null|
+|**2026-09-22**|**Ajar: Measuring Open Privilege in Agent Defenses**|Reshabh K Sharma et.al.|[2609.26900](http://arxiv.org/abs/2609.26900)|null|
 |**2026-09-21**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
 |**2026-09-21**|**OPBackdoor: Opportunistic Backdoors via Alibi-Aligned Reasoning**|Eric Xue et.al.|[2609.24826](http://arxiv.org/abs/2609.24826)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
