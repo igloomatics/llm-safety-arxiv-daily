@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
+|**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
+|**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
 |**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
@@ -438,7 +441,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -575,7 +578,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -680,12 +683,13 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## LLM Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
 |**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
 |**2026-09-06**|**A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs**|Sicong Li et.al.|[2609.06749](http://arxiv.org/abs/2609.06749)|null|
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
@@ -722,5 +726,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 

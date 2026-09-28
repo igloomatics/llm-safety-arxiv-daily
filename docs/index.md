@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
+|**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
+|**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
 |**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
@@ -670,6 +673,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
 |**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
 |**2026-09-06**|**A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs**|Sicong Li et.al.|[2609.06749](http://arxiv.org/abs/2609.06749)|null|
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
