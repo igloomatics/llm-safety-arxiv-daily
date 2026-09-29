@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents**|Bravish Ghosh et.al.|[2609.35659](http://arxiv.org/abs/2609.35659)|null|
+|**2026-09-28**|**Nudgeability: Reasoning Models Follow Confidence Signals Without Tracking Their Own Competence**|Rohit Saxena et.al.|[2609.34572](http://arxiv.org/abs/2609.34572)|null|
+|**2026-09-28**|**CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents**|Xiao Yang et.al.|[2609.34463](http://arxiv.org/abs/2609.34463)|null|
+|**2026-09-28**|**Certified Multi-Source Integrity for Structured Agent Actions**|Anmol Pandey et.al.|[2609.34245](http://arxiv.org/abs/2609.34245)|null|
+|**2026-09-27**|**When Consent Outlives Context: Residual Authority Replay in Long-Lived Agents**|Zhihao Zhang et.al.|[2609.33910](http://arxiv.org/abs/2609.33910)|null|
+|**2026-09-27**|**Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning**|Chenlong Yin et.al.|[2609.33628](http://arxiv.org/abs/2609.33628)|null|
+|**2026-09-27**|**Evaluating System One Models for Agent Security Decisions: Reliability, Calibration, and Selective Automation**|Yixuan Liu et.al.|[2609.33401](http://arxiv.org/abs/2609.33401)|null|
+|**2026-09-27**|**API Secrets Should Never Become Tokens in the LLM's Vocabulary: A Threat Analysis of API Credential Handling in LLM Agent Systems and an Empirical Evaluation of a Vault-Mediated Execution Boundary**|Patrick Kenney et.al.|[2609.33371](http://arxiv.org/abs/2609.33371)|null|
+|**2026-09-27**|**ORBIT: A Framework for Multi-Agent Safety and Security Evaluations**|Ben Hagag et.al.|[2609.33102](http://arxiv.org/abs/2609.33102)|null|
+|**2026-09-26**|**Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection**|Animesh Shaw et.al.|[2609.32691](http://arxiv.org/abs/2609.32691)|null|
 |**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
 |**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
 |**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
@@ -441,12 +451,16 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control**|Eric Frankel et.al.|[2609.34374](http://arxiv.org/abs/2609.34374)|null|
+|**2026-09-28**|**SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former**|Zhengding Luo et.al.|[2609.34347](http://arxiv.org/abs/2609.34347)|null|
+|**2026-09-28**|**Constrained Nonconvex Stochastic Optimization with One Projection**|Yuyang Deng et.al.|[2609.34099](http://arxiv.org/abs/2609.34099)|null|
+|**2026-09-26**|**LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations**|Mohan Li et.al.|[2609.32717](http://arxiv.org/abs/2609.32717)|null|
 |**2026-08-31**|**Fair Like Us? Auditing LLM Alignment in Resource Allocation**|Qishen Han et.al.|[2609.29692](http://arxiv.org/abs/2609.29692)|null|
 |**2026-09-06**|**Mitigating LLM Over-Refusal via Dynamic Semantic Routing Calibratione**|Zixuan Wang et.al.|[2609.25049](http://arxiv.org/abs/2609.25049)|null|
 |**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
@@ -578,12 +592,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
 |**2026-09-08**|**SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection**|Sanghyeok Park et.al.|[2609.09349](http://arxiv.org/abs/2609.09349)|null|
 |**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
 |**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|null|
@@ -683,13 +698,13 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## LLM Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-25**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
+|**2026-09-28**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
 |**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
 |**2026-09-06**|**A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs**|Sicong Li et.al.|[2609.06749](http://arxiv.org/abs/2609.06749)|null|
 |**2026-08-10**|**Subjective Multi-Bias Detection with Large Language Models**|Ruiyu Li et.al.|[2608.09126](http://arxiv.org/abs/2608.09126)|null|
@@ -726,5 +741,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
