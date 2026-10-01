@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Aletheia: Permission-Minimality Testing for Coding-Agent Rules**|Jieke Shi et.al.|[2609.39678](http://arxiv.org/abs/2609.39678)|null|
+|**2026-09-30**|**Towards Efficient HPC Systems for Agents: Challenges and Opportunities**|Yunjia Zheng et.al.|[2609.38723](http://arxiv.org/abs/2609.38723)|null|
+|**2026-09-29**|**ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts**|Dongxu Cui et.al.|[2609.38248](http://arxiv.org/abs/2609.38248)|null|
 |**2026-09-29**|**Where Do LLMs Decide to Break the Rules? Mechanistic Localization of Prompt Injection Compliance**|Rui Wen et.al.|[2609.37737](http://arxiv.org/abs/2609.37737)|null|
 |**2026-09-29**|**ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents**|Yanjie Li et.al.|[2609.37196](http://arxiv.org/abs/2609.37196)|null|
 |**2026-09-29**|**Selecting The Most Informative Tokens in Natural Language Autoencoders**|Federico Torrielli et.al.|[2609.37040](http://arxiv.org/abs/2609.37040)|null|
@@ -460,12 +463,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Optimal Design for Active Preference Learning with Biased LLM Judges**|Zhongman Du et.al.|[2609.38860](http://arxiv.org/abs/2609.38860)|null|
 |**2026-09-28**|**ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control**|Eric Frankel et.al.|[2609.34374](http://arxiv.org/abs/2609.34374)|null|
 |**2026-09-28**|**SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former**|Zhengding Luo et.al.|[2609.34347](http://arxiv.org/abs/2609.34347)|null|
 |**2026-09-28**|**Constrained Nonconvex Stochastic Optimization with One Projection**|Yuyang Deng et.al.|[2609.34099](http://arxiv.org/abs/2609.34099)|null|
@@ -601,12 +605,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Halluscoring 2026: The first shared task on llms hallucination detection and answer verification**|Aisha Alansari et.al.|[2609.38355](http://arxiv.org/abs/2609.38355)|null|
 |**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
 |**2026-09-08**|**SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection**|Sanghyeok Park et.al.|[2609.09349](http://arxiv.org/abs/2609.09349)|null|
 |**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
@@ -707,7 +712,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -751,5 +756,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
