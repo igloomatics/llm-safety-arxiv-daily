@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**CorrectGuard: Eyes-Off Correctness Estimation for Black-Box Security Guardrails**|Adam Faulkner et.al.|[2610.03470](http://arxiv.org/abs/2610.03470)|null|
+|**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
+|**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
+|**2026-10-02**|**LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs**|Anubha Gupta et.al.|[2610.03093](http://arxiv.org/abs/2610.03093)|null|
+|**2026-10-02**|**Securing Computer-Use Agents Against Branch Steering Attacks**|Giulio Zingrillo et.al.|[2610.03089](http://arxiv.org/abs/2610.03089)|null|
+|**2026-10-02**|**SecJev: Bringing Security Expertise to System One Decision Models**|Zheng Chen et.al.|[2610.03073](http://arxiv.org/abs/2610.03073)|null|
+|**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
+|**2026-10-01**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
 |**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
 |**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
 |**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
@@ -466,12 +475,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**DNAlign: Dynamic Null-Space Safe Alignment for LLMs**|Jisheng Dang et.al.|[2610.02844](http://arxiv.org/abs/2610.02844)|null|
 |**2026-09-30**|**Robust Nash Alignment under Preference Uncertainty**|Shihab Ahmed et.al.|[2610.00715](http://arxiv.org/abs/2610.00715)|null|
 |**2026-09-30**|**Optimal Design for Active Preference Learning with Biased LLM Judges**|Zhongman Du et.al.|[2609.38860](http://arxiv.org/abs/2609.38860)|null|
 |**2026-09-28**|**ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control**|Eric Frankel et.al.|[2609.34374](http://arxiv.org/abs/2609.34374)|null|
@@ -609,7 +619,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -716,7 +726,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -760,5 +770,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
