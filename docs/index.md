@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
+|**2026-10-05**|**TrustMI: Causally controlling how assistants trust their users**|Théo Lasnier et.al.|[2610.06064](http://arxiv.org/abs/2610.06064)|null|
+|**2026-10-05**|**Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay**|Tural Hagverdiyev et.al.|[2610.05840](http://arxiv.org/abs/2610.05840)|null|
+|**2026-10-05**|**Can CaMeLs Talk? Securing Multi-Agent Systems Against Indirect Prompt Injection Attacks**|James Peters-Gill et.al.|[2610.05640](http://arxiv.org/abs/2610.05640)|null|
+|**2026-10-04**|**Readable Before Actionable: Causal Tracing of Indirect Prompt Injection**|Zhe Yu et.al.|[2610.05295](http://arxiv.org/abs/2610.05295)|null|
+|**2026-10-04**|**Who Is Your Agent Serving? Provider-Side Indirect Prompt Injection in Proactive Agents**|Rui Wang et.al.|[2610.05266](http://arxiv.org/abs/2610.05266)|null|
+|**2026-10-04**|**Blocking at the Boundary: Auditing Long-Horizon Agents against Staged Prompt Injection**|Jingkai Liu et.al.|[2610.05163](http://arxiv.org/abs/2610.05163)|null|
+|**2026-10-04**|**Hidden Risks of Jev: An Empirical Study of Security, Privacy, and Dual Use**|Shang Wang et.al.|[2610.04985](http://arxiv.org/abs/2610.04985)|null|
+|**2026-10-03**|**Large Language Models and Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2610.04412](http://arxiv.org/abs/2610.04412)|null|
+|**2026-10-03**|**Self-Reflection Fine-Tuning: Enhancing Agent Security against Prompt Injection Attacks from Failure Experience**|Zixuan Wang et.al.|[2610.04269](http://arxiv.org/abs/2610.04269)|null|
 |**2026-10-02**|**CorrectGuard: Eyes-Off Correctness Estimation for Black-Box Security Guardrails**|Adam Faulkner et.al.|[2610.03470](http://arxiv.org/abs/2610.03470)|null|
 |**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
 |**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
@@ -469,6 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
 |**2026-10-02**|**DNAlign: Dynamic Null-Space Safe Alignment for LLMs**|Jisheng Dang et.al.|[2610.02844](http://arxiv.org/abs/2610.02844)|null|
 |**2026-09-30**|**Robust Nash Alignment under Preference Uncertainty**|Shihab Ahmed et.al.|[2610.00715](http://arxiv.org/abs/2610.00715)|null|
 |**2026-09-30**|**Optimal Design for Active Preference Learning with Biased LLM Judges**|Zhongman Du et.al.|[2609.38860](http://arxiv.org/abs/2609.38860)|null|
@@ -611,12 +622,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
 |**2026-10-01**|**Halluscoring 2026: The first shared task on llms hallucination detection and answer verification**|Aisha Alansari et.al.|[2609.38355](http://arxiv.org/abs/2609.38355)|null|
 |**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
 |**2026-09-08**|**SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection**|Sanghyeok Park et.al.|[2609.09349](http://arxiv.org/abs/2609.09349)|null|
 |**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
 |**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|null|
-|**2026-08-28**|**The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice**|Jungseob Lee et.al.|[2608.28930](http://arxiv.org/abs/2608.28930)|null|
+|**2026-10-03**|**The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice**|Jungseob Lee et.al.|[2608.28930](http://arxiv.org/abs/2608.28930)|null|
 |**2026-08-26**|**PolyMemDB: A Polyglot Database System for AI Memory Management**|Yu Wang et.al.|[2608.25577](http://arxiv.org/abs/2608.25577)|null|
 |**2026-08-26**|**Mitigating LLM sycophancy with RL-based fine-tuning: Bayesian Truth Serum approach**|Serhii Mytsyk et.al.|[2608.25267](http://arxiv.org/abs/2608.25267)|null|
 |**2026-08-25**|**AFDBench: A Reasoning-First AI Scientist for NationalWeather Service Forecast Discussions**|Manmeet Singh et.al.|[2608.24954](http://arxiv.org/abs/2608.24954)|null|
