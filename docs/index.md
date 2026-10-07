@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model**|Sarim Hashmi et.al.|[2610.08773](http://arxiv.org/abs/2610.08773)|null|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
+|**2026-10-06**|**RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems**|Niveen O. Jaffal et.al.|[2610.08571](http://arxiv.org/abs/2610.08571)|null|
+|**2026-10-06**|**Surviving the Router: Optimizing Skill Injections for Retrieval and Execution**|Haneen Najjar et.al.|[2610.08098](http://arxiv.org/abs/2610.08098)|null|
+|**2026-10-06**|**The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models**|Yibo Zhang et.al.|[2610.07723](http://arxiv.org/abs/2610.07723)|null|
+|**2026-10-05**|**Dynamic Budget Allocation for LLM Evaluation under Hard Resource Constraints**|Shai Feldman et.al.|[2610.07362](http://arxiv.org/abs/2610.07362)|null|
+|**2026-10-05**|**Towards a Unified Misuse Monitoring Benchmark**|Aniruddh Pramod et.al.|[2610.07089](http://arxiv.org/abs/2610.07089)|null|
 |**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
 |**2026-10-05**|**TrustMI: Causally controlling how assistants trust their users**|Théo Lasnier et.al.|[2610.06064](http://arxiv.org/abs/2610.06064)|null|
 |**2026-10-05**|**Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay**|Tural Hagverdiyev et.al.|[2610.05840](http://arxiv.org/abs/2610.05840)|null|
@@ -479,6 +486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Pseudowords as probes: Large Language Models show little of the sublexical sensitivity that governs human pseudoword processing**|Jing Chen et.al.|[2610.07936](http://arxiv.org/abs/2610.07936)|null|
 |**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
 |**2026-10-02**|**DNAlign: Dynamic Null-Space Safe Alignment for LLMs**|Jisheng Dang et.al.|[2610.02844](http://arxiv.org/abs/2610.02844)|null|
 |**2026-09-30**|**Robust Nash Alignment under Preference Uncertainty**|Shihab Ahmed et.al.|[2610.00715](http://arxiv.org/abs/2610.00715)|null|
@@ -622,6 +630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
 |**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
 |**2026-10-01**|**Halluscoring 2026: The first shared task on llms hallucination detection and answer verification**|Aisha Alansari et.al.|[2609.38355](http://arxiv.org/abs/2609.38355)|null|
 |**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
