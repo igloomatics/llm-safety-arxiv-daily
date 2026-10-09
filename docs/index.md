@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
+|**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
+|**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
 |**2026-10-07**|**Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files**|Yupu Wang et.al.|[2610.09264](http://arxiv.org/abs/2610.09264)|null|
 |**2026-10-06**|**ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine**|Pengfei He et.al.|[2610.08951](http://arxiv.org/abs/2610.08951)|null|
