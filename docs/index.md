@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**An Exploration of Attacks on AI Agent Systems**|Cathleen Qiao et.al.|[2610.12524](http://arxiv.org/abs/2610.12524)|null|
 |**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
 |**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
