@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Towards Safe Autonomy for Computer Use**|Dominik Seip et.al.|[2610.18508](http://arxiv.org/abs/2610.18508)|null|
+|**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
+|**2026-10-13**|**Prompt-Injection Probes Learn the Conversation, Not Just the Injection**|Kaan Kale et.al.|[2610.18408](http://arxiv.org/abs/2610.18408)|null|
+|**2026-10-12**|**BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views**|Yuetian Chen et.al.|[2610.17457](http://arxiv.org/abs/2610.17457)|null|
+|**2026-10-12**|**TRAP: Tree-Guided Reinforcement-Augmented Probing for Automated LLM Jailbreaking**|Mohammad Reza Mirbagheri et.al.|[2610.17313](http://arxiv.org/abs/2610.17313)|null|
+|**2026-10-12**|**The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow**|Arya Fayyazi et.al.|[2610.17301](http://arxiv.org/abs/2610.17301)|null|
+|**2026-10-12**|**StableJudge: A Lightweight Adversarial Defense Framework for LLM-as-a-Judge**|Anning Hu et.al.|[2610.16814](http://arxiv.org/abs/2610.16814)|null|
+|**2026-10-12**|**Computational Reflective Equilibrium for Agentic AI: A Rawlsian Alignment Scaffold for Governance**|Quanyan Zhu et.al.|[2610.16015](http://arxiv.org/abs/2610.16015)|null|
+|**2026-10-10**|**Only What You've Signed up For: Secure Workflows with Constrained Diffusion Agents**|Michael Cardei et.al.|[2610.15177](http://arxiv.org/abs/2610.15177)|null|
+|**2026-10-10**|**Can agents whose sole duty is to keep humans alive be hijacked to kill? Delayed multi-turn derived-action trap attacks in simulated high-stakes environments**|Josef A. Habdank et.al.|[2610.15153](http://arxiv.org/abs/2610.15153)|null|
 |**2026-10-08**|**An Exploration of Attacks on AI Agent Systems**|Cathleen Qiao et.al.|[2610.12524](http://arxiv.org/abs/2610.12524)|null|
 |**2026-10-08**|**One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails**|Seyedarmin Azizi et.al.|[2610.12292](http://arxiv.org/abs/2610.12292)|null|
 |**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
@@ -493,6 +503,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**Cross-Protocol Personality Assessment with LLMs: Aligning Behavioral Evidence with Human Ratings**|Wei Shan et.al.|[2610.16050](http://arxiv.org/abs/2610.16050)|null|
+|**2026-10-09**|**When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare**|Priyadarsi Mishra et.al.|[2610.14360](http://arxiv.org/abs/2610.14360)|null|
 |**2026-10-07**|**SafeEvo: Deciphering the Safety Alignment Mechanism and Evolution in Language Models**|Miao Yu et.al.|[2610.09600](http://arxiv.org/abs/2610.09600)|null|
 |**2026-10-06**|**Pseudowords as probes: Large Language Models show little of the sublexical sensitivity that governs human pseudoword processing**|Jing Chen et.al.|[2610.07936](http://arxiv.org/abs/2610.07936)|null|
 |**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
@@ -638,12 +650,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Claim Framing as a Driver of LLM Sycophancy**|Jean Seo et.al.|[2610.18159](http://arxiv.org/abs/2610.18159)|null|
 |**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
 |**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
 |**2026-10-01**|**Halluscoring 2026: The first shared task on llms hallucination detection and answer verification**|Aisha Alansari et.al.|[2609.38355](http://arxiv.org/abs/2609.38355)|null|
 |**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
 |**2026-09-08**|**SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection**|Sanghyeok Park et.al.|[2609.09349](http://arxiv.org/abs/2609.09349)|null|
-|**2026-09-08**|**Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
+|**2026-10-13**|**SPINE: Measuring LLM Sycophancy under Sustained Multi-Turn Pressure**|Leyuan Tang et.al.|[2609.09090](http://arxiv.org/abs/2609.09090)|null|
 |**2026-09-01**|**ISO-RAG: Isoperimetric Noise Control for Retrieval-Augmented Generation**|Siyuan Zhang et.al.|[2609.00513](http://arxiv.org/abs/2609.00513)|null|
 |**2026-10-03**|**The Hallucination Signal Is a Mean Shift: Why Simple Probes Suffice**|Jungseob Lee et.al.|[2608.28930](http://arxiv.org/abs/2608.28930)|null|
 |**2026-08-26**|**PolyMemDB: A Polyglot Database System for AI Memory Management**|Yu Wang et.al.|[2608.25577](http://arxiv.org/abs/2608.25577)|null|
