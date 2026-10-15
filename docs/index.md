@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
+|**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
+|**2026-10-14**|**Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards**|Min-Young Yu et.al.|[2610.19372](http://arxiv.org/abs/2610.19372)|null|
+|**2026-10-13**|**TRACER: Trace-Regularized Training Against Indirect Prompt Injection**|Kshitij Mishra et.al.|[2610.19133](http://arxiv.org/abs/2610.19133)|null|
+|**2026-10-13**|**DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision**|Yifan Lan et.al.|[2610.19118](http://arxiv.org/abs/2610.19118)|null|
 |**2026-10-13**|**Towards Safe Autonomy for Computer Use**|Dominik Seip et.al.|[2610.18508](http://arxiv.org/abs/2610.18508)|null|
 |**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
 |**2026-10-13**|**Prompt-Injection Probes Learn the Conversation, Not Just the Injection**|Kaan Kale et.al.|[2610.18408](http://arxiv.org/abs/2610.18408)|null|
