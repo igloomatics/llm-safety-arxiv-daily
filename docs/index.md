@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection**|Qianlong Lan et.al.|[2610.20907](http://arxiv.org/abs/2610.20907)|null|
+|**2026-10-14**|**INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems**|Thuy Dung Nguyen et.al.|[2610.20776](http://arxiv.org/abs/2610.20776)|null|
 |**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
 |**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
 |**2026-10-14**|**Policy-Verified Self-Training: Learning Agent Compliance from Verifiable Policy Rewards**|Min-Young Yu et.al.|[2610.19372](http://arxiv.org/abs/2610.19372)|null|
@@ -508,6 +510,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Decomposing Brain-LLM Alignment with Interpretable Semantic Representations**|Camila Kolling et.al.|[2610.21508](http://arxiv.org/abs/2610.21508)|null|
 |**2026-10-12**|**Cross-Protocol Personality Assessment with LLMs: Aligning Behavioral Evidence with Human Ratings**|Wei Shan et.al.|[2610.16050](http://arxiv.org/abs/2610.16050)|null|
 |**2026-10-09**|**When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare**|Priyadarsi Mishra et.al.|[2610.14360](http://arxiv.org/abs/2610.14360)|null|
 |**2026-10-07**|**SafeEvo: Deciphering the Safety Alignment Mechanism and Evolution in Language Models**|Miao Yu et.al.|[2610.09600](http://arxiv.org/abs/2610.09600)|null|
