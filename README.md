@@ -1,4 +1,4 @@
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
+|**2026-10-16**|**Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents**|Farhan Zarif et.al.|[2610.23254](http://arxiv.org/abs/2610.23254)|null|
+|**2026-10-16**|**From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents**|Xianglin Yang et.al.|[2610.22987](http://arxiv.org/abs/2610.22987)|null|
+|**2026-10-16**|**Identify, Classify, Act: Per-Instruction Controlled Compliance for LLMs over External Data**|Zesheng Shi et.al.|[2610.22874](http://arxiv.org/abs/2610.22874)|null|
+|**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|null|
+|**2026-10-15**|**SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors**|Yutong Ke et.al.|[2610.22640](http://arxiv.org/abs/2610.22640)|null|
+|**2026-10-15**|**The Model Knows Better: Defending Medical Multi-Agent Systems Against Prompt Injection**|Fardin Ahsan Sakib et.al.|[2610.22594](http://arxiv.org/abs/2610.22594)|null|
 |**2026-10-14**|**From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection**|Qianlong Lan et.al.|[2610.20907](http://arxiv.org/abs/2610.20907)|null|
 |**2026-10-14**|**INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems**|Thuy Dung Nguyen et.al.|[2610.20776](http://arxiv.org/abs/2610.20776)|null|
 |**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
@@ -516,7 +523,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -666,12 +673,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Understanding LLM Hallucinations Caused by Soft Errors**|Jinghao Wen et.al.|[2610.22520](http://arxiv.org/abs/2610.22520)|null|
 |**2026-10-13**|**Claim Framing as a Driver of LLM Sycophancy**|Jean Seo et.al.|[2610.18159](http://arxiv.org/abs/2610.18159)|null|
 |**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
 |**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
@@ -776,7 +784,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -820,5 +828,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 

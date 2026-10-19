@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
+|**2026-10-16**|**Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents**|Farhan Zarif et.al.|[2610.23254](http://arxiv.org/abs/2610.23254)|null|
+|**2026-10-16**|**From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents**|Xianglin Yang et.al.|[2610.22987](http://arxiv.org/abs/2610.22987)|null|
+|**2026-10-16**|**Identify, Classify, Act: Per-Instruction Controlled Compliance for LLMs over External Data**|Zesheng Shi et.al.|[2610.22874](http://arxiv.org/abs/2610.22874)|null|
+|**2026-10-16**|**Stealthy Poisoning Attacks via Reused KV Cache of Reasoning**|L. Zhu et.al.|[2610.22873](http://arxiv.org/abs/2610.22873)|null|
+|**2026-10-15**|**SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors**|Yutong Ke et.al.|[2610.22640](http://arxiv.org/abs/2610.22640)|null|
+|**2026-10-15**|**The Model Knows Better: Defending Medical Multi-Agent Systems Against Prompt Injection**|Fardin Ahsan Sakib et.al.|[2610.22594](http://arxiv.org/abs/2610.22594)|null|
 |**2026-10-14**|**From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection**|Qianlong Lan et.al.|[2610.20907](http://arxiv.org/abs/2610.20907)|null|
 |**2026-10-14**|**INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems**|Thuy Dung Nguyen et.al.|[2610.20776](http://arxiv.org/abs/2610.20776)|null|
 |**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
@@ -658,6 +665,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Understanding LLM Hallucinations Caused by Soft Errors**|Jinghao Wen et.al.|[2610.22520](http://arxiv.org/abs/2610.22520)|null|
 |**2026-10-13**|**Claim Framing as a Driver of LLM Sycophancy**|Jean Seo et.al.|[2610.18159](http://arxiv.org/abs/2610.18159)|null|
 |**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
 |**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
