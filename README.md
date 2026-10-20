@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
+|**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
+|**2026-10-19**|**SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense**|Yinxiang Wang et.al.|[2610.26013](http://arxiv.org/abs/2610.26013)|null|
+|**2026-10-19**|**RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation**|Yuchen Chen et.al.|[2610.25937](http://arxiv.org/abs/2610.25937)|null|
+|**2026-10-18**|**SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space**|Stavros Damianakis et.al.|[2610.24999](http://arxiv.org/abs/2610.24999)|null|
+|**2026-10-16**|**RATION: Towards Quantitative Risk-Based Access Control for AI Agents**|Yuntao Du et.al.|[2610.24311](http://arxiv.org/abs/2610.24311)|null|
+|**2026-10-16**|**SPIDES: Information-Flow Control for Browser Agents**|Egor Zverev et.al.|[2610.24277](http://arxiv.org/abs/2610.24277)|null|
+|**2026-10-16**|**The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections**|Haoxuan Jia et.al.|[2610.24048](http://arxiv.org/abs/2610.24048)|null|
 |**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
 |**2026-10-16**|**Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents**|Farhan Zarif et.al.|[2610.23254](http://arxiv.org/abs/2610.23254)|null|
 |**2026-10-16**|**From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents**|Xianglin Yang et.al.|[2610.22987](http://arxiv.org/abs/2610.22987)|null|
@@ -523,12 +531,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts**|Shengkun Wang et.al.|[2610.24268](http://arxiv.org/abs/2610.24268)|null|
 |**2026-10-15**|**Decomposing Brain-LLM Alignment with Interpretable Semantic Representations**|Camila Kolling et.al.|[2610.21508](http://arxiv.org/abs/2610.21508)|null|
 |**2026-10-12**|**Cross-Protocol Personality Assessment with LLMs: Aligning Behavioral Evidence with Human Ratings**|Wei Shan et.al.|[2610.16050](http://arxiv.org/abs/2610.16050)|null|
 |**2026-10-09**|**When Pleasing the User Compromises Care: AI Sycophancy in Caregiver-Mediated Healthcare**|Priyadarsi Mishra et.al.|[2610.14360](http://arxiv.org/abs/2610.14360)|null|
@@ -673,12 +682,13 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## LLM Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Desirability Confirmation: Relational Sycophancy in AI Intimate Roleplay**|Huiqian Lai et.al.|[2610.24265](http://arxiv.org/abs/2610.24265)|null|
 |**2026-10-15**|**Understanding LLM Hallucinations Caused by Soft Errors**|Jinghao Wen et.al.|[2610.22520](http://arxiv.org/abs/2610.22520)|null|
 |**2026-10-13**|**Claim Framing as a Driver of LLM Sycophancy**|Jean Seo et.al.|[2610.18159](http://arxiv.org/abs/2610.18159)|null|
 |**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
@@ -784,7 +794,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -828,5 +838,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
