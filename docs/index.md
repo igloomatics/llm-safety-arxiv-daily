@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -528,6 +528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
 |**2026-10-20**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
 |**2026-10-16**|**From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts**|Shengkun Wang et.al.|[2610.24268](http://arxiv.org/abs/2610.24268)|null|
 |**2026-10-15**|**Decomposing Brain-LLM Alignment with Interpretable Semantic Representations**|Camila Kolling et.al.|[2610.21508](http://arxiv.org/abs/2610.21508)|null|
