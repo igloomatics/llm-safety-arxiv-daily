@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection**|Yuyang Gong et.al.|[2610.32531](http://arxiv.org/abs/2610.32531)|null|
+|**2026-10-22**|**Agentic AI Defense: Decode-Time Provenance Binding for MCP**|Eric Yocam et.al.|[2610.31974](http://arxiv.org/abs/2610.31974)|null|
 |**2026-10-22**|**Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action**|Chao Gu et.al.|[2610.31376](http://arxiv.org/abs/2610.31376)|null|
 |**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
 |**2026-10-21**|**Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint**|Peiyang Liu et.al.|[2610.30193](http://arxiv.org/abs/2610.30193)|null|
