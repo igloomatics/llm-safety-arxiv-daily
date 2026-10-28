@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness**|Igor Shilov et.al.|[2610.37657](http://arxiv.org/abs/2610.37657)|null|
+|**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
+|**2026-10-27**|**What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks**|Zihan Chen et.al.|[2610.36422](http://arxiv.org/abs/2610.36422)|null|
+|**2026-10-26**|**SpecGuard: Detecting Multi-Turn LLM Jailbreaks via Specification-Based Runtime Monitoring**|Junle Li et.al.|[2610.36258](http://arxiv.org/abs/2610.36258)|null|
+|**2026-10-26**|**Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol**|Yuepeng Hu et.al.|[2610.36108](http://arxiv.org/abs/2610.36108)|null|
 |**2026-10-26**|**Then there is prompt injection, a malicious email, ...: The Wild Wide West of OpenClaw Agentic System Security**|Mostafijur Rahman Akhond et.al.|[2610.35451](http://arxiv.org/abs/2610.35451)|null|
 |**2026-10-26**|**Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition**|Weihang Niu et.al.|[2610.34777](http://arxiv.org/abs/2610.34777)|null|
 |**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
@@ -692,6 +697,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**LLM Hallucination Detection via Low-rank Multilinear Decomposition**|Devansh Sharma et.al.|[2610.36191](http://arxiv.org/abs/2610.36191)|null|
 |**2026-10-25**|**No Value Is Better Than a Wrong Value: Finding and Handling Erroneous Data in Literature-Mined Datasets for AI**|Achyut Manoj et.al.|[2610.34642](http://arxiv.org/abs/2610.34642)|null|
 |**2026-10-20**|**Hallucinations of Large Language Models in Cross-Language Code Translation: Phenomena and Mitigation**|Yali Du et.al.|[2610.27868](http://arxiv.org/abs/2610.27868)|null|
 |**2026-10-20**|**How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection**|Kaiyang Wan et.al.|[2610.27711](http://arxiv.org/abs/2610.27711)|null|
