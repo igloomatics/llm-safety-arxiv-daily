@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|null|
+|**2026-10-29**|**SEAL: Sealed Queries for Local Sanitization against Indirect Prompt Injection**|Doohyun Kim et.al.|[2610.39758](http://arxiv.org/abs/2610.39758)|null|
+|**2026-10-29**|**REALM: Identifying Minimal Task Assets for LLM Agents**|Zihou Ren et.al.|[2610.39155](http://arxiv.org/abs/2610.39155)|null|
+|**2026-10-29**|**Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection**|Xinyan Wang et.al.|[2610.39122](http://arxiv.org/abs/2610.39122)|null|
+|**2026-10-29**|**PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent Communication**|Bravish Ghosh et.al.|[2610.39109](http://arxiv.org/abs/2610.39109)|null|
+|**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
+|**2026-10-28**|**Where You Inject Matters: The Trust Region Effect in LLM Agents**|Chengquan Guo et.al.|[2610.38867](http://arxiv.org/abs/2610.38867)|null|
+|**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
+|**2026-10-28**|**Post-Training Large Language Models with LLMON**|Basel Shbita et.al.|[2610.38120](http://arxiv.org/abs/2610.38120)|null|
 |**2026-10-27**|**Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness**|Igor Shilov et.al.|[2610.37657](http://arxiv.org/abs/2610.37657)|null|
 |**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
 |**2026-10-27**|**What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks**|Zihan Chen et.al.|[2610.36422](http://arxiv.org/abs/2610.36422)|null|
@@ -546,6 +555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
 |**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
 |**2026-10-20**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
 |**2026-10-16**|**From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts**|Shengkun Wang et.al.|[2610.24268](http://arxiv.org/abs/2610.24268)|null|
