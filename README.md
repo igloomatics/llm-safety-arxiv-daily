@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
+|**2026-10-30**|**Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation**|Shuo Hong et.al.|[2610.41307](http://arxiv.org/abs/2610.41307)|null|
+|**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
+|**2026-10-29**|**LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale**|Anes Abdennebi et.al.|[2610.41072](http://arxiv.org/abs/2610.41072)|null|
+|**2026-10-29**|**CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN**|Sunder Ali Khowaja et.al.|[2610.40744](http://arxiv.org/abs/2610.40744)|null|
 |**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|null|
 |**2026-10-29**|**SEAL: Sealed Queries for Local Sanitization against Indirect Prompt Injection**|Doohyun Kim et.al.|[2610.39758](http://arxiv.org/abs/2610.39758)|null|
 |**2026-10-29**|**REALM: Identifying Minimal Task Assets for LLM Agents**|Zihou Ren et.al.|[2610.39155](http://arxiv.org/abs/2610.39155)|null|
@@ -561,7 +566,7 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## LLM Alignment
 
@@ -715,7 +720,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -831,12 +836,13 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## LLM Privacy
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs**|Synthia Qia Wang et.al.|[2610.41045](http://arxiv.org/abs/2610.41045)|null|
 |**2026-09-28**|**HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models**|Shen Yan et.al.|[2609.35952](http://arxiv.org/abs/2609.35952)|null|
 |**2026-09-28**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
 |**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
@@ -875,5 +881,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 

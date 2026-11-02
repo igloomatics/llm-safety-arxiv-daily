@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
+|**2026-10-30**|**Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation**|Shuo Hong et.al.|[2610.41307](http://arxiv.org/abs/2610.41307)|null|
+|**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
+|**2026-10-29**|**LanG 2.0: Energy-Efficient Agentic AI for Semi-Automated Security Operations at Scale**|Anes Abdennebi et.al.|[2610.41072](http://arxiv.org/abs/2610.41072)|null|
+|**2026-10-29**|**CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN**|Sunder Ali Khowaja et.al.|[2610.40744](http://arxiv.org/abs/2610.40744)|null|
 |**2026-10-29**|**Understanding and Mitigating Role Spoofing in LLMs**|Ezra Edelman et.al.|[2610.40396](http://arxiv.org/abs/2610.40396)|null|
 |**2026-10-29**|**SEAL: Sealed Queries for Local Sanitization against Indirect Prompt Injection**|Doohyun Kim et.al.|[2610.39758](http://arxiv.org/abs/2610.39758)|null|
 |**2026-10-29**|**REALM: Identifying Minimal Task Assets for LLM Agents**|Zihou Ren et.al.|[2610.39155](http://arxiv.org/abs/2610.39155)|null|
@@ -821,6 +826,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs**|Synthia Qia Wang et.al.|[2610.41045](http://arxiv.org/abs/2610.41045)|null|
 |**2026-09-28**|**HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models**|Shen Yan et.al.|[2609.35952](http://arxiv.org/abs/2609.35952)|null|
 |**2026-09-28**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
 |**2026-09-15**|**Beyond the Name: Demographic Leakage in De-Identified Résumés and Evaluation Artifacts in LLM Bias Audits**|Qiangju Chen et.al.|[2609.16501](http://arxiv.org/abs/2609.16501)|null|
