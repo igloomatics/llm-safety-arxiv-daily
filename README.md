@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
+|**2026-11-02**|**SearchInject: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search**|Kainan Zhou et.al.|[2611.02643](http://arxiv.org/abs/2611.02643)|null|
+|**2026-11-02**|**Where Does MCP Security End? A Three-Tier Mitigation Mapping Framework for the OWASP MCP Top 10**|Christopher Krakauer et.al.|[2611.02611](http://arxiv.org/abs/2611.02611)|null|
+|**2026-11-02**|**StateFence: Task-State Protection Against Evidence-Chain Contamination in Blue-Team LLM Agents**|Haowen Dai et.al.|[2611.02605](http://arxiv.org/abs/2611.02605)|null|
+|**2026-11-02**|**Ranked but Not Stopped: Detecting Prompt-Injection Hijacks from Typed Decision Models' Output Probabilities**|Junwei Yao et.al.|[2611.02522](http://arxiv.org/abs/2611.02522)|null|
+|**2026-11-02**|**Benchmark of THReD: Evaluating an LLM Agent and Its Preprocessing Tools for Turning Electronic Health Records into AI-Ready Datasets**|Javad Mohammad Alizadeh et.al.|[2611.02484](http://arxiv.org/abs/2611.02484)|null|
+|**2026-11-02**|**LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents**|Sreehari Sankar et.al.|[2611.02332](http://arxiv.org/abs/2611.02332)|null|
+|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|null|
+|**2026-11-01**|**MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents**|Zhihua Wang et.al.|[2611.01700](http://arxiv.org/abs/2611.01700)|null|
+|**2026-10-31**|**AgentCap: Capability-Based Runtime Authorization for Secure LLM Agent Execution**|Aravinda Kashyap Kabbinamakki Suresh et.al.|[2611.00729](http://arxiv.org/abs/2611.00729)|null|
 |**2026-10-30**|**SecPO: Principled Adversarial Training for Prompt Injection Security**|Sizhe Chen et.al.|[2610.41998](http://arxiv.org/abs/2610.41998)|null|
 |**2026-10-30**|**Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation**|Shuo Hong et.al.|[2610.41307](http://arxiv.org/abs/2610.41307)|null|
 |**2026-10-30**|**AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**|Moiz Ali et.al.|[2610.41181](http://arxiv.org/abs/2610.41181)|null|
@@ -572,7 +582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-13**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
+|**2026-11-02**|**Auditing Representation-Space Fraud Detection: A Bayesian IRL Framework for Calibrated Uncertainty and Its Limits**|Shivam Swarup et.al.|[2611.02673](http://arxiv.org/abs/2611.02673)|null|
+|**2026-11-02**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
 |**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
 |**2026-10-20**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
 |**2026-10-16**|**From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts**|Shengkun Wang et.al.|[2610.24268](http://arxiv.org/abs/2610.24268)|null|
