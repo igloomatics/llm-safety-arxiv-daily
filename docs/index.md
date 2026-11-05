@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-03**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
+|**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
+|**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
+|**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
 |**2026-11-03**|**Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning**|Yao Wang et.al.|[2611.04673](http://arxiv.org/abs/2611.04673)|null|
 |**2026-11-03**|**The Devil is in the Context: Nine Dimensions of Prompt Injection Attacks**|Jiamin Chang et.al.|[2611.04672](http://arxiv.org/abs/2611.04672)|null|
 |**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
@@ -574,6 +576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Evaluating Human-LLM Alignment on Visualization Preference**|Tanmay Bakshi et.al.|[2611.06272](http://arxiv.org/abs/2611.06272)|null|
 |**2026-11-02**|**Auditing Representation-Space Fraud Detection: A Bayesian IRL Framework for Calibrated Uncertainty and Its Limits**|Shivam Swarup et.al.|[2611.02673](http://arxiv.org/abs/2611.02673)|null|
 |**2026-11-02**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
 |**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|

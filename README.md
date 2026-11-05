@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-03**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
+|**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
+|**2026-11-04**|**Securing Web Agents with the Compile-Then-Execute Paradigm**|Annabella Chow et.al.|[2611.06039](http://arxiv.org/abs/2611.06039)|null|
+|**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
 |**2026-11-03**|**Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning**|Yao Wang et.al.|[2611.04673](http://arxiv.org/abs/2611.04673)|null|
 |**2026-11-03**|**The Devil is in the Context: Nine Dimensions of Prompt Injection Attacks**|Jiamin Chang et.al.|[2611.04672](http://arxiv.org/abs/2611.04672)|null|
 |**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
@@ -580,12 +582,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Evaluating Human-LLM Alignment on Visualization Preference**|Tanmay Bakshi et.al.|[2611.06272](http://arxiv.org/abs/2611.06272)|null|
 |**2026-11-02**|**Auditing Representation-Space Fraud Detection: A Bayesian IRL Framework for Calibrated Uncertainty and Its Limits**|Shivam Swarup et.al.|[2611.02673](http://arxiv.org/abs/2611.02673)|null|
 |**2026-11-02**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
 |**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
@@ -735,7 +738,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -851,7 +854,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -896,5 +899,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
