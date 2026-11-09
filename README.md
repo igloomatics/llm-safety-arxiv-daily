@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks**|Mark Heimann et.al.|[2611.08834](http://arxiv.org/abs/2611.08834)|null|
+|**2026-11-06**|**I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents**|Parth Illendula et.al.|[2611.08811](http://arxiv.org/abs/2611.08811)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
 |**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
@@ -586,12 +588,13 @@
 |**2026-02-01**|**SMCP: Secure Model Context Protocol**|Xinyi Hou et.al.|[2602.01129](http://arxiv.org/abs/2602.01129)|null|
 |**2026-01-31**|**Bypassing Prompt Injection Detectors through Evasive Injections**|Md Jahedur Rahman et.al.|[2602.00750](http://arxiv.org/abs/2602.00750)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## LLM Alignment
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal**|Olivia Cognetti et.al.|[2611.08845](http://arxiv.org/abs/2611.08845)|null|
 |**2026-11-04**|**Evaluating Human-LLM Alignment on Visualization Preference**|Tanmay Bakshi et.al.|[2611.06272](http://arxiv.org/abs/2611.06272)|null|
 |**2026-11-02**|**Auditing Representation-Space Fraud Detection: A Bayesian IRL Framework for Calibrated Uncertainty and Its Limits**|Shivam Swarup et.al.|[2611.02673](http://arxiv.org/abs/2611.02673)|null|
 |**2026-11-02**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
@@ -742,7 +745,7 @@
 |**2026-01-24**|**Conformal Feedback Alignment: Quantifying Answer-Level Reliability for Robust LLM Alignment**|Tiejin Chen et.al.|[2601.17329](http://arxiv.org/abs/2601.17329)|null|
 |**2026-01-20**|**CommunityBench: Benchmarking Community-Level Alignment across Diverse Groups and Tasks**|Jiayu Lin et.al.|[2601.13669](http://arxiv.org/abs/2601.13669)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## LLM Hallucination
 
@@ -756,7 +759,7 @@
 |**2026-10-15**|**Understanding LLM Hallucinations Caused by Soft Errors**|Jinghao Wen et.al.|[2610.22520](http://arxiv.org/abs/2610.22520)|null|
 |**2026-10-13**|**Claim Framing as a Driver of LLM Sycophancy**|Jean Seo et.al.|[2610.18159](http://arxiv.org/abs/2610.18159)|null|
 |**2026-10-06**|**The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation**|Jorma Valjakka et.al.|[2610.08026](http://arxiv.org/abs/2610.08026)|null|
-|**2026-10-05**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
+|**2026-11-06**|**Anatomy of LLM Sycophancy: What a Flip Rate Hides**|Haonan Huang et.al.|[2610.06522](http://arxiv.org/abs/2610.06522)|null|
 |**2026-10-01**|**Halluscoring 2026: The first shared task on llms hallucination detection and answer verification**|Aisha Alansari et.al.|[2609.38355](http://arxiv.org/abs/2609.38355)|null|
 |**2026-09-28**|**Fair Fact-Checking: Closing the Cross-Lingual Gap in LLM Factual Judgement with RoSh**|Muhammad Ahmad et.al.|[2609.34678](http://arxiv.org/abs/2609.34678)|null|
 |**2026-09-08**|**SWORD: Wikidata-based Distortions Reveal Hidden Cross-Lingual Inconsistencies in LLM Factual Error Rejection**|Sanghyeok Park et.al.|[2609.09349](http://arxiv.org/abs/2609.09349)|null|
@@ -858,7 +861,7 @@
 |**2026-01-20**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](http://arxiv.org/abs/2601.08036)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## LLM Privacy
 
@@ -903,5 +906,5 @@
 |**2025-10-21**|**Building Trust in Clinical LLMs: Bias Analysis and Dataset Transparency**|Svetlana Maslenkova et.al.|[2510.18556](http://arxiv.org/abs/2510.18556)|null|
 |**2025-10-12**|**Therapeutic AI and the Hidden Risks of Over-Disclosure: An Embedded AI-Literacy Framework for Mental Health Privacy**|Soraya S. Anvari et.al.|[2510.10805](http://arxiv.org/abs/2510.10805)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
