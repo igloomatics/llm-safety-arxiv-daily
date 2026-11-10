@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models**|Julien Delaunay et.al.|[2611.12521](http://arxiv.org/abs/2611.12521)|null|
+|**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
+|**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|
+|**2026-11-09**|**Scaling Adaptive Prompt Injection Attacks with Agent Swarms**|Alexey Kurakin et.al.|[2611.11861](http://arxiv.org/abs/2611.11861)|null|
+|**2026-11-08**|**Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models**|Mustafa S. Aljumaily et.al.|[2611.11571](http://arxiv.org/abs/2611.11571)|null|
+|**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|null|
+|**2026-11-08**|**When Coding Agents Get Arms: Safety Risks Across the Digital-Physical Boundary**|Yiming Sun et.al.|[2611.11438](http://arxiv.org/abs/2611.11438)|null|
+|**2026-11-08**|**Least-Privilege Auditing of Agent Tool Calls with Intent Graphs and Reasoning-Guided Escalation**|Doron Shavit et.al.|[2611.11305](http://arxiv.org/abs/2611.11305)|null|
+|**2026-11-08**|**ErosionBench: Probing Alignment Decay in Enterprise Multi-Agent Systems**|Riya Bharathwaj et.al.|[2611.11266](http://arxiv.org/abs/2611.11266)|null|
+|**2026-11-08**|**Do Benign-Trained Hidden-State Probes Detect Tool Errors Under Adversarial Conditions?**|Bibek Bhandari et.al.|[2611.11172](http://arxiv.org/abs/2611.11172)|null|
 |**2026-11-06**|**Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks**|Mark Heimann et.al.|[2611.08834](http://arxiv.org/abs/2611.08834)|null|
 |**2026-11-06**|**I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents**|Parth Illendula et.al.|[2611.08811](http://arxiv.org/abs/2611.08811)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
@@ -599,7 +609,7 @@
 |**2026-11-02**|**Auditing Representation-Space Fraud Detection: A Bayesian IRL Framework for Calibrated Uncertainty and Its Limits**|Shivam Swarup et.al.|[2611.02673](http://arxiv.org/abs/2611.02673)|null|
 |**2026-11-02**|**Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment**|Junwei Chen et.al.|[2610.37682](http://arxiv.org/abs/2610.37682)|null|
 |**2026-10-21**|**Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics**|Hongyu Li et.al.|[2610.29225](http://arxiv.org/abs/2610.29225)|null|
-|**2026-10-20**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
+|**2026-11-09**|**Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing**|Diego Miguel Lozano et.al.|[2610.27908](http://arxiv.org/abs/2610.27908)|null|
 |**2026-10-16**|**From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts**|Shengkun Wang et.al.|[2610.24268](http://arxiv.org/abs/2610.24268)|null|
 |**2026-10-15**|**Decomposing Brain-LLM Alignment with Interpretable Semantic Representations**|Camila Kolling et.al.|[2610.21508](http://arxiv.org/abs/2610.21508)|null|
 |**2026-10-12**|**Cross-Protocol Personality Assessment with LLMs: Aligning Behavioral Evidence with Human Ratings**|Wei Shan et.al.|[2610.16050](http://arxiv.org/abs/2610.16050)|null|
@@ -751,6 +761,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**From LLM Hallucinations to Inspiration in Creative Work**|Xinrui Lin et.al.|[2611.12337](http://arxiv.org/abs/2611.12337)|null|
 |**2026-10-26**|**LLM Hallucination Detection via Low-rank Multilinear Decomposition**|Devansh Sharma et.al.|[2610.36191](http://arxiv.org/abs/2610.36191)|null|
 |**2026-10-25**|**No Value Is Better Than a Wrong Value: Finding and Handling Erroneous Data in Literature-Mined Datasets for AI**|Achyut Manoj et.al.|[2610.34642](http://arxiv.org/abs/2610.34642)|null|
 |**2026-10-20**|**Hallucinations of Large Language Models in Cross-Language Code Translation: Phenomena and Mitigation**|Yali Du et.al.|[2610.27868](http://arxiv.org/abs/2610.27868)|null|
