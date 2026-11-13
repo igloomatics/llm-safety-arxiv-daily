@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
+|**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
 |**2026-11-11**|**Smart Model Routing for Order-of-Magnitude LLM Cost Reduction**|Hesham Elbakoury et.al.|[2611.15911](http://arxiv.org/abs/2611.15911)|null|
 |**2026-11-09**|**Can the Confidence and Decisions of System 1 Models Be Trusted? An Explainability and Perturbation Audit of Jev-Style Decision Models**|Julien Delaunay et.al.|[2611.12521](http://arxiv.org/abs/2611.12521)|null|
@@ -764,6 +766,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[2611.17235](http://arxiv.org/abs/2611.17235)|null|
 |**2026-11-09**|**From LLM Hallucinations to Inspiration in Creative Work**|Xinrui Lin et.al.|[2611.12337](http://arxiv.org/abs/2611.12337)|null|
 |**2026-10-26**|**LLM Hallucination Detection via Low-rank Multilinear Decomposition**|Devansh Sharma et.al.|[2610.36191](http://arxiv.org/abs/2610.36191)|null|
 |**2026-10-25**|**No Value Is Better Than a Wrong Value: Finding and Handling Erroneous Data in Literature-Mined Datasets for AI**|Achyut Manoj et.al.|[2610.34642](http://arxiv.org/abs/2610.34642)|null|
