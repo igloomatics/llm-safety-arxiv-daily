@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
+|**2026-11-15**|**Risk-certified prompt optimization for LLM-as-a-judge guardrails**|Hussein Jawad et.al.|[2611.20156](http://arxiv.org/abs/2611.20156)|null|
+|**2026-11-15**|**Security of Deep Research Agents: Attack Surface, Defenses, Benchmarks, and Agenda Seeding against Research Planning**|Yang Luo et.al.|[2611.20045](http://arxiv.org/abs/2611.20045)|null|
+|**2026-11-14**|**Agent Authenticator: Passkey-Grade, Hardware-Bound Authentication for AI Agents**|Harish Santhanalakshmi Ganesan et.al.|[2611.19536](http://arxiv.org/abs/2611.19536)|null|
+|**2026-11-14**|**Do Rule-Based Tools Help LLMs Translate Endangered Uralic Languages in the Prompt or over MCP?**|Iaroslav Chelombitko et.al.|[2611.19439](http://arxiv.org/abs/2611.19439)|null|
+|**2026-11-14**|**When the Spec Sheet Lies: Injection Attacks on LLM-Generated Compliance Artifacts**|Adriana Watson et.al.|[2611.19090](http://arxiv.org/abs/2611.19090)|null|
 |**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
@@ -596,6 +602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Contrastive Activation-Guided Zeroth-Order Preference Optimisation for Memory-Efficient LLM Alignment**|Weiyun Huang et.al.|[2611.20635](http://arxiv.org/abs/2611.20635)|null|
 |**2026-11-11**|**VRMaaS: Verifiable Reward-Model-as-a-Service for Trustworthy LLM Alignment**|Guofu Liao et.al.|[2611.14984](http://arxiv.org/abs/2611.14984)|null|
 |**2026-11-06**|**Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal**|Olivia Cognetti et.al.|[2611.08845](http://arxiv.org/abs/2611.08845)|null|
 |**2026-11-04**|**Evaluating Human-LLM Alignment on Visualization Preference**|Tanmay Bakshi et.al.|[2611.06272](http://arxiv.org/abs/2611.06272)|null|
@@ -752,6 +759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**System 1 agents: a method for local, reliable and fast agentic AI**|Eleftherios Tzanis et.al.|[2611.21053](http://arxiv.org/abs/2611.21053)|null|
 |**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[2611.17235](http://arxiv.org/abs/2611.17235)|null|
 |**2026-11-09**|**From LLM Hallucinations to Inspiration in Creative Work**|Xinrui Lin et.al.|[2611.12337](http://arxiv.org/abs/2611.12337)|null|
 |**2026-10-26**|**LLM Hallucination Detection via Low-rank Multilinear Decomposition**|Devansh Sharma et.al.|[2610.36191](http://arxiv.org/abs/2610.36191)|null|
