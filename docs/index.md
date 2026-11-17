@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
