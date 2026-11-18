@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761](http://arxiv.org/abs/2611.22761)|null|
+|**2026-11-17**|**GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**|Chaklam Cheong et.al.|[2611.22223](http://arxiv.org/abs/2611.22223)|null|
+|**2026-11-16**|**Threat Landscape of Vibe Coding and the Road to Secure Autonomy**|Devki Nandan Jha et.al.|[2611.21822](http://arxiv.org/abs/2611.21822)|null|
 |**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
 |**2026-11-15**|**Risk-certified prompt optimization for LLM-as-a-judge guardrails**|Hussein Jawad et.al.|[2611.20156](http://arxiv.org/abs/2611.20156)|null|
 |**2026-11-15**|**Security of Deep Research Agents: Attack Surface, Defenses, Benchmarks, and Agenda Seeding against Research Planning**|Yang Luo et.al.|[2611.20045](http://arxiv.org/abs/2611.20045)|null|
@@ -614,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Margin Dynamics for Large Language Model Alignment**|Xingzi Xu et.al.|[2611.21766](http://arxiv.org/abs/2611.21766)|null|
 |**2026-11-16**|**Contrastive Activation-Guided Zeroth-Order Preference Optimisation for Memory-Efficient LLM Alignment**|Weiyun Huang et.al.|[2611.20635](http://arxiv.org/abs/2611.20635)|null|
 |**2026-11-11**|**VRMaaS: Verifiable Reward-Model-as-a-Service for Trustworthy LLM Alignment**|Guofu Liao et.al.|[2611.14984](http://arxiv.org/abs/2611.14984)|null|
 |**2026-11-06**|**Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal**|Olivia Cognetti et.al.|[2611.08845](http://arxiv.org/abs/2611.08845)|null|
@@ -773,6 +777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**PS-HalluBench: Taxonomy-Driven Benchmarking of LLM Hallucinations in Power Systems**|S. M. Monzurul Hoque Chowdhury et.al.|[2611.22012](http://arxiv.org/abs/2611.22012)|null|
 |**2026-11-16**|**System 1 agents: a method for local, reliable and fast agentic AI**|Eleftherios Tzanis et.al.|[2611.21053](http://arxiv.org/abs/2611.21053)|null|
 |**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[2611.17235](http://arxiv.org/abs/2611.17235)|null|
 |**2026-11-09**|**From LLM Hallucinations to Inspiration in Creative Work**|Xinrui Lin et.al.|[2611.12337](http://arxiv.org/abs/2611.12337)|null|
