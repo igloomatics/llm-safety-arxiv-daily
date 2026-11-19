@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
+|**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|null|
+|**2026-11-18**|**What Survives the Shift from Text to Pixels? Conditional Protection against Prompt Injection in Image-Rendered Documents**|Haoyang Liu et.al.|[2611.24231](http://arxiv.org/abs/2611.24231)|null|
+|**2026-11-18**|**Guarding the Kingdom of Skill-Based Agents in the AI Dynasty of Computation: Control-Flow Integrity for Agent Skills**|Bonan Ruan et.al.|[2611.24185](http://arxiv.org/abs/2611.24185)|null|
+|**2026-11-17**|**Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness**|Deep Shah et.al.|[2611.23346](http://arxiv.org/abs/2611.23346)|null|
 |**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761](http://arxiv.org/abs/2611.22761)|null|
 |**2026-11-17**|**GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**|Chaklam Cheong et.al.|[2611.22223](http://arxiv.org/abs/2611.22223)|null|
 |**2026-11-16**|**Threat Landscape of Vibe Coding and the Road to Secure Autonomy**|Devki Nandan Jha et.al.|[2611.21822](http://arxiv.org/abs/2611.21822)|null|
@@ -763,6 +768,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution**|Sijia Zhong et.al.|[2611.23530](http://arxiv.org/abs/2611.23530)|null|
 |**2026-11-16**|**PS-HalluBench: Taxonomy-Driven Benchmarking of LLM Hallucinations in Power Systems**|S. M. Monzurul Hoque Chowdhury et.al.|[2611.22012](http://arxiv.org/abs/2611.22012)|null|
 |**2026-11-16**|**System 1 agents: a method for local, reliable and fast agentic AI**|Eleftherios Tzanis et.al.|[2611.21053](http://arxiv.org/abs/2611.21053)|null|
 |**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[2611.17235](http://arxiv.org/abs/2611.17235)|null|
