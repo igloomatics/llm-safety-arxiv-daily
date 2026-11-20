@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
+|**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
 |**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|null|
 |**2026-11-18**|**What Survives the Shift from Text to Pixels? Conditional Protection against Prompt Injection in Image-Rendered Documents**|Haoyang Liu et.al.|[2611.24231](http://arxiv.org/abs/2611.24231)|null|
@@ -768,6 +770,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**One Framework to Diagnose Them All: A Stratified Benchmark for Bengali LLM Hallucination**|Asif Shahriyar Sushmit et.al.|[2611.26336](http://arxiv.org/abs/2611.26336)|null|
 |**2026-11-17**|**Dreaming Up Authors: Factual Prevalence and LLM Hallucinations in Academic Authorship Attribution**|Sijia Zhong et.al.|[2611.23530](http://arxiv.org/abs/2611.23530)|null|
 |**2026-11-16**|**PS-HalluBench: Taxonomy-Driven Benchmarking of LLM Hallucinations in Power Systems**|S. M. Monzurul Hoque Chowdhury et.al.|[2611.22012](http://arxiv.org/abs/2611.22012)|null|
 |**2026-11-16**|**System 1 agents: a method for local, reliable and fast agentic AI**|Eleftherios Tzanis et.al.|[2611.21053](http://arxiv.org/abs/2611.21053)|null|
