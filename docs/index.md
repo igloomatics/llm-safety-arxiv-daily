@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions**|Ruichao Liang et.al.|[2611.27046](http://arxiv.org/abs/2611.27046)|null|
+|**2026-11-20**|**Subverting Tool Arguments: Defense-Evading Metadata Poisoning in LLM Agents**|Shih-Chieh Dai et.al.|[2611.27041](http://arxiv.org/abs/2611.27041)|null|
+|**2026-11-20**|**Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents**|Deepak Waghmare et.al.|[2611.26966](http://arxiv.org/abs/2611.26966)|null|
 |**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
 |**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
