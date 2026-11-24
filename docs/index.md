@@ -2,11 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills**|Kaixuan Li et.al.|[2611.30932](http://arxiv.org/abs/2611.30932)|null|
+|**2026-11-23**|**AgentBouncer: Defending Software Engineering Agents via Dynamic System-Call Mediation**|Pascal Joos et.al.|[2611.30621](http://arxiv.org/abs/2611.30621)|null|
+|**2026-11-23**|**Conartist: Adaptive Agentic Red-Teaming of Computer-Using Agents against Multi-Step Prompt Injection**|Jiaqi Rong et.al.|[2611.29977](http://arxiv.org/abs/2611.29977)|null|
+|**2026-11-22**|**Relativising Integrity and Robustness: Prompt Injection and Partitioned Enclaves**|Brijesh Dongol et.al.|[2611.29802](http://arxiv.org/abs/2611.29802)|null|
+|**2026-11-22**|**Benchmarking Web Agent Defenses Against Adaptive Visual Prompt Injection**|Haichuan Zhang et.al.|[2611.29268](http://arxiv.org/abs/2611.29268)|null|
+|**2026-11-21**|**Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub**|Gabi Nakibly et.al.|[2611.28763](http://arxiv.org/abs/2611.28763)|null|
+|**2026-11-21**|**Beyond Unit Tests: Path-Aware Rubric-Guided LLM Autograding of Notebooks**|Salman Hajizada et.al.|[2611.28565](http://arxiv.org/abs/2611.28565)|null|
+|**2026-11-21**|**Automated Safety Analysis for Agentic Workflows**|Yanju Chen et.al.|[2611.28469](http://arxiv.org/abs/2611.28469)|null|
 |**2026-11-20**|**Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions**|Ruichao Liang et.al.|[2611.27046](http://arxiv.org/abs/2611.27046)|null|
 |**2026-11-20**|**Subverting Tool Arguments: Defense-Evading Metadata Poisoning in LLM Agents**|Shih-Chieh Dai et.al.|[2611.27041](http://arxiv.org/abs/2611.27041)|null|
 |**2026-11-20**|**Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents**|Deepak Waghmare et.al.|[2611.26966](http://arxiv.org/abs/2611.26966)|null|
