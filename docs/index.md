@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 ## LLM Safety
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -901,6 +901,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Training decision models for simulating human respondents**|Davood Wadi et.al.|[2611.31613](http://arxiv.org/abs/2611.31613)|null|
 |**2026-10-29**|**Measuring Personal Information Exposure in Mental Health-Related Conversations with LLMs**|Synthia Qia Wang et.al.|[2610.41045](http://arxiv.org/abs/2610.41045)|null|
 |**2026-09-28**|**HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models**|Shen Yan et.al.|[2609.35952](http://arxiv.org/abs/2609.35952)|null|
 |**2026-09-28**|**RupeeBias: Auditing Demographic Bias in Indian Economic Guidance from Large Language Models**|Pavithra P M Nair et.al.|[2609.31245](http://arxiv.org/abs/2609.31245)|null|
