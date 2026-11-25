@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents**|Jie Li et.al.|[2611.32958](http://arxiv.org/abs/2611.32958)|null|
+|**2026-11-24**|**CAPTA: Identifying LLMs Behind AI Agents**|Kailun Yan et.al.|[2611.32686](http://arxiv.org/abs/2611.32686)|null|
+|**2026-11-24**|**LLM Agent Authorization Across Context Compaction**|Zeming Fei et.al.|[2611.32194](http://arxiv.org/abs/2611.32194)|null|
+|**2026-11-23**|**ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection**|Yi Han et.al.|[2611.31424](http://arxiv.org/abs/2611.31424)|null|
 |**2026-11-23**|**Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills**|Kaixuan Li et.al.|[2611.30932](http://arxiv.org/abs/2611.30932)|null|
 |**2026-11-23**|**AgentBouncer: Defending Software Engineering Agents via Dynamic System-Call Mediation**|Pascal Joos et.al.|[2611.30621](http://arxiv.org/abs/2611.30621)|null|
 |**2026-11-23**|**Conartist: Adaptive Agentic Red-Teaming of Computer-Using Agents against Multi-Step Prompt Injection**|Jiaqi Rong et.al.|[2611.29977](http://arxiv.org/abs/2611.29977)|null|
