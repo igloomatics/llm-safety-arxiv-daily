@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems**|Manit Baser et.al.|[2611.34278](http://arxiv.org/abs/2611.34278)|null|
+|**2026-11-25**|**MINE: A Training-Free Defense against Indirect Prompt Injection via Mutual Information and Embedding Variance**|Truong Phan et.al.|[2611.34188](http://arxiv.org/abs/2611.34188)|null|
+|**2026-11-25**|**The Detour Is the Danger: Preserving Security During LLM Agent Recovery**|Boyang Ma et.al.|[2611.33605](http://arxiv.org/abs/2611.33605)|null|
+|**2026-11-24**|**AVERT: Anomalous Value Erasure with Response Testing against Visual Prompt Injection**|Newt Hue-Nam K. Nguyen et.al.|[2611.33532](http://arxiv.org/abs/2611.33532)|null|
+|**2026-11-24**|**Poisoning Self-Evolving Security Policies in LLM Agents**|Aymen Noor et.al.|[2611.33385](http://arxiv.org/abs/2611.33385)|null|
 |**2026-11-24**|**Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents**|Jie Li et.al.|[2611.32958](http://arxiv.org/abs/2611.32958)|null|
 |**2026-11-24**|**CAPTA: Identifying LLMs Behind AI Agents**|Kailun Yan et.al.|[2611.32686](http://arxiv.org/abs/2611.32686)|null|
 |**2026-11-24**|**LLM Agent Authorization Across Context Compaction**|Zeming Fei et.al.|[2611.32194](http://arxiv.org/abs/2611.32194)|null|
